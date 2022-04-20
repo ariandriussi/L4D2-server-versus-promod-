@@ -1,0 +1,161 @@
+L 09/01/2020 - 00:27:38: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 00:27:38: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 00:27:42: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 00:27:43: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 00:28:01: [SM] Changed map to "c1m2_streets"
+L 09/01/2020 - 00:28:02: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 00:31:13: [basecommands.smx] "Console<0><Console><Console>" changed map to "c1m1_hotel"
+L 09/01/2020 - 00:31:16: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 00:31:19: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 00:36:13: Log file closed.
+L 09/01/2020 - 00:37:46: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 00:37:46: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 00:37:47: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 00:37:47: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 00:37:52: [SM] Changed map to "c1m2_streets"
+L 09/01/2020 - 00:37:52: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 00:38:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/01/2020 - 00:39:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_alltalk") (value "1")
+L 09/01/2020 - 00:39:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_alltalk") (value "0")
+L 09/01/2020 - 00:39:53: Log file closed.
+L 09/01/2020 - 00:48:34: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 00:48:34: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 00:48:35: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 00:48:35: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 00:48:40: [SM] Changed map to "c1m2_streets"
+L 09/01/2020 - 00:48:40: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 00:49:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/01/2020 - 00:50:27: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 09/01/2020 - 00:52:32: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 09/01/2020 - 00:53:00: Log file closed.
+L 09/01/2020 - 01:03:22: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 01:03:22: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 01:03:23: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 01:03:23: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 01:03:28: [SM] Changed map to "c1m2_streets"
+L 09/01/2020 - 01:03:29: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 01:04:31: [basecommands.smx] "Console<0><Console><Console>" changed map to "c1m1_hotel"
+L 09/01/2020 - 01:04:34: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 01:04:38: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 01:08:49: Log file closed.
+L 09/01/2020 - 17:40:58: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 17:40:58: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 17:41:02: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 17:41:02: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 17:41:23: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 17:41:23: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 17:42:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/01/2020 - 17:43:20: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 17:44:37: Log file closed.
+L 09/01/2020 - 17:45:25: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 17:45:25: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 17:45:25: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 17:45:25: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 17:45:30: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 17:45:30: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 17:46:16: Log file closed.
+L 09/01/2020 - 17:46:50: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 17:46:50: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 17:46:51: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 17:46:51: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 17:46:56: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 17:46:57: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 17:48:14: [admin_hp.smx]  
+L 09/01/2020 - 17:48:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/01/2020 - 17:48:35: [admin_hp.smx]  
+L 09/01/2020 - 17:49:40: [admin_hp.smx]  
+L 09/01/2020 - 17:50:18: Log file closed.
+L 09/01/2020 - 20:01:28: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 20:01:28: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 20:01:31: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 20:01:31: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 20:01:51: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 20:01:52: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 20:03:09: Log file closed.
+L 09/01/2020 - 20:11:06: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 20:11:06: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 20:11:10: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 20:11:10: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 20:11:31: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 20:11:31: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 20:22:00: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/01/2020 - 20:22:00: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/01/2020 - 20:22:00: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/01/2020 - 20:22:00: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/01/2020 - 20:22:00: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/01/2020 - 20:22:01: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/01/2020 - 20:22:01: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/01/2020 - 20:22:04: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/01/2020 - 20:22:59: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 20:37:11: -------- Mapchange to c1m3_mall --------
+L 09/01/2020 - 20:38:08: -------- Mapchange to c5m1_waterfront --------
+L 09/01/2020 - 20:45:04: -------- Mapchange to c5m2_park --------
+L 09/01/2020 - 21:01:07: -------- Mapchange to c5m3_cemetery --------
+L 09/01/2020 - 21:20:05: -------- Mapchange to c5m4_quarter --------
+L 09/01/2020 - 21:23:46: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed map to "c2m1_highway"
+L 09/01/2020 - 21:23:49: [SM] Changed map to "c2m1_highway"
+L 09/01/2020 - 21:23:54: -------- Mapchange to c2m1_highway --------
+L 09/01/2020 - 21:27:17: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/01/2020 - 21:33:04: [basecomm.smx] "Isabella<2><STEAM_1:0:162762726><>" muted "꧁ঔৣ☬CoPiTo☬ঔৣ꧂<263><STEAM_1:0:548484065><>"
+L 09/01/2020 - 21:33:57: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" kicked "M.V.P<47><STEAM_1:0:103085789><>" (reason "")
+L 09/01/2020 - 21:37:42: -------- Mapchange to c2m2_fairgrounds --------
+L 09/01/2020 - 21:39:18: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/01/2020 - 21:41:21: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/01/2020 - 21:41:26: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/01/2020 - 21:42:16: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/01/2020 - 21:42:24: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/01/2020 - 21:58:02: [basebans.smx] "Isabella<2><STEAM_1:0:162762726><>" banned "Mirko<318><STEAM_1:1:127847744><>" (minutes "0") (reason "Troll")
+L 09/01/2020 - 22:00:55: -------- Mapchange to c2m3_coaster --------
+L 09/01/2020 - 22:02:39: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/01/2020 - 22:02:45: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/01/2020 - 22:17:58: -------- Mapchange to c2m4_barns --------
+L 09/01/2020 - 22:34:19: -------- Mapchange to c2m5_concert --------
+L 09/01/2020 - 22:49:24: Log file closed.
+L 09/01/2020 - 23:12:35: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 23:12:35: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 23:12:39: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 23:12:39: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 23:12:54: [SM] Changed map to "c1m2_streets"
+L 09/01/2020 - 23:12:54: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 23:13:15: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Rochelle<3><BOT><>"
+L 09/01/2020 - 23:13:15: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Ellis<4><BOT><>"
+L 09/01/2020 - 23:13:15: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Coach<5><BOT><>"
+L 09/01/2020 - 23:13:16: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Isabella<2><STEAM_1:0:162762726><>"
+L 09/01/2020 - 23:15:24: Log file closed.
+L 09/01/2020 - 23:26:54: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 23:26:54: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 23:26:55: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 23:26:55: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 23:27:04: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 23:27:04: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 23:28:35: -------- Mapchange to c1m2_streets --------
+L 09/01/2020 - 23:29:11: [basebans.smx] "Isabella<7><STEAM_1:0:162762726><>" banned "Isabella<7><STEAM_1:0:162762726><>" (minutes "0") (reason "afk")
+L 09/01/2020 - 23:29:32: Log file closed.
+L 09/01/2020 - 23:41:28: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 23:41:28: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 23:41:29: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 23:41:29: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 23:41:34: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 23:41:34: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 23:48:52: Log file closed.
+L 09/01/2020 - 23:49:17: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 23:49:17: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 23:49:18: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 23:49:18: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 23:49:23: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 23:49:23: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 23:51:25: Log file closed.
+L 09/01/2020 - 23:56:23: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 23:56:23: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 23:56:24: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 23:56:24: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 23:56:29: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 23:56:29: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 23:57:45: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Hunter<6><BOT><>"
+L 09/01/2020 - 23:58:39: Log file closed.
+L 09/01/2020 - 23:59:33: SourceMod log file session started (file "L20200901.log") (Version "1.8.0.6041")
+L 09/01/2020 - 23:59:33: -------- Mapchange to c1m1_hotel --------
+L 09/01/2020 - 23:59:34: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/01/2020 - 23:59:34: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/01/2020 - 23:59:39: [SM] Changed map to "c1m1_hotel"
+L 09/01/2020 - 23:59:39: -------- Mapchange to c1m1_hotel --------

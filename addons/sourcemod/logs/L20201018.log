@@ -1,0 +1,1197 @@
+L 10/18/2020 - 11:49:53: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 11:49:53: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 11:50:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 11:50:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 11:50:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 11:50:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 11:55:15: [admin_hp.smx]  
+L 10/18/2020 - 11:58:05: [admin_hp.smx]  
+L 10/18/2020 - 11:59:21: Log file closed.
+L 10/18/2020 - 14:07:41: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 14:07:41: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 14:07:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 14:08:08: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 14:08:08: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 14:08:08: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 14:08:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199041508110
+L 10/18/2020 - 14:08:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199041508110
+L 10/18/2020 - 14:08:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199041508110/?xml=1
+L 10/18/2020 - 14:08:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198943016638
+L 10/18/2020 - 14:08:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198943016638
+L 10/18/2020 - 14:08:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198943016638/?xml=1
+L 10/18/2020 - 14:08:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198302877906
+L 10/18/2020 - 14:08:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198302877906
+L 10/18/2020 - 14:08:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198302877906/?xml=1
+L 10/18/2020 - 14:09:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198392331229
+L 10/18/2020 - 14:09:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198392331229
+L 10/18/2020 - 14:09:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198392331229/?xml=1
+L 10/18/2020 - 14:09:20: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198230751164
+L 10/18/2020 - 14:09:20: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198230751164
+L 10/18/2020 - 14:09:20: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198230751164/?xml=1
+L 10/18/2020 - 14:11:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198142683657
+L 10/18/2020 - 14:11:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198142683657
+L 10/18/2020 - 14:11:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198142683657/?xml=1
+L 10/18/2020 - 14:11:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198815031358
+L 10/18/2020 - 14:11:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198815031358
+L 10/18/2020 - 14:11:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198815031358/?xml=1
+L 10/18/2020 - 14:12:08: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199053132036
+L 10/18/2020 - 14:12:08: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199053132036
+L 10/18/2020 - 14:12:08: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199053132036/?xml=1
+L 10/18/2020 - 14:13:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198882034446
+L 10/18/2020 - 14:13:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198882034446
+L 10/18/2020 - 14:13:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198882034446/?xml=1
+L 10/18/2020 - 14:22:41: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "KennedyWoman<10><STEAM_1:0:135242718><>" (reason "")
+L 10/18/2020 - 14:22:59: -------- Mapchange to c2m2_fairgrounds --------
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 14:23:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 14:23:46: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561197968568617
+L 10/18/2020 - 14:23:46: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561197968568617
+L 10/18/2020 - 14:23:46: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561197968568617/?xml=1
+L 10/18/2020 - 14:37:07: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198268074131
+L 10/18/2020 - 14:37:07: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198268074131
+L 10/18/2020 - 14:37:07: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198268074131/?xml=1
+L 10/18/2020 - 14:57:45: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 14:57:45: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 14:57:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 14:58:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 14:58:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 14:58:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 14:58:37: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561197968568617
+L 10/18/2020 - 14:58:37: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561197968568617
+L 10/18/2020 - 14:58:37: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561197968568617/?xml=1
+L 10/18/2020 - 15:04:27: Log file closed.
+L 10/18/2020 - 15:47:13: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 15:47:13: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 15:47:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 15:47:46: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 15:47:46: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 15:47:46: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 15:48:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561197968568617
+L 10/18/2020 - 15:48:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561197968568617
+L 10/18/2020 - 15:48:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561197968568617/?xml=1
+L 10/18/2020 - 15:50:54: Log file closed.
+L 10/18/2020 - 16:48:41: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 16:48:41: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 16:51:33: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 16:51:33: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 16:51:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 16:51:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 16:51:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 16:51:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 16:55:00: [admin_hp.smx]  
+L 10/18/2020 - 16:56:04: [admin_hp.smx]  
+L 10/18/2020 - 16:59:15: Log file closed.
+L 10/18/2020 - 17:00:18: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 17:00:18: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 17:00:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 17:00:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 17:00:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 17:00:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 17:04:15: [admin_hp.smx]  
+L 10/18/2020 - 17:04:15: [admin_hp.smx]  
+L 10/18/2020 - 17:04:15: [admin_hp.smx]  
+L 10/18/2020 - 17:04:15: [admin_hp.smx]  
+L 10/18/2020 - 17:04:15: [admin_hp.smx]  
+L 10/18/2020 - 17:04:16: [admin_hp.smx]  
+L 10/18/2020 - 17:04:16: [admin_hp.smx]  
+L 10/18/2020 - 17:04:16: [admin_hp.smx]  
+L 10/18/2020 - 17:04:16: [admin_hp.smx]  
+L 10/18/2020 - 17:04:16: [admin_hp.smx]  
+L 10/18/2020 - 17:04:17: [admin_hp.smx]  
+L 10/18/2020 - 17:04:17: [admin_hp.smx]  
+L 10/18/2020 - 17:04:17: [admin_hp.smx]  
+L 10/18/2020 - 17:04:17: [admin_hp.smx]  
+L 10/18/2020 - 17:04:17: [admin_hp.smx]  
+L 10/18/2020 - 17:04:17: [admin_hp.smx]  
+L 10/18/2020 - 17:04:18: [admin_hp.smx]  
+L 10/18/2020 - 17:04:18: [admin_hp.smx]  
+L 10/18/2020 - 17:04:18: [admin_hp.smx]  
+L 10/18/2020 - 17:04:18: [admin_hp.smx]  
+L 10/18/2020 - 17:04:18: [admin_hp.smx]  
+L 10/18/2020 - 17:04:18: [admin_hp.smx]  
+L 10/18/2020 - 17:04:19: [admin_hp.smx]  
+L 10/18/2020 - 17:04:19: [admin_hp.smx]  
+L 10/18/2020 - 17:04:19: [admin_hp.smx]  
+L 10/18/2020 - 17:04:19: [admin_hp.smx]  
+L 10/18/2020 - 17:04:19: [admin_hp.smx]  
+L 10/18/2020 - 17:04:19: [admin_hp.smx]  
+L 10/18/2020 - 17:04:20: [admin_hp.smx]  
+L 10/18/2020 - 17:04:20: [admin_hp.smx]  
+L 10/18/2020 - 17:04:20: [admin_hp.smx]  
+L 10/18/2020 - 17:04:20: [admin_hp.smx]  
+L 10/18/2020 - 17:04:20: [admin_hp.smx]  
+L 10/18/2020 - 17:04:20: [admin_hp.smx]  
+L 10/18/2020 - 17:04:21: [admin_hp.smx]  
+L 10/18/2020 - 17:04:21: [admin_hp.smx]  
+L 10/18/2020 - 17:04:21: [admin_hp.smx]  
+L 10/18/2020 - 17:04:21: [admin_hp.smx]  
+L 10/18/2020 - 17:04:21: [admin_hp.smx]  
+L 10/18/2020 - 17:04:21: [admin_hp.smx]  
+L 10/18/2020 - 17:04:22: [admin_hp.smx]  
+L 10/18/2020 - 17:07:10: Log file closed.
+L 10/18/2020 - 17:16:11: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 17:16:11: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 17:16:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 17:16:36: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 17:16:36: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 17:16:36: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 17:17:01: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198798889128
+L 10/18/2020 - 17:17:01: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198798889128
+L 10/18/2020 - 17:17:01: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198798889128/?xml=1
+L 10/18/2020 - 17:17:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198140122594
+L 10/18/2020 - 17:17:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198140122594
+L 10/18/2020 - 17:17:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198140122594/?xml=1
+L 10/18/2020 - 17:17:37: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198268224989
+L 10/18/2020 - 17:17:37: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198268224989
+L 10/18/2020 - 17:17:37: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198268224989/?xml=1
+L 10/18/2020 - 17:17:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561197968568617
+L 10/18/2020 - 17:17:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561197968568617
+L 10/18/2020 - 17:17:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561197968568617/?xml=1
+L 10/18/2020 - 17:18:12: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198865709444
+L 10/18/2020 - 17:18:12: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198865709444
+L 10/18/2020 - 17:18:12: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198865709444/?xml=1
+L 10/18/2020 - 17:18:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199062306335
+L 10/18/2020 - 17:18:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199062306335
+L 10/18/2020 - 17:18:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199062306335/?xml=1
+L 10/18/2020 - 17:18:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198441839021
+L 10/18/2020 - 17:18:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198441839021
+L 10/18/2020 - 17:18:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198441839021/?xml=1
+L 10/18/2020 - 17:19:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199048795317
+L 10/18/2020 - 17:19:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199048795317
+L 10/18/2020 - 17:19:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199048795317/?xml=1
+L 10/18/2020 - 17:19:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198855126955
+L 10/18/2020 - 17:19:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198855126955
+L 10/18/2020 - 17:19:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198855126955/?xml=1
+L 10/18/2020 - 17:20:38: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199094363699
+L 10/18/2020 - 17:20:38: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199094363699
+L 10/18/2020 - 17:20:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199094363699/?xml=1
+L 10/18/2020 - 17:23:37: -------- Mapchange to c8m1_apartment --------
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 17:23:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 17:24:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561197968568617
+L 10/18/2020 - 17:24:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561197968568617
+L 10/18/2020 - 17:24:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561197968568617/?xml=1
+L 10/18/2020 - 17:25:40: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198434490511
+L 10/18/2020 - 17:25:40: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198434490511
+L 10/18/2020 - 17:25:40: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198434490511/?xml=1
+L 10/18/2020 - 17:25:43: [admin_hp.smx]  
+L 10/18/2020 - 17:25:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198131681064
+L 10/18/2020 - 17:25:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198131681064
+L 10/18/2020 - 17:25:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198131681064/?xml=1
+L 10/18/2020 - 17:26:20: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198121844238
+L 10/18/2020 - 17:26:20: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198121844238
+L 10/18/2020 - 17:26:20: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198121844238/?xml=1
+L 10/18/2020 - 17:26:33: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198799294691
+L 10/18/2020 - 17:26:33: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198799294691
+L 10/18/2020 - 17:26:33: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198799294691/?xml=1
+L 10/18/2020 - 17:27:19: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198282290818
+L 10/18/2020 - 17:27:19: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198282290818
+L 10/18/2020 - 17:27:19: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198282290818/?xml=1
+L 10/18/2020 - 17:27:25: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198246980554
+L 10/18/2020 - 17:27:25: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198246980554
+L 10/18/2020 - 17:27:25: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198246980554/?xml=1
+L 10/18/2020 - 17:27:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198357171498
+L 10/18/2020 - 17:27:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198357171498
+L 10/18/2020 - 17:27:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198357171498/?xml=1
+L 10/18/2020 - 17:27:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199088159893
+L 10/18/2020 - 17:27:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199088159893
+L 10/18/2020 - 17:27:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199088159893/?xml=1
+L 10/18/2020 - 17:33:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198199200537
+L 10/18/2020 - 17:33:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198199200537
+L 10/18/2020 - 17:33:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198199200537/?xml=1
+L 10/18/2020 - 17:33:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198365733183
+L 10/18/2020 - 17:33:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198365733183
+L 10/18/2020 - 17:33:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198365733183/?xml=1
+L 10/18/2020 - 17:34:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198101632964
+L 10/18/2020 - 17:34:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198101632964
+L 10/18/2020 - 17:34:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198101632964/?xml=1
+L 10/18/2020 - 17:35:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198112381435
+L 10/18/2020 - 17:35:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198112381435
+L 10/18/2020 - 17:35:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198112381435/?xml=1
+L 10/18/2020 - 17:36:11: -------- Mapchange to c8m2_subway --------
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 17:36:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 17:40:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199093770730
+L 10/18/2020 - 17:40:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199093770730
+L 10/18/2020 - 17:40:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199093770730/?xml=1
+L 10/18/2020 - 17:41:33: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198311901995
+L 10/18/2020 - 17:41:33: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198311901995
+L 10/18/2020 - 17:41:33: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198311901995/?xml=1
+L 10/18/2020 - 17:43:10: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199050994978
+L 10/18/2020 - 17:43:10: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199050994978
+L 10/18/2020 - 17:43:10: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199050994978/?xml=1
+L 10/18/2020 - 17:44:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199040654691
+L 10/18/2020 - 17:44:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199040654691
+L 10/18/2020 - 17:44:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199040654691/?xml=1
+L 10/18/2020 - 17:45:06: [basebans.smx] "Duяåznlто™<30><STEAM_1:1:4151444><>" banned "DuendeAzariel<78><STEAM_1:0:566752501><>" (minutes "0") (reason "Insoportable")
+L 10/18/2020 - 17:45:13: -------- Mapchange to c8m3_sewers --------
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 17:45:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 17:46:10: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198254671315
+L 10/18/2020 - 17:46:10: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198254671315
+L 10/18/2020 - 17:46:10: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198254671315/?xml=1
+L 10/18/2020 - 17:47:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198138192038
+L 10/18/2020 - 17:47:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198138192038
+L 10/18/2020 - 17:47:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198138192038/?xml=1
+L 10/18/2020 - 17:53:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198008067031
+L 10/18/2020 - 17:53:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198008067031
+L 10/18/2020 - 17:53:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198008067031/?xml=1
+L 10/18/2020 - 17:54:36: [basecommands.smx] "Duяåznlто™<30><STEAM_1:1:4151444><>" kicked "dani<103><STEAM_1:1:23900651><>" (reason "")
+L 10/18/2020 - 17:56:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198022903180
+L 10/18/2020 - 17:56:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198022903180
+L 10/18/2020 - 17:56:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198022903180/?xml=1
+L 10/18/2020 - 17:57:45: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199071459088
+L 10/18/2020 - 17:57:45: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199071459088
+L 10/18/2020 - 17:57:45: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199071459088/?xml=1
+L 10/18/2020 - 17:58:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199093351397
+L 10/18/2020 - 17:58:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199093351397
+L 10/18/2020 - 17:58:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199093351397/?xml=1
+L 10/18/2020 - 18:01:51: -------- Mapchange to c8m4_interior --------
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 18:01:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 18:07:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199022674547
+L 10/18/2020 - 18:07:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199022674547
+L 10/18/2020 - 18:07:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199022674547/?xml=1
+L 10/18/2020 - 18:08:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199086541021
+L 10/18/2020 - 18:08:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199086541021
+L 10/18/2020 - 18:08:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199086541021/?xml=1
+L 10/18/2020 - 18:09:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198966476289
+L 10/18/2020 - 18:09:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198966476289
+L 10/18/2020 - 18:09:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198966476289/?xml=1
+L 10/18/2020 - 18:12:42: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199031259083
+L 10/18/2020 - 18:12:42: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199031259083
+L 10/18/2020 - 18:12:42: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199031259083/?xml=1
+L 10/18/2020 - 18:15:27: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198373067537
+L 10/18/2020 - 18:15:27: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198373067537
+L 10/18/2020 - 18:15:27: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198373067537/?xml=1
+L 10/18/2020 - 18:17:06: -------- Mapchange to c8m5_rooftop --------
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 18:17:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 18:18:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198840227073
+L 10/18/2020 - 18:18:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198840227073
+L 10/18/2020 - 18:18:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198840227073/?xml=1
+L 10/18/2020 - 18:19:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198073070252
+L 10/18/2020 - 18:19:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198073070252
+L 10/18/2020 - 18:19:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198073070252/?xml=1
+L 10/18/2020 - 18:19:38: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198945183568
+L 10/18/2020 - 18:19:38: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198945183568
+L 10/18/2020 - 18:19:38: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198945183568/?xml=1
+L 10/18/2020 - 18:20:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198395535096
+L 10/18/2020 - 18:20:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198395535096
+L 10/18/2020 - 18:20:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198395535096/?xml=1
+L 10/18/2020 - 18:33:09: -------- Mapchange to c14m1_junkyard --------
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 18:33:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 18:34:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198047510617
+L 10/18/2020 - 18:34:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198047510617
+L 10/18/2020 - 18:34:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198047510617/?xml=1
+L 10/18/2020 - 18:35:00: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198904724295
+L 10/18/2020 - 18:35:00: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198904724295
+L 10/18/2020 - 18:35:00: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198904724295/?xml=1
+L 10/18/2020 - 18:35:12: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199031259083
+L 10/18/2020 - 18:35:12: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199031259083
+L 10/18/2020 - 18:35:12: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199031259083/?xml=1
+L 10/18/2020 - 18:35:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198983370608
+L 10/18/2020 - 18:35:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198983370608
+L 10/18/2020 - 18:35:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198983370608/?xml=1
+L 10/18/2020 - 18:35:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199038582773
+L 10/18/2020 - 18:35:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199038582773
+L 10/18/2020 - 18:35:48: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199038582773/?xml=1
+L 10/18/2020 - 18:37:43: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199006192484
+L 10/18/2020 - 18:37:43: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199006192484
+L 10/18/2020 - 18:37:43: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199006192484/?xml=1
+L 10/18/2020 - 18:38:34: [basebans.smx] "Duяåznlто™<30><STEAM_1:1:4151444><>" banned "✟T $ L✟ bigjesus<183><STEAM_1:0:522963378><>" (minutes "0") (reason "Troll de Mierda")
+L 10/18/2020 - 18:38:58: [basecommands.smx] "Duяåznlто™<30><STEAM_1:1:4151444><>" kicked "꧁༺₦Ї₦ℑ₳༻꧂<180><STEAM_1:1:539158522><>" (reason "")
+L 10/18/2020 - 18:39:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198099242864
+L 10/18/2020 - 18:39:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198099242864
+L 10/18/2020 - 18:39:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198099242864/?xml=1
+L 10/18/2020 - 18:40:07: [basecommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" kicked "JohnnyRonny<189><STEAM_1:0:69488568><>" (reason "")
+L 10/18/2020 - 18:40:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198047510617
+L 10/18/2020 - 18:40:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198047510617
+L 10/18/2020 - 18:40:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198047510617/?xml=1
+L 10/18/2020 - 18:43:47: -------- Mapchange to c14m2_lighthouse --------
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 18:43:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 18:44:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198213394541
+L 10/18/2020 - 18:44:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198213394541
+L 10/18/2020 - 18:44:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198213394541/?xml=1
+L 10/18/2020 - 18:48:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198332763855
+L 10/18/2020 - 18:48:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198332763855
+L 10/18/2020 - 18:48:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198332763855/?xml=1
+L 10/18/2020 - 18:49:41: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198282290818
+L 10/18/2020 - 18:49:41: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198282290818
+L 10/18/2020 - 18:49:41: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198282290818/?xml=1
+L 10/18/2020 - 18:57:58: -------- Mapchange to c11m1_greenhouse --------
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 18:58:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 18:58:23: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198122066403
+L 10/18/2020 - 18:58:23: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198122066403
+L 10/18/2020 - 18:58:23: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198122066403/?xml=1
+L 10/18/2020 - 19:05:34: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 19:05:34: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 19:05:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 19:05:53: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 19:05:53: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 19:05:53: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 19:06:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561197968568617
+L 10/18/2020 - 19:06:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561197968568617
+L 10/18/2020 - 19:06:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561197968568617/?xml=1
+L 10/18/2020 - 19:06:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199070440216
+L 10/18/2020 - 19:06:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199070440216
+L 10/18/2020 - 19:06:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199070440216/?xml=1
+L 10/18/2020 - 19:07:53: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198430484860
+L 10/18/2020 - 19:07:53: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198430484860
+L 10/18/2020 - 19:07:53: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198430484860/?xml=1
+L 10/18/2020 - 19:09:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198035338858
+L 10/18/2020 - 19:09:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198035338858
+L 10/18/2020 - 19:09:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198035338858/?xml=1
+L 10/18/2020 - 19:10:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199074943601
+L 10/18/2020 - 19:10:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199074943601
+L 10/18/2020 - 19:10:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199074943601/?xml=1
+L 10/18/2020 - 19:10:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198965422228
+L 10/18/2020 - 19:10:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198965422228
+L 10/18/2020 - 19:10:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198965422228/?xml=1
+L 10/18/2020 - 19:10:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198424009463
+L 10/18/2020 - 19:10:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198424009463
+L 10/18/2020 - 19:10:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198424009463/?xml=1
+L 10/18/2020 - 19:13:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198943016638
+L 10/18/2020 - 19:13:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198943016638
+L 10/18/2020 - 19:13:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198943016638/?xml=1
+L 10/18/2020 - 19:13:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198861099194
+L 10/18/2020 - 19:13:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198861099194
+L 10/18/2020 - 19:13:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198861099194/?xml=1
+L 10/18/2020 - 19:15:24: [basecommands.smx] "Duяåznlто™<4><STEAM_1:1:4151444><>" kicked "ᴳᵘᵃˢᵒᶰ<26><STEAM_1:0:502578250><>" (reason "")
+L 10/18/2020 - 19:15:42: -------- Mapchange to c11m2_offices --------
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 19:15:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 19:16:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198238625502
+L 10/18/2020 - 19:16:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198238625502
+L 10/18/2020 - 19:16:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198238625502/?xml=1
+L 10/18/2020 - 19:21:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199074869725
+L 10/18/2020 - 19:21:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199074869725
+L 10/18/2020 - 19:21:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199074869725/?xml=1
+L 10/18/2020 - 19:24:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198122066403
+L 10/18/2020 - 19:24:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198122066403
+L 10/18/2020 - 19:24:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198122066403/?xml=1
+L 10/18/2020 - 19:26:28: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slapped "Zoey<55><BOT><>" (damage "50")
+L 10/18/2020 - 19:28:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198268486654
+L 10/18/2020 - 19:28:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198268486654
+L 10/18/2020 - 19:28:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198268486654/?xml=1
+L 10/18/2020 - 19:29:35: [l4d2_tankswap.smx] ReplaceTank being called, client Tank target ♛ Rain ♛
+L 10/18/2020 - 19:29:35: [l4d2_tankswap.smx] ZombieManager pointer: 0x3cd6c00
+L 10/18/2020 - 19:30:43: -------- Mapchange to c11m3_garage --------
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 19:30:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 19:31:15: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198067232890
+L 10/18/2020 - 19:31:15: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198067232890
+L 10/18/2020 - 19:31:15: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198067232890/?xml=1
+L 10/18/2020 - 19:31:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198842516372
+L 10/18/2020 - 19:31:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198842516372
+L 10/18/2020 - 19:31:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198842516372/?xml=1
+L 10/18/2020 - 19:34:38: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198090690741
+L 10/18/2020 - 19:34:38: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198090690741
+L 10/18/2020 - 19:34:38: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198090690741/?xml=1
+L 10/18/2020 - 19:38:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198067232890
+L 10/18/2020 - 19:38:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198067232890
+L 10/18/2020 - 19:38:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198067232890/?xml=1
+L 10/18/2020 - 19:39:50: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "Besito<78><STEAM_1:0:53483581><>" (reason "")
+L 10/18/2020 - 19:42:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198342510856
+L 10/18/2020 - 19:42:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198342510856
+L 10/18/2020 - 19:42:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198342510856/?xml=1
+L 10/18/2020 - 19:45:06: -------- Mapchange to c11m4_terminal --------
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 19:45:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 19:48:25: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198103080155
+L 10/18/2020 - 19:48:25: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198103080155
+L 10/18/2020 - 19:48:25: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198103080155/?xml=1
+L 10/18/2020 - 19:55:10: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198448378650
+L 10/18/2020 - 19:55:10: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198448378650
+L 10/18/2020 - 19:55:10: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198448378650/?xml=1
+L 10/18/2020 - 19:56:13: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198156284059
+L 10/18/2020 - 19:56:13: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198156284059
+L 10/18/2020 - 19:56:13: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198156284059/?xml=1
+L 10/18/2020 - 19:58:49: -------- Mapchange to c11m5_runway --------
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 19:58:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 20:00:36: -------- Mapchange to c10m1_caves --------
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 20:00:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 20:05:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199031259083
+L 10/18/2020 - 20:05:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199031259083
+L 10/18/2020 - 20:05:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199031259083/?xml=1
+L 10/18/2020 - 20:09:33: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198348722277
+L 10/18/2020 - 20:09:33: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198348722277
+L 10/18/2020 - 20:09:33: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198348722277/?xml=1
+L 10/18/2020 - 20:10:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198067232890
+L 10/18/2020 - 20:10:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198067232890
+L 10/18/2020 - 20:10:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198067232890/?xml=1
+L 10/18/2020 - 20:10:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198815031358
+L 10/18/2020 - 20:10:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198815031358
+L 10/18/2020 - 20:10:55: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198815031358/?xml=1
+L 10/18/2020 - 20:11:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198199101655
+L 10/18/2020 - 20:11:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198199101655
+L 10/18/2020 - 20:11:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198199101655/?xml=1
+L 10/18/2020 - 20:11:40: [l4d2_tankswap.smx] ReplaceTank being called, client Tank target ♛ Rain ♛
+L 10/18/2020 - 20:11:40: [l4d2_tankswap.smx] ZombieManager pointer: 0x3cd6c00
+L 10/18/2020 - 20:12:53: -------- Mapchange to c10m2_drainage --------
+L 10/18/2020 - 20:12:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 20:12:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 20:12:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 20:14:13: [basecommands.smx] "Delta<3><STEAM_1:0:555087244><>" kicked "Besito<139><STEAM_1:0:53483581><>" (reason "")
+L 10/18/2020 - 20:15:37: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198976377827
+L 10/18/2020 - 20:15:37: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198976377827
+L 10/18/2020 - 20:15:37: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198976377827/?xml=1
+L 10/18/2020 - 20:21:00: -------- Mapchange to c10m3_ranchhouse --------
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 20:21:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 20:21:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198348722277
+L 10/18/2020 - 20:21:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198348722277
+L 10/18/2020 - 20:21:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198348722277/?xml=1
+L 10/18/2020 - 20:27:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199077098465
+L 10/18/2020 - 20:27:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199077098465
+L 10/18/2020 - 20:27:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199077098465/?xml=1
+L 10/18/2020 - 20:27:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199061837361
+L 10/18/2020 - 20:27:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199061837361
+L 10/18/2020 - 20:27:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199061837361/?xml=1
+L 10/18/2020 - 20:32:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198800672857
+L 10/18/2020 - 20:32:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198800672857
+L 10/18/2020 - 20:32:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198800672857/?xml=1
+L 10/18/2020 - 20:36:02: [basecommands.smx] "Duяåznlто™<4><STEAM_1:1:4151444><>" kicked "lord tachanka<148><STEAM_1:1:508056049><>" (reason "")
+L 10/18/2020 - 20:36:17: -------- Mapchange to c10m4_mainstreet --------
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 20:36:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 20:37:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198069476121
+L 10/18/2020 - 20:37:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198069476121
+L 10/18/2020 - 20:37:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198069476121/?xml=1
+L 10/18/2020 - 20:37:36: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199098479606
+L 10/18/2020 - 20:37:36: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199098479606
+L 10/18/2020 - 20:37:36: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199098479606/?xml=1
+L 10/18/2020 - 20:41:23: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198850365268
+L 10/18/2020 - 20:41:23: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198850365268
+L 10/18/2020 - 20:41:23: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198850365268/?xml=1
+L 10/18/2020 - 20:43:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198145573610
+L 10/18/2020 - 20:43:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198145573610
+L 10/18/2020 - 20:43:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198145573610/?xml=1
+L 10/18/2020 - 20:44:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198107471201
+L 10/18/2020 - 20:44:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198107471201
+L 10/18/2020 - 20:44:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198107471201/?xml=1
+L 10/18/2020 - 20:45:35: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199031157209
+L 10/18/2020 - 20:45:35: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199031157209
+L 10/18/2020 - 20:45:35: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199031157209/?xml=1
+L 10/18/2020 - 20:46:26: -------- Mapchange to c10m5_houseboat --------
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 20:46:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 20:48:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198846588340
+L 10/18/2020 - 20:48:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198846588340
+L 10/18/2020 - 20:48:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198846588340/?xml=1
+L 10/18/2020 - 20:49:27: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198335052155
+L 10/18/2020 - 20:49:27: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198335052155
+L 10/18/2020 - 20:49:27: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198335052155/?xml=1
+L 10/18/2020 - 20:50:15: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198177698934
+L 10/18/2020 - 20:50:15: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198177698934
+L 10/18/2020 - 20:50:15: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198177698934/?xml=1
+L 10/18/2020 - 21:00:22: [l4d2_tankswap.smx] ReplaceTank being called, client Tank target ♛ Rain ♛
+L 10/18/2020 - 21:00:22: [l4d2_tankswap.smx] ZombieManager pointer: 0x3cd6c00
+L 10/18/2020 - 21:00:42: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198145573610
+L 10/18/2020 - 21:00:42: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198145573610
+L 10/18/2020 - 21:00:42: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198145573610/?xml=1
+L 10/18/2020 - 21:24:41: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 21:24:41: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 21:24:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 21:25:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 21:25:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 21:25:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 21:26:01: [admin_hp.smx]  
+L 10/18/2020 - 21:26:03: [admin_hp.smx]  
+L 10/18/2020 - 21:26:04: [admin_hp.smx]  
+L 10/18/2020 - 21:26:05: [admin_hp.smx]  
+L 10/18/2020 - 21:26:05: [admin_hp.smx]  
+L 10/18/2020 - 21:26:06: [admin_hp.smx]  
+L 10/18/2020 - 21:26:44: -------- Mapchange to c13m1_alpinecreek --------
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 21:26:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 21:29:11: -------- Mapchange to c2m1_highway --------
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 21:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 21:30:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199070440216
+L 10/18/2020 - 21:30:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199070440216
+L 10/18/2020 - 21:30:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199070440216/?xml=1
+L 10/18/2020 - 21:31:21: [funcommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<24><STEAM_1:0:162762726><>"
+L 10/18/2020 - 21:31:30: [funcommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<24><STEAM_1:0:162762726><>"
+L 10/18/2020 - 21:31:36: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Delta<25><STEAM_1:0:555087244><>"
+L 10/18/2020 - 21:31:36: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Coach<26><BOT><>"
+L 10/18/2020 - 21:31:36: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Nick<27><BOT><>"
+L 10/18/2020 - 21:31:36: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Jockey<35><BOT><>"
+L 10/18/2020 - 21:31:36: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Smoker<36><BOT><>"
+L 10/18/2020 - 21:31:36: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Tank<37><BOT><>"
+L 10/18/2020 - 21:31:58: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Delta<25><STEAM_1:0:555087244><>"
+L 10/18/2020 - 21:31:59: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Coach<40><BOT><>"
+L 10/18/2020 - 21:31:59: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Nick<41><BOT><>"
+L 10/18/2020 - 21:32:00: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Rochelle<42><BOT><>"
+L 10/18/2020 - 21:32:00: [playercommands.smx] "♛ Rain ♛<24><STEAM_1:0:162762726><>" slayed "Ellis<43><BOT><>"
+L 10/18/2020 - 21:32:25: -------- Mapchange to c2m2_fairgrounds --------
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 21:32:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 21:38:49: [admin_hp.smx]  
+L 10/18/2020 - 21:40:41: Log file closed.
+L 10/18/2020 - 21:45:17: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201018.log") (Version "1.10.0.6492")
+L 10/18/2020 - 21:45:17: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 21:45:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 21:45:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198285791180
+L 10/18/2020 - 21:45:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198285791180
+L 10/18/2020 - 21:45:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198285791180/?xml=1
+L 10/18/2020 - 21:46:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199070440216
+L 10/18/2020 - 21:46:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199070440216
+L 10/18/2020 - 21:46:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199070440216/?xml=1
+L 10/18/2020 - 21:46:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199092148893
+L 10/18/2020 - 21:46:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199092148893
+L 10/18/2020 - 21:46:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199092148893/?xml=1
+L 10/18/2020 - 21:47:19: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561197968568617
+L 10/18/2020 - 21:47:19: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561197968568617
+L 10/18/2020 - 21:47:19: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561197968568617/?xml=1
+L 10/18/2020 - 21:49:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199006131487
+L 10/18/2020 - 21:49:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199006131487
+L 10/18/2020 - 21:49:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199006131487/?xml=1
+L 10/18/2020 - 21:50:23: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199012542509
+L 10/18/2020 - 21:50:23: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199012542509
+L 10/18/2020 - 21:50:23: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199012542509/?xml=1
+L 10/18/2020 - 21:50:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198145573610
+L 10/18/2020 - 21:50:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198145573610
+L 10/18/2020 - 21:50:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198145573610/?xml=1
+L 10/18/2020 - 21:53:24: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 10/18/2020 - 21:53:49: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198101154793
+L 10/18/2020 - 21:53:49: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198101154793
+L 10/18/2020 - 21:53:49: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198101154793/?xml=1
+L 10/18/2020 - 21:54:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199031259083
+L 10/18/2020 - 21:54:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199031259083
+L 10/18/2020 - 21:54:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199031259083/?xml=1
+L 10/18/2020 - 21:54:25: -------- Mapchange to c5m2_park --------
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 21:54:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 21:54:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 21:54:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 21:54:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 21:55:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198332042205
+L 10/18/2020 - 21:55:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198332042205
+L 10/18/2020 - 21:55:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198332042205/?xml=1
+L 10/18/2020 - 21:57:25: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198452529118
+L 10/18/2020 - 21:57:25: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198452529118
+L 10/18/2020 - 21:57:25: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198452529118/?xml=1
+L 10/18/2020 - 21:59:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199035393340
+L 10/18/2020 - 21:59:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199035393340
+L 10/18/2020 - 21:59:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199035393340/?xml=1
+L 10/18/2020 - 22:00:43: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199044010489
+L 10/18/2020 - 22:00:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199044010489
+L 10/18/2020 - 22:00:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199044010489/?xml=1
+L 10/18/2020 - 22:06:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198145573610
+L 10/18/2020 - 22:06:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198145573610
+L 10/18/2020 - 22:06:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198145573610/?xml=1
+L 10/18/2020 - 22:08:42: -------- Mapchange to c5m3_cemetery --------
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 22:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 22:11:04: [admin_hp.smx]  
+L 10/18/2020 - 22:17:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198346471468
+L 10/18/2020 - 22:17:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198346471468
+L 10/18/2020 - 22:17:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198346471468/?xml=1
+L 10/18/2020 - 22:18:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198965293761
+L 10/18/2020 - 22:18:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198965293761
+L 10/18/2020 - 22:18:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198965293761/?xml=1
+L 10/18/2020 - 22:19:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198139268011
+L 10/18/2020 - 22:19:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198139268011
+L 10/18/2020 - 22:19:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198139268011/?xml=1
+L 10/18/2020 - 22:19:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199093562730
+L 10/18/2020 - 22:19:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199093562730
+L 10/18/2020 - 22:19:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199093562730/?xml=1
+L 10/18/2020 - 22:22:58: -------- Mapchange to c5m4_quarter --------
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 22:23:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 22:23:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198124753002
+L 10/18/2020 - 22:23:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198124753002
+L 10/18/2020 - 22:23:26: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198124753002/?xml=1
+L 10/18/2020 - 22:24:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199061132131
+L 10/18/2020 - 22:24:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199061132131
+L 10/18/2020 - 22:24:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199061132131/?xml=1
+L 10/18/2020 - 22:28:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198271688675
+L 10/18/2020 - 22:28:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198271688675
+L 10/18/2020 - 22:28:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198271688675/?xml=1
+L 10/18/2020 - 22:34:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198343236218
+L 10/18/2020 - 22:34:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198343236218
+L 10/18/2020 - 22:34:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198343236218/?xml=1
+L 10/18/2020 - 22:35:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198829563722
+L 10/18/2020 - 22:35:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198829563722
+L 10/18/2020 - 22:35:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198829563722/?xml=1
+L 10/18/2020 - 22:37:11: -------- Mapchange to c5m5_bridge --------
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 10/18/2020 - 22:37:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 10/18/2020 - 22:38:27: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199076114101
+L 10/18/2020 - 22:38:27: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199076114101
+L 10/18/2020 - 22:38:27: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199076114101/?xml=1
+L 10/18/2020 - 22:45:34: [admin_hp.smx]  
+L 10/18/2020 - 22:45:51: [admin_hp.smx]  
+L 10/18/2020 - 22:46:02: [playercommands.smx] "Duяåznlто™<8><STEAM_1:1:4151444><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"

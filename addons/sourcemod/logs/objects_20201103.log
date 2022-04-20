@@ -1,0 +1,28 @@
+Nov 03 |08:25:25| 2020: Normal Round Has Started
+Nov 03 |08:27:56| 2020: ♛ Rain ♛ spawned a static object with model <models/props_vehicles/ambulance.mdl>
+Nov 03 |08:29:04| 2020: ♛ Rain ♛ saved the objects for this map on a 'Stripper' file format
+Nov 03 |08:29:29| 2020: Normal Round Has Started
+Nov 03 |08:31:24| 2020: ♛ Rain ♛ loaded the objects for this map
+Nov 03 |08:31:52| 2020: ♛ Rain ♛ spawned a static object with model <models/props_vehicles/ambulance.mdl>
+Nov 03 |08:32:23| 2020: ♛ Rain ♛ saved the objects for this map on a "Plugin Cache" file format
+Nov 03 |08:32:44| 2020: ♛ Rain ♛ saved the objects for this map on a 'Stripper' file format
+Nov 03 |08:33:11| 2020: Normal Round Has Started
+Nov 03 |08:37:01| 2020: Normal Round Has Started
+Nov 03 |08:39:12| 2020: Normal Round Has Started
+Nov 03 |08:39:55| 2020: ♛ Rain ♛ spawned a static object with model <models/props_vehicles/ambulance.mdl>
+Nov 03 |08:40:08| 2020: ♛ Rain ♛ saved the objects for this map on a 'Stripper' file format
+Nov 03 |08:40:39| 2020: Normal Round Has Started
+Nov 03 |08:40:39| 2020: Spawning props from file addons\sourcemod\data\maps\plugin_cache\.txt
+Nov 03 |08:40:39| 2020: [ERROR] Attempted to load an object file which does not exist (addons\sourcemod\data\maps\plugin_cache\.txt)
+Nov 03 |08:42:22| 2020: Normal Round Has Started
+Nov 03 |08:43:03| 2020: ♛ Rain ♛ spawned a static object with model <models/props_vehicles/ambulance.mdl>
+Nov 03 |08:43:12| 2020: ♛ Rain ♛ saved the objects for this map on a 'Stripper' file format
+Nov 03 |08:43:20| 2020: ♛ Rain ♛ saved the objects for this map on a "Plugin Cache" file format
+Nov 03 |08:43:33| 2020: Normal Round Has Started
+Nov 03 |08:43:33| 2020: Spawning props from file addons\sourcemod\data\maps\plugin_cache\.txt
+Nov 03 |08:43:33| 2020: [ERROR] Attempted to load an object file which does not exist (addons\sourcemod\data\maps\plugin_cache\.txt)
+Nov 03 |08:49:42| 2020: Normal Round Has Started
+Nov 03 |08:50:30| 2020: ♛ Rain ♛ loaded the objects for this map
+Nov 03 |08:51:34| 2020: Normal Round Has Started
+Nov 03 |08:51:34| 2020: Spawning props from file addons\sourcemod\data\maps\plugin_cache\.txt
+Nov 03 |08:51:34| 2020: [ERROR] Attempted to load an object file which does not exist (addons\sourcemod\data\maps\plugin_cache\.txt)

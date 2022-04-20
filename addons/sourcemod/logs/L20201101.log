@@ -1,0 +1,973 @@
+L 11/01/2020 - 00:00:30: SourceMod log file session started (file "D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20201101.log") (Version "1.10.0.6492")
+L 11/01/2020 - 00:00:30: [l4d2_skill_detect.smx] Clear: 3 freed 7 from 8: time: -1.00 / 2.82 -- class: smoker (with shove? 0)
+L 11/01/2020 - 00:00:36: [l4d2_skill_detect.smx] Clear: 7 freed 3 from 2: time: 3.90 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:01:15: [l4d2_skill_detect.smx] Clear: 4 freed 10 from 2: time: 2.76 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:01:15: [l4d2_skill_detect.smx] Charge carry start: 8 - 7 -- time: 749.78
+L 11/01/2020 - 00:01:18: [l4d2_skill_detect.smx] Checking charge victim: 8 - 3 - flags: 0 (alive? 1)
+L 11/01/2020 - 00:01:18: [l4d2_skill_detect.smx] Checking charge victim: 8 - 7 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:01:21: [l4d2_skill_detect.smx] Clear: 3 freed 7 from 8: time: 4.93 / 6.48 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:02:15: [l4d2_skill_detect.smx] Clear: 4 freed 7 from 5: time: 1.57 / 810.14 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:02:27: [l4d2_skill_detect.smx] Clear: 4 freed 10 from 1: time: 1.12 / 2.15 -- class: smoker (with shove? 1)
+L 11/01/2020 - 00:03:11: [l4d2_skill_detect.smx] Clear: 7 freed 4 from 2: time: 3.25 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:03:11: [l4d2_skill_detect.smx] Clear: 3 freed 10 from 8: time: 5.31 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:04:03: [l4d2_skill_detect.smx] Clear: 3 freed 10 from 2: time: -1.00 / 1.92 -- class: smoker (with shove? 1)
+L 11/01/2020 - 00:04:47: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 8: time: 1.89 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:05:08: [l4d2_skill_detect.smx] Charge carry start: 2 - 4 -- time: 983.42
+L 11/01/2020 - 00:05:12: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 2: time: 1.79 / 3.59 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:05:12: [l4d2_skill_detect.smx] Checking charge victim: 2 - 4 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:05:20: [l4d2_skill_detect.smx] Clear: 4 freed 3 from 8: time: -1.00 / 2.56 -- class: smoker (with shove? 1)
+L 11/01/2020 - 00:06:14: -------- Mapchange to c1m3_mall --------
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 00:06:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 00:06:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 00:08:33: [l4d2_skill_detect.smx] Charge carry start: 4 - 8 -- time: 99.64
+L 11/01/2020 - 00:08:36: [l4d2_skill_detect.smx] Clear: 1 freed 8 from 4: time: 1.67 / 2.71 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:08:36: [l4d2_skill_detect.smx] Checking charge victim: 4 - 8 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:08:43: [l4d2_skill_detect.smx] Clear: 1 freed 6 from 3: time: 1.68 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 00:08:47: [l4d2_skill_detect.smx] Clear: 8 freed 6 from 2: time: 0.87 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 00:09:09: [l4d2_skill_detect.smx] Clear: 1 freed 6 from 7: time: -1.00 / 1.90 -- class: smoker (with shove? 0)
+L 11/01/2020 - 00:09:20: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198202431956
+L 11/01/2020 - 00:09:20: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198202431956
+L 11/01/2020 - 00:09:20: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198202431956/?xml=1
+L 11/01/2020 - 00:09:27: [l4d2_skill_detect.smx] Clear: 1 freed 8 from 7: time: 0.90 / 2.93 -- class: smoker (with shove? 0)
+L 11/01/2020 - 00:10:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "jailton<255><STEAM_1:0:121083114><>" (reason "")
+L 11/01/2020 - 00:10:30: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 3: time: 3.00 / 4.14 -- class: smoker (with shove? 0)
+L 11/01/2020 - 00:10:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199096981073
+L 11/01/2020 - 00:10:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199096981073
+L 11/01/2020 - 00:10:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199096981073/?xml=1
+L 11/01/2020 - 00:11:10: [l4d2_skill_detect.smx] Clear: 8 freed 9 from 11: time: 5.17 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:11:57: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 2: time: 8.57 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:13:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198135885171
+L 11/01/2020 - 00:13:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198135885171
+L 11/01/2020 - 00:13:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198135885171/?xml=1
+L 11/01/2020 - 00:14:17: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 5: time: 8.15 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 00:15:35: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 1: time: 2.93 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:15:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198007484038
+L 11/01/2020 - 00:15:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198007484038
+L 11/01/2020 - 00:15:59: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198007484038/?xml=1
+L 11/01/2020 - 00:16:10: [l4d2_skill_detect.smx] Charge carry start: 5 - 4 -- time: 555.40
+L 11/01/2020 - 00:16:18: [l4d2_skill_detect.smx] Clear: 3 freed 9 from 5: time: 5.21 / 8.39 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:16:43: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198411273140
+L 11/01/2020 - 00:16:43: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198411273140
+L 11/01/2020 - 00:16:43: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198411273140/?xml=1
+L 11/01/2020 - 00:16:49: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 1: time: 9.10 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:17:34: -------- Mapchange to c1m4_atrium --------
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 00:17:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 00:18:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198271949746
+L 11/01/2020 - 00:18:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198271949746
+L 11/01/2020 - 00:18:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198271949746/?xml=1
+L 11/01/2020 - 00:18:59: [l4d2_skill_detect.smx] Clear: 5 freed 9 from 10: time: 1.76 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:19:02: [l4d2_skill_detect.smx] Charge carry start: 2 - 9 -- time: 77.71
+L 11/01/2020 - 00:19:04: [l4d2_skill_detect.smx] Clear: 5 freed 9 from 2: time: 0.51 / 2.31 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:19:05: [l4d2_skill_detect.smx] Checking charge victim: 2 - 9 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:19:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198176061210
+L 11/01/2020 - 00:19:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198176061210
+L 11/01/2020 - 00:19:11: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198176061210/?xml=1
+L 11/01/2020 - 00:20:42: [l4d2_skill_detect.smx] Clear: 5 freed 8 from 7: time: 1.03 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:21:14: [l4d2_skill_detect.smx] Charge carry start: 4 - 1 -- time: 210.09
+L 11/01/2020 - 00:21:14: [l4d2_skill_detect.smx] Clear: 1 freed 1 from 4: time: 0.00 / 0.26 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:21:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198080792644
+L 11/01/2020 - 00:21:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198080792644
+L 11/01/2020 - 00:21:16: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198080792644/?xml=1
+L 11/01/2020 - 00:21:17: [l4d2_skill_detect.smx] Checking charge victim: 4 - 1 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:21:18: [l4d2_skill_detect.smx] Checking charge victim: 4 - 5 - flags: 0 (alive? 1)
+L 11/01/2020 - 00:21:26: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 9: time: 0.64 / 0.75 -- class: smoker (with shove? 1)
+L 11/01/2020 - 00:22:06: [l4d2_skill_detect.smx] Charge carry start: 3 - 5 -- time: 262.31
+L 11/01/2020 - 00:22:09: [l4d2_skill_detect.smx] Clear: 6 freed 5 from 3: time: 1.35 / 2.54 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:22:09: [l4d2_skill_detect.smx] Checking charge victim: 3 - 5 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:23:04: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199089082803
+L 11/01/2020 - 00:23:04: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199089082803
+L 11/01/2020 - 00:23:04: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199089082803/?xml=1
+L 11/01/2020 - 00:23:27: [l4d2_skill_detect.smx] Clear: 5 freed 9 from 7: time: 2.48 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 00:24:33: [l4d2_skill_detect.smx] Clear: 5 freed 9 from 4: time: 0.43 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:26:04: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198126370279
+L 11/01/2020 - 00:26:04: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198126370279
+L 11/01/2020 - 00:26:04: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198126370279/?xml=1
+L 11/01/2020 - 00:26:09: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 7: time: 3.84 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 00:28:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198852962770
+L 11/01/2020 - 00:28:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198852962770
+L 11/01/2020 - 00:28:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198852962770/?xml=1
+L 11/01/2020 - 00:29:24: [l4d2_skill_detect.smx] Charge carry start: 6 - 3 -- time: 699.00
+L 11/01/2020 - 00:29:25: [l4d2_skill_detect.smx] Clear: 7 freed 11 from 8: time: 699.34 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:29:28: [l4d2_skill_detect.smx] Checking charge victim: 6 - 4 - flags: 0 (alive? 1)
+L 11/01/2020 - 00:29:28: [l4d2_skill_detect.smx] Checking charge victim: 6 - 7 - flags: 0 (alive? 1)
+L 11/01/2020 - 00:29:28: [l4d2_skill_detect.smx] Checking charge victim: 6 - 3 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:29:29: [l4d2_skill_detect.smx] Clear: 11 freed 3 from 6: time: 2.82 / 4.81 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:30:25: -------- Mapchange to c2m1_highway --------
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 00:30:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 00:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 00:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 00:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 00:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 00:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 00:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 00:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 00:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 00:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 00:33:07: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 4: time: 3.64 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:34:26: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 4: time: 7.90 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:35:12: [l4d2_skill_detect.smx] Clear: 9 freed 6 from 2: time: 1.71 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:35:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199087245295
+L 11/01/2020 - 00:35:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199087245295
+L 11/01/2020 - 00:35:57: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199087245295/?xml=1
+L 11/01/2020 - 00:36:27: [l4d2_skill_detect.smx] Clear: 5 freed 9 from 8: time: 1.07 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:37:04: [l4d2_skill_detect.smx] Clear: 5 freed 9 from 3: time: 6.50 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:37:26: [l4d2_skill_detect.smx] calarm trigger: caller 833 / activator 833 / delay: 0.00
+L 11/01/2020 - 00:37:34: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 2: time: 2.04 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:38:51: [l4d2_skill_detect.smx] Clear: 9 freed 10 from 6: time: 0.96 / 2.48 -- class: smoker (with shove? 0)
+L 11/01/2020 - 00:38:55: [l4d2_skill_detect.smx] Clear: 4 freed 11 from 1: time: 1.14 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:39:26: [l4d2_skill_detect.smx] Charge carry start: 5 - 10 -- time: 530.95
+L 11/01/2020 - 00:39:29: [l4d2_skill_detect.smx] Checking charge victim: 5 - 10 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:39:29: [l4d2_skill_detect.smx] Clear: 9 freed 10 from 5: time: 2.17 / 3.09 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:39:56: [l4d2_skill_detect.smx] Clear: 10 freed 9 from 2: time: 1.70 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 00:39:59: [l4d2_skill_detect.smx] Clear: 9 freed 10 from 2: time: 1.17 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:40:00: [l4d2_skill_detect.smx] Clear: 9 freed 11 from 5: time: 1.09 / 4.03 -- class: smoker (with shove? 0)
+L 11/01/2020 - 00:40:06: [l4d2_skill_detect.smx] Clear: 10 freed 4 from 6: time: 6.09 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:40:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198346066301
+L 11/01/2020 - 00:40:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198346066301
+L 11/01/2020 - 00:40:24: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198346066301/?xml=1
+L 11/01/2020 - 00:40:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198104191476
+L 11/01/2020 - 00:40:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198104191476
+L 11/01/2020 - 00:40:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198104191476/?xml=1
+L 11/01/2020 - 00:40:57: [l4d2_skill_detect.smx] Clear: 10 freed 4 from 5: time: 5.37 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:40:59: [l4d2_skill_detect.smx] Charge carry start: 6 - 10 -- time: 623.67
+L 11/01/2020 - 00:41:02: [l4d2_skill_detect.smx] Clear: 9 freed 10 from 6: time: 0.76 / 2.70 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:41:03: [l4d2_skill_detect.smx] Checking charge victim: 6 - 10 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:41:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199089082803
+L 11/01/2020 - 00:41:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199089082803
+L 11/01/2020 - 00:41:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199089082803/?xml=1
+L 11/01/2020 - 00:42:00: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199016116873
+L 11/01/2020 - 00:42:00: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199016116873
+L 11/01/2020 - 00:42:00: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199016116873/?xml=1
+L 11/01/2020 - 00:42:19: [l4d2_skill_detect.smx] calarm trigger: caller 822 / activator 822 / delay: 0.00
+L 11/01/2020 - 00:42:21: [l4d2_skill_detect.smx] Clear: 9 freed 4 from 5: time: 2.07 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:42:51: [l4d2_skill_detect.smx] Clear: 2 freed 9 from 7: time: 3.09 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:42:56: [l4d2_skill_detect.smx] Charge carry start: 6 - 9 -- time: 740.71
+L 11/01/2020 - 00:43:01: [l4d2_skill_detect.smx] Checking charge victim: 6 - 9 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:43:11: [l4d2_skill_detect.smx] Clear: 2 freed 9 from 6: time: 11.34 / 14.65 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:43:34: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 5: time: 1.46 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:44:08: -------- Mapchange to c2m2_fairgrounds --------
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 00:44:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 00:44:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 00:45:49: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198155258874
+L 11/01/2020 - 00:45:49: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198155258874
+L 11/01/2020 - 00:45:49: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198155258874/?xml=1
+L 11/01/2020 - 00:45:54: [l4d2_skill_detect.smx] Clear: 1 freed 6 from 3: time: 1.34 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:46:11: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 9: time: 1.12 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:46:13: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199089082803
+L 11/01/2020 - 00:46:13: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199089082803
+L 11/01/2020 - 00:46:13: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199089082803/?xml=1
+L 11/01/2020 - 00:46:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198864974073
+L 11/01/2020 - 00:46:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198864974073
+L 11/01/2020 - 00:46:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198864974073/?xml=1
+L 11/01/2020 - 00:47:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198823373146
+L 11/01/2020 - 00:47:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198823373146
+L 11/01/2020 - 00:47:09: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198823373146/?xml=1
+L 11/01/2020 - 00:47:37: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 4: time: 0.65 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:47:54: [l4d2_skill_detect.smx] Clear: 1 freed 2 from 9: time: 4.46 / 7.35 -- class: smoker (with shove? 0)
+L 11/01/2020 - 00:48:44: [l4d2_skill_detect.smx] Charge carry start: 8 - 5 -- time: 266.70
+L 11/01/2020 - 00:48:45: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 8: time: 0.00 / 0.60 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:48:47: [l4d2_skill_detect.smx] Checking charge victim: 8 - 5 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:48:50: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 2: time: 0.96 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:50:03: [l4d2_skill_detect.smx] Clear: 6 freed 3 from 8: time: 1.06 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 00:51:23: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 9: time: -1.00 / 1.45 -- class: smoker (with shove? 1)
+L 11/01/2020 - 00:51:42: [l4d2_skill_detect.smx] Charge carry start: 4 - 1 -- time: 444.90
+L 11/01/2020 - 00:51:43: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 4: time: 0.18 / 1.21 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:51:45: [l4d2_skill_detect.smx] Checking charge victim: 4 - 1 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:52:14: [l4d2_skill_detect.smx] Charge carry start: 9 - 1 -- time: 476.46
+L 11/01/2020 - 00:52:17: [l4d2_skill_detect.smx] Checking charge victim: 9 - 1 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:52:17: [l4d2_skill_detect.smx] Clear: 6 freed 1 from 9: time: 2.01 / 3.10 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:52:26: [l4d2_skill_detect.smx] Clear: 6 freed 3 from 4: time: 0.43 / 1.81 -- class: smoker (with shove? 1)
+L 11/01/2020 - 00:52:59: [l4d2_skill_detect.smx] Clear: 3 freed 5 from 9: time: 1.76 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 00:53:05: [l4d2_skill_detect.smx] Charge carry start: 2 - 1 -- time: 527.21
+L 11/01/2020 - 00:53:07: [l4d2_skill_detect.smx] Clear: 6 freed 1 from 2: time: 1.98 / 2.92 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:53:08: [l4d2_skill_detect.smx] Checking charge victim: 2 - 1 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:53:36: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 288)
+L 11/01/2020 - 00:53:36: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: Snock, attacker dmg: 250, teamless dmg: 0
+L 11/01/2020 - 00:53:38: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 2: time: 3.60 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:53:43: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 8: time: -1.00 / 2.48 -- class: smoker (with shove? 1)
+L 11/01/2020 - 00:54:52: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 8: time: 0.25 / 0.35 -- class: smoker (with shove? 1)
+L 11/01/2020 - 00:54:58: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198339428098
+L 11/01/2020 - 00:54:58: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198339428098
+L 11/01/2020 - 00:54:58: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198339428098/?xml=1
+L 11/01/2020 - 00:55:57: [l4d2_skill_detect.smx] Clear: 6 freed 5 from 2: time: 6.07 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:56:26: [l4d2_skill_detect.smx] Charge carry start: 2 - 1 -- time: 728.31
+L 11/01/2020 - 00:56:26: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 2: time: 0.00 / 0.25 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:56:29: [l4d2_skill_detect.smx] Checking charge victim: 2 - 3 - flags: 0 (alive? 1)
+L 11/01/2020 - 00:56:29: [l4d2_skill_detect.smx] Checking charge victim: 2 - 1 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:57:34: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198872431872
+L 11/01/2020 - 00:57:34: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198872431872
+L 11/01/2020 - 00:57:34: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198872431872/?xml=1
+L 11/01/2020 - 00:57:50: [l4d2_skill_detect.smx] Charge carry start: 1 - 5 -- time: 812.07
+L 11/01/2020 - 00:57:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199069862217
+L 11/01/2020 - 00:57:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199069862217
+L 11/01/2020 - 00:57:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199069862217/?xml=1
+L 11/01/2020 - 00:57:54: [l4d2_skill_detect.smx] Checking charge victim: 1 - 5 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:57:56: [l4d2_skill_detect.smx] Clear: 9 freed 2 from 3: time: 1.71 / 3.46 -- class: smoker (with shove? 1)
+L 11/01/2020 - 00:57:58: [l4d2_skill_detect.smx] Clear: 9 freed 2 from 4: time: 1.56 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 00:58:56: [l4d2_skill_detect.smx] Charge carry start: 6 - 9 -- time: 877.62
+L 11/01/2020 - 00:58:58: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 3: time: -1.00 / 0.06 -- class: smoker (with shove? 0)
+L 11/01/2020 - 00:58:59: [l4d2_skill_detect.smx] Checking charge victim: 6 - 9 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:59:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198856077808
+L 11/01/2020 - 00:59:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198856077808
+L 11/01/2020 - 00:59:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198856077808/?xml=1
+L 11/01/2020 - 00:59:46: [l4d2_skill_detect.smx] Charge carry start: 4 - 5 -- time: 927.87
+L 11/01/2020 - 00:59:48: [l4d2_skill_detect.smx] Clear: 9 freed 5 from 4: time: 0.75 / 1.70 -- class: charger (with shove? 0)
+L 11/01/2020 - 00:59:50: [l4d2_skill_detect.smx] Checking charge victim: 4 - 5 - flags: 1 (alive? 1)
+L 11/01/2020 - 00:59:54: [l4d2_skill_detect.smx] Clear: 7 freed 2 from 6: time: 2.68 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 01:00:13: [l4d2_skill_detect.smx] Clear: 2 freed 5 from 10: time: -1.00 / 954.92 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:00:39: [l4d2_skill_detect.smx] Charge carry start: 3 - 2 -- time: 980.51
+L 11/01/2020 - 01:00:41: [l4d2_skill_detect.smx] Clear: 7 freed 2 from 3: time: 0.00 / 1.79 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:00:44: [l4d2_skill_detect.smx] Checking charge victim: 3 - 2 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:00:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198287762428
+L 11/01/2020 - 01:00:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198287762428
+L 11/01/2020 - 01:00:56: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198287762428/?xml=1
+L 11/01/2020 - 01:00:57: [l4d2_skill_detect.smx] Clear: 9 freed 7 from 6: time: 13.73 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:01:58: -------- Mapchange to c2m3_coaster --------
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 01:02:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 01:03:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198052661158
+L 11/01/2020 - 01:03:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198052661158
+L 11/01/2020 - 01:03:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198052661158/?xml=1
+L 11/01/2020 - 01:03:58: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 11/01/2020 - 01:04:09: [l4d2_skill_detect.smx] Charge carry start: 2 - 4 -- time: 121.70
+L 11/01/2020 - 01:04:12: [l4d2_skill_detect.smx] Checking charge victim: 2 - 8 - flags: 0 (alive? 1)
+L 11/01/2020 - 01:04:13: [l4d2_skill_detect.smx] Checking charge victim: 2 - 4 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:04:15: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198338388198
+L 11/01/2020 - 01:04:15: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198338388198
+L 11/01/2020 - 01:04:15: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198338388198/?xml=1
+L 11/01/2020 - 01:04:36: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199094129694
+L 11/01/2020 - 01:04:36: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199094129694
+L 11/01/2020 - 01:04:36: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199094129694/?xml=1
+L 11/01/2020 - 01:05:05: [l4d2_skill_detect.smx] Clear: 8 freed 3 from 5: time: -1.00 / 0.23 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:05:09: [l4d2_skill_detect.smx] Charge carry start: 7 - 1 -- time: 181.95
+L 11/01/2020 - 01:05:13: [l4d2_skill_detect.smx] Checking charge victim: 7 - 1 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:05:13: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 7: time: 2.09 / 4.01 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:05:53: [l4d2_skill_detect.smx] Clear: 8 freed 1 from 2: time: 0.15 / 1.67 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:06:33: [l4d2_skill_detect.smx] Clear: 3 freed 8 from 4: time: 1.50 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 01:06:38: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 5: time: 0.59 / 270.81 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:06:41: [l4d2_skill_detect.smx] Clear: 3 freed 10 from 2: time: 1.06 / 2.62 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:06:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198204853307
+L 11/01/2020 - 01:06:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198204853307
+L 11/01/2020 - 01:06:51: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198204853307/?xml=1
+L 11/01/2020 - 01:06:57: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 1 (entity: 219)
+L 11/01/2020 - 01:06:58: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: Lautixs96., attacker dmg: 612, teamless dmg: 0
+L 11/01/2020 - 01:07:02: [l4d2_skill_detect.smx] Clear: 10 freed 3 from 7: time: 1.34 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:07:26: [l4d2_skill_detect.smx] Charge carry start: 2 - 3 -- time: 319.20
+L 11/01/2020 - 01:07:28: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 2: time: 0.84 / 2.23 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:07:30: [l4d2_skill_detect.smx] Checking charge victim: 2 - 3 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:07:41: [l4d2_skill_detect.smx] Clear: 3 freed 10 from 6: time: 1.48 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:08:20: [l4d2_skill_detect.smx] Clear: 8 freed 3 from 2: time: 3.12 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 01:08:47: [l4d2_skill_detect.smx] Clear: 10 freed 8 from 2: time: 2.10 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 01:09:10: [l4d2_skill_detect.smx] Charge carry start: 7 - 3 -- time: 423.21
+L 11/01/2020 - 01:09:15: [l4d2_skill_detect.smx] Checking charge victim: 7 - 3 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:09:16: [l4d2_skill_detect.smx] Clear: 8 freed 3 from 7: time: 2.15 / 5.64 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:09:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198090350026
+L 11/01/2020 - 01:09:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198090350026
+L 11/01/2020 - 01:09:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198090350026/?xml=1
+L 11/01/2020 - 01:09:46: [l4d2_skill_detect.smx] Clear: 8 freed 1 from 6: time: 7.71 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:10:05: [l4d2_skill_detect.smx] Charge carry start: 5 - 8 -- time: 477.64
+L 11/01/2020 - 01:10:08: [l4d2_skill_detect.smx] Checking charge victim: 5 - 8 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:10:08: [l4d2_skill_detect.smx] Clear: 1 freed 8 from 5: time: 2.67 / 3.64 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:10:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198820831294
+L 11/01/2020 - 01:10:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198820831294
+L 11/01/2020 - 01:10:52: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198820831294/?xml=1
+L 11/01/2020 - 01:11:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198147222537
+L 11/01/2020 - 01:11:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198147222537
+L 11/01/2020 - 01:11:30: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198147222537/?xml=1
+L 11/01/2020 - 01:11:34: [l4d2_skill_detect.smx] Clear: 2 freed 7 from 8: time: -1.00 / 1.89 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:11:45: [l4d2_skill_detect.smx] Clear: 7 freed 2 from 1: time: 1.07 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:13:17: [l4d2_skill_detect.smx] Clear: 7 freed 2 from 1: time: -1.00 / 2.01 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:14:37: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 282)
+L 11/01/2020 - 01:14:37: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ＡＬＥＳＴＥＰ™, attacker dmg: 650, teamless dmg: 0
+L 11/01/2020 - 01:15:39: [l4d2_skill_detect.smx] Clear: 7 freed 4 from 3: time: 5.64 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:16:14: [l4d2_skill_detect.smx] Clear: 7 freed 4 from 10: time: -1.00 / 1.43 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:16:17: [l4d2_skill_detect.smx] Charge carry start: 1 - 6 -- time: 849.20
+L 11/01/2020 - 01:16:20: [l4d2_skill_detect.smx] Checking charge victim: 1 - 6 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:16:20: [l4d2_skill_detect.smx] Clear: 7 freed 6 from 1: time: 2.56 / 3.60 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:16:34: [l4d2_skill_detect.smx] Clear: 6 freed 7 from 5: time: 2.59 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:16:55: [l4d2_skill_detect.smx] Clear: 7 freed 6 from 8: time: -1.00 / 2.10 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:17:05: [l4d2_skill_detect.smx] Clear: 4 freed 2 from 1: time: 12.45 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:17:14: [l4d2_skill_detect.smx] Clear: 7 freed 4 from 8: time: -1.00 / 1.21 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:17:51: [l4d2_skill_detect.smx] Charge carry start: 5 - 7 -- time: 943.67
+L 11/01/2020 - 01:17:55: [l4d2_skill_detect.smx] Checking charge victim: 5 - 7 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:17:55: [l4d2_skill_detect.smx] Checking charge victim: 5 - 6 - flags: 0 (alive? 1)
+L 11/01/2020 - 01:17:55: [l4d2_skill_detect.smx] Checking charge victim: 5 - 2 - flags: 0 (alive? 1)
+L 11/01/2020 - 01:17:58: [l4d2_skill_detect.smx] Clear: 6 freed 7 from 5: time: 5.25 / 6.68 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:18:01: [l4d2_skill_detect.smx] Clear: 6 freed 2 from 1: time: 1.17 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 01:18:41: [l4d2_skill_detect.smx] Charge carry start: 8 - 7 -- time: 993.64
+L 11/01/2020 - 01:18:44: [l4d2_skill_detect.smx] Checking charge victim: 8 - 7 - flags: 1 (alive? 0)
+L 11/01/2020 - 01:19:06: -------- Mapchange to c2m4_barns --------
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 01:19:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 01:21:33: [l4d2_skill_detect.smx] Clear: 1 freed 8 from 6: time: -1.00 / 1.62 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:21:54: [l4d2_skill_detect.smx] Charge carry start: 2 - 1 -- time: 157.70
+L 11/01/2020 - 01:21:54: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 2: time: 0.00 / 0.35 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:21:57: [l4d2_skill_detect.smx] Checking charge victim: 2 - 1 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:22:08: [l4d2_skill_detect.smx] Clear: 8 freed 5 from 4: time: 3.46 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:22:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198844008898
+L 11/01/2020 - 01:22:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198844008898
+L 11/01/2020 - 01:22:17: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198844008898/?xml=1
+L 11/01/2020 - 01:22:29: [l4d2_skill_detect.smx] Clear: 8 freed 5 from 2: time: -1.00 / 2.56 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:22:51: [l4d2_skill_detect.smx] Clear: 8 freed 5 from 6: time: 0.81 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 01:23:05: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 6: time: 0.28 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 01:23:10: [l4d2_skill_detect.smx] Clear: 5 freed 3 from 7: time: 0.60 / 3.43 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:23:39: [l4d2_skill_detect.smx] Clear: 3 freed 8 from 6: time: 1.98 / 262.59 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:23:40: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 2: time: 4.32 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:23:43: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 433)
+L 11/01/2020 - 01:23:43: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: Rhaegal, attacker dmg: 433, teamless dmg: 0
+L 11/01/2020 - 01:24:15: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 6: time: 2.39 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:24:43: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 4: time: -1.00 / 1.23 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:24:51: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 6: time: -1.00 / 0.81 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:25:18: [l4d2_skill_detect.smx] Charge carry start: 2 - 5 -- time: 361.87
+L 11/01/2020 - 01:25:23: [l4d2_skill_detect.smx] Clear: 8 freed 5 from 2: time: 1.20 / 4.43 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:25:23: [l4d2_skill_detect.smx] Checking charge victim: 2 - 5 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:25:30: [l4d2_skill_detect.smx] Clear: 1 freed 8 from 7: time: 1.17 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 01:26:03: [l4d2_skill_detect.smx] Clear: 1 freed 1 from 9: time: -1.00 / 0.07 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:26:10: [l4d2_skill_detect.smx] Clear: 3 freed 3 from 2: time: 0.00 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 01:26:34: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199006379983
+L 11/01/2020 - 01:26:34: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199006379983
+L 11/01/2020 - 01:26:34: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199006379983/?xml=1
+L 11/01/2020 - 01:27:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199051008362
+L 11/01/2020 - 01:27:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199051008362
+L 11/01/2020 - 01:27:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199051008362/?xml=1
+L 11/01/2020 - 01:27:24: [l4d2_skill_detect.smx] Clear: 5 freed 8 from 4: time: 0.92 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:27:25: [l4d2_skill_detect.smx] Clear: 3 freed 5 from 10: time: 1.32 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 01:28:05: [l4d2_skill_detect.smx] Charge carry start: 6 - 5 -- time: 528.82
+L 11/01/2020 - 01:28:09: [l4d2_skill_detect.smx] Checking charge victim: 6 - 5 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:28:27: [l4d2_skill_detect.smx] Clear: 5 freed 8 from 9: time: -1.00 / 1.43 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:28:28: [l4d2_skill_detect.smx] Clear: 8 freed 3 from 7: time: -1.00 / 5.12 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:28:31: [l4d2_skill_detect.smx] Clear: 8 freed 5 from 2: time: 1.65 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 01:31:14: [l4d2_skill_detect.smx] Charge carry start: 3 - 10 -- time: 716.56
+L 11/01/2020 - 01:31:17: [l4d2_skill_detect.smx] Checking charge victim: 3 - 10 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:31:37: [l4d2_skill_detect.smx] Clear: 7 freed 10 from 3: time: 22.46 / 23.43 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:31:51: [l4d2_skill_detect.smx] Clear: 2 freed 7 from 5: time: 8.06 / 12.14 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:32:14: [l4d2_skill_detect.smx] Clear: 7 freed 4 from 3: time: 1.28 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:32:28: [l4d2_skill_detect.smx] Charge carry start: 5 - 4 -- time: 791.03
+L 11/01/2020 - 01:32:32: [l4d2_skill_detect.smx] Checking charge victim: 5 - 4 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:33:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198204416173
+L 11/01/2020 - 01:33:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198204416173
+L 11/01/2020 - 01:33:02: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198204416173/?xml=1
+L 11/01/2020 - 01:33:15: -------- Mapchange to c11m1_greenhouse --------
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 01:33:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 01:34:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198383174803
+L 11/01/2020 - 01:34:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198383174803
+L 11/01/2020 - 01:34:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198383174803/?xml=1
+L 11/01/2020 - 01:35:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199089082803
+L 11/01/2020 - 01:35:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199089082803
+L 11/01/2020 - 01:35:32: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199089082803/?xml=1
+L 11/01/2020 - 01:36:02: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 4: time: 3.64 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:37:54: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 7: time: 1.15 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:38:44: [l4d2_skill_detect.smx] Clear: 5 freed 8 from 6: time: 2.40 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:40:35: [l4d2_skill_detect.smx] Clear: 9 freed 11 from 8: time: 1.95 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:41:04: [l4d2_skill_detect.smx] Charge carry start: 1 - 4 -- time: 458.70
+L 11/01/2020 - 01:41:10: [l4d2_skill_detect.smx] Checking charge victim: 1 - 4 - flags: 131 (alive? 0)
+L 11/01/2020 - 01:41:26: [l4d2_skill_detect.smx] Charge carry start: 1 - 9 -- time: 480.28
+L 11/01/2020 - 01:41:31: [l4d2_skill_detect.smx] Checking charge victim: 1 - 9 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:41:41: [l4d2_skill_detect.smx] Clear: 11 freed 2 from 7: time: 4.67 / 7.26 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:41:54: [l4d2_skill_detect.smx] Clear: 2 freed 11 from 5: time: 7.14 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 01:41:59: [l4d2_skill_detect.smx] Clear: 11 freed 2 from 5: time: 1.45 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 01:42:38: -------- Mapchange to c11m2_offices --------
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 01:42:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 01:43:55: -------- Mapchange to c8m1_apartment --------
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 01:43:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 01:44:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198348992450
+L 11/01/2020 - 01:44:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198348992450
+L 11/01/2020 - 01:44:29: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198348992450/?xml=1
+L 11/01/2020 - 01:45:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198409674502
+L 11/01/2020 - 01:45:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198409674502
+L 11/01/2020 - 01:45:39: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198409674502/?xml=1
+L 11/01/2020 - 01:45:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198358424833
+L 11/01/2020 - 01:45:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198358424833
+L 11/01/2020 - 01:45:54: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198358424833/?xml=1
+L 11/01/2020 - 01:45:54: [l4d2_skill_detect.smx] Clear: 8 freed 1 from 6: time: -1.00 / 1.29 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:46:20: [l4d2_skill_detect.smx] Clear: 5 freed 8 from 7: time: 1.34 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:46:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199064618235
+L 11/01/2020 - 01:46:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199064618235
+L 11/01/2020 - 01:46:31: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199064618235/?xml=1
+L 11/01/2020 - 01:47:19: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199086233122
+L 11/01/2020 - 01:47:19: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199086233122
+L 11/01/2020 - 01:47:19: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199086233122/?xml=1
+L 11/01/2020 - 01:47:42: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 6: time: 0.71 / 217.59 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:48:16: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 629)
+L 11/01/2020 - 01:48:16: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: Lautixs96., attacker dmg: 72, teamless dmg: 12
+L 11/01/2020 - 01:48:58: [l4d2_skill_detect.smx] Clear: 8 freed 3 from 4: time: 1.70 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:49:12: [l4d2_skill_detect.smx] Clear: 3 freed 8 from 2: time: -1.00 / 1.87 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:49:20: [l4d2_skill_detect.smx] calarm trigger: caller 1171 / activator 1171 / delay: 0.00
+L 11/01/2020 - 01:49:47: [l4d2_skill_detect.smx] Clear: 8 freed 5 from 2: time: 2.68 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:49:56: [l4d2_skill_detect.smx] Clear: 3 freed 5 from 6: time: 3.32 / 350.98 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:49:57: [l4d2_skill_detect.smx] Clear: 3 freed 3 from 4: time: -1.00 / 0.03 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:50:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198155258874
+L 11/01/2020 - 01:50:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198155258874
+L 11/01/2020 - 01:50:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198155258874/?xml=1
+L 11/01/2020 - 01:52:15: [l4d2_skill_detect.smx] Charge carry start: 8 - 9 -- time: 489.76
+L 11/01/2020 - 01:52:18: [l4d2_skill_detect.smx] Checking charge victim: 8 - 9 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:52:21: [l4d2_skill_detect.smx] Clear: 2 freed 11 from 1: time: 0.90 / 0.92 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:52:23: [l4d2_skill_detect.smx] Clear: 4 freed 9 from 8: time: 7.29 / 8.04 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:52:39: [l4d2_skill_detect.smx] Clear: 11 freed 4 from 1: time: -1.00 / 1.76 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:52:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198381020708
+L 11/01/2020 - 01:52:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198381020708
+L 11/01/2020 - 01:52:47: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198381020708/?xml=1
+L 11/01/2020 - 01:53:05: [l4d2_skill_detect.smx] Clear: 2 freed 11 from 1: time: 2.07 / 3.59 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:53:07: [l4d2_skill_detect.smx] Clear: 2 freed 6 from 8: time: 10.15 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:53:15: [admin_hp.smx]  
+L 11/01/2020 - 01:53:42: [l4d2_skill_detect.smx] Clear: 11 freed 11 from 8: time: -1.00 / 0.82 -- class: smoker (with shove? 1)
+L 11/01/2020 - 01:53:44: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198419498609
+L 11/01/2020 - 01:53:45: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198419498609
+L 11/01/2020 - 01:53:45: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198419498609/?xml=1
+L 11/01/2020 - 01:53:46: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 1: time: 9.98 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:54:15: [l4d2_skill_detect.smx] Clear: 2 freed 9 from 5: time: 9.01 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:54:18: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 3: time: 3.93 / 612.31 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:54:47: [l4d2_skill_detect.smx] Witch Crown Check: crown shot: 900, harrassed: 1 (full health: 1000 / drawthresh: 500 / oneshot 1)
+L 11/01/2020 - 01:54:52: [l4d2_skill_detect.smx] Clear: 2 freed 9 from 8: time: 1.23 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:55:09: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 3: time: 0.71 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 01:55:09: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 3: time: 0.71 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 01:55:10: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 3: time: 1.57 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:55:26: [l4d2_skill_detect.smx] Charge carry start: 1 - 2 -- time: 680.21
+L 11/01/2020 - 01:55:28: [l4d2_skill_detect.smx] Clear: 9 freed 2 from 1: time: 0.87 / 2.21 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:55:29: [l4d2_skill_detect.smx] Checking charge victim: 1 - 2 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:56:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199058828160
+L 11/01/2020 - 01:56:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199058828160
+L 11/01/2020 - 01:56:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199058828160/?xml=1
+L 11/01/2020 - 01:56:20: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 1: time: 2.40 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 01:56:25: [l4d2_skill_detect.smx] Clear: 2 freed 7 from 8: time: 1.53 / 5.04 -- class: smoker (with shove? 0)
+L 11/01/2020 - 01:56:47: [l4d2_skill_detect.smx] Clear: 4 freed 7 from 5: time: 1.12 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 01:57:19: [l4d2_skill_detect.smx] Clear: 6 freed 7 from 8: time: 1.95 / 793.40 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:58:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198957667904
+L 11/01/2020 - 01:58:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198957667904
+L 11/01/2020 - 01:58:05: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198957667904/?xml=1
+L 11/01/2020 - 01:58:11: [l4d2_skill_detect.smx] Charge carry start: 5 - 7 -- time: 845.29
+L 11/01/2020 - 01:58:12: [l4d2_skill_detect.smx] Clear: 6 freed 7 from 5: time: 0.48 / 1.59 -- class: charger (with shove? 0)
+L 11/01/2020 - 01:58:14: [l4d2_skill_detect.smx] Checking charge victim: 5 - 7 - flags: 1 (alive? 1)
+L 11/01/2020 - 01:58:52: -------- Mapchange to c8m2_subway --------
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 01:58:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 01:59:49: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "5")
+L 11/01/2020 - 02:00:18: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 11/01/2020 - 02:00:26: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "5")
+L 11/01/2020 - 02:00:48: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 11/01/2020 - 02:00:52: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "5")
+L 11/01/2020 - 02:00:57: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 11/01/2020 - 02:01:35: [l4d2_skill_detect.smx] Clear: 1 freed 10 from 4: time: 0.68 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:01:35: [l4d2_skill_detect.smx] Clear: 1 freed 7 from 2: time: 0.93 / 0.95 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:02:19: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 2: time: -1.00 / 1.39 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:02:44: [l4d2_skill_detect.smx] Clear: 5 freed 10 from 6: time: 1.53 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:03:19: [l4d2_skill_detect.smx] Clear: 7 freed 10 from 8: time: -1.00 / 0.53 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:03:24: [l4d2_skill_detect.smx] Charge carry start: 6 - 7 -- time: 262.00
+L 11/01/2020 - 02:03:28: [l4d2_skill_detect.smx] Checking charge victim: 6 - 10 - flags: 0 (alive? 1)
+L 11/01/2020 - 02:03:29: [l4d2_skill_detect.smx] Checking charge victim: 6 - 7 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:03:30: [l4d2_skill_detect.smx] Clear: 1 freed 7 from 6: time: 4.07 / 6.04 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:03:33: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 4: time: 10.57 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:03:54: [l4d2_skill_detect.smx] Clear: 1 freed 10 from 8: time: 3.04 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:04:25: [l4d2_skill_detect.smx] Clear: 10 freed 1 from 6: time: 1.98 / 5.01 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:05:02: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 0 / crowntype: 0 (entity: 841)
+L 11/01/2020 - 02:05:02: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 500, teamless dmg: 56
+L 11/01/2020 - 02:05:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198893000738
+L 11/01/2020 - 02:05:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198893000738
+L 11/01/2020 - 02:05:03: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198893000738/?xml=1
+L 11/01/2020 - 02:05:04: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 2: time: 3.64 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:05:23: [l4d2_skill_detect.smx] Clear: 7 freed 1 from 8: time: 1.17 / 4.84 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:05:23: [l4d2_skill_detect.smx] Charge carry start: 4 - 1 -- time: 380.96
+L 11/01/2020 - 02:05:26: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 4: time: 1.73 / 2.56 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:05:27: [l4d2_skill_detect.smx] Checking charge victim: 4 - 1 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:05:49: [l4d2_skill_detect.smx] Clear: 7 freed 10 from 2: time: 1.17 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:05:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198334301609
+L 11/01/2020 - 02:05:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198334301609
+L 11/01/2020 - 02:05:50: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198334301609/?xml=1
+L 11/01/2020 - 02:05:54: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 6: time: 2.18 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:06:08: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198158568880
+L 11/01/2020 - 02:06:08: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198158568880
+L 11/01/2020 - 02:06:08: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198158568880/?xml=1
+L 11/01/2020 - 02:06:20: [l4d2_skill_detect.smx] Charge carry start: 2 - 3 -- time: 437.14
+L 11/01/2020 - 02:06:23: [l4d2_skill_detect.smx] Checking charge victim: 2 - 3 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:06:24: [l4d2_skill_detect.smx] Clear: 5 freed 3 from 2: time: 3.56 / 4.79 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:07:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198103605505
+L 11/01/2020 - 02:07:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198103605505
+L 11/01/2020 - 02:07:22: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198103605505/?xml=1
+L 11/01/2020 - 02:08:17: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 5: time: 1.03 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 02:08:27: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 5: time: 7.18 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:08:53: [l4d2_skill_detect.smx] Clear: 2 freed 8 from 1: time: 1.73 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:09:39: [l4d2_skill_detect.smx] Clear: 4 freed 2 from 1: time: 3.43 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:10:06: [l4d2_skill_detect.smx] Clear: 4 freed 8 from 5: time: 2.79 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 02:10:49: -------- Mapchange to c8m3_sewers --------
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 02:10:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 02:11:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199067410554
+L 11/01/2020 - 02:11:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199067410554
+L 11/01/2020 - 02:11:18: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199067410554/?xml=1
+L 11/01/2020 - 02:12:24: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "5")
+L 11/01/2020 - 02:12:48: [l4d2_skill_detect.smx] Clear: 3 freed 5 from 6: time: -1.00 / 1.54 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:12:59: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 4: time: 9.23 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:13:55: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 2: time: 1.39 / 164.92 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:14:02: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 6: time: 7.59 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:14:46: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 8: time: -1.00 / 2.89 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:15:46: [l4d2_skill_detect.smx] Clear: 9 freed 9 from 2: time: 0.06 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 02:16:00: [l4d2_skill_detect.smx] Clear: 3 freed 5 from 8: time: 1.92 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:16:49: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 224)
+L 11/01/2020 - 02:16:49: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: Rhaegal, attacker dmg: 517, teamless dmg: 0
+L 11/01/2020 - 02:16:52: [l4d2_skill_detect.smx] Clear: 5 freed 9 from 8: time: 3.07 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:16:55: [l4d2_skill_detect.smx] Clear: 9 freed 3 from 4: time: 1.04 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 02:17:37: [l4d2_skill_detect.smx] Charge carry start: 2 - 9 -- time: 386.95
+L 11/01/2020 - 02:17:39: [l4d2_skill_detect.smx] Clear: 3 freed 9 from 2: time: 0.23 / 1.07 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:17:40: [l4d2_skill_detect.smx] Checking charge victim: 2 - 9 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:18:04: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 4: time: -1.00 / 1.04 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:18:15: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 6: time: 1.85 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 02:18:17: [l4d2_skill_detect.smx] Clear: 9 freed 1 from 2: time: 1.68 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:19:01: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 6: time: 1.85 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:19:37: [l4d2_skill_detect.smx] Clear: 9 freed 3 from 8: time: 2.07 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 02:20:04: [l4d2_skill_detect.smx] Clear: 3 freed 5 from 4: time: 1.79 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 02:20:08: [l4d2_skill_detect.smx] Charge carry start: 8 - 1 -- time: 537.31
+L 11/01/2020 - 02:20:11: [l4d2_skill_detect.smx] Checking charge victim: 8 - 1 - flags: 1 (alive? 0)
+L 11/01/2020 - 02:21:43: [l4d2_skill_detect.smx] Clear: 6 freed 4 from 9: time: -1.00 / 1.12 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:21:48: [l4d2_skill_detect.smx] Charge carry start: 5 - 8 -- time: 636.39
+L 11/01/2020 - 02:21:51: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 5: time: 0.53 / 3.50 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:21:51: [l4d2_skill_detect.smx] Checking charge victim: 5 - 4 - flags: 0 (alive? 1)
+L 11/01/2020 - 02:21:52: [l4d2_skill_detect.smx] Checking charge victim: 5 - 8 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:22:08: [l4d2_skill_detect.smx] Clear: 6 freed 2 from 3: time: 17.29 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 02:22:47: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 3: time: 0.12 / 2.68 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:22:48: [l4d2_skill_detect.smx] Charge carry start: 9 - 6 -- time: 696.95
+L 11/01/2020 - 02:22:49: [l4d2_skill_detect.smx] Clear: 2 freed 6 from 9: time: 0.23 / 1.09 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:22:51: [l4d2_skill_detect.smx] Checking charge victim: 9 - 6 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:23:08: [l4d2_skill_detect.smx] Clear: 2 freed 6 from 5: time: 2.07 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:23:26: [l4d2_skill_detect.smx] Charge carry start: 3 - 4 -- time: 734.81
+L 11/01/2020 - 02:23:29: [l4d2_skill_detect.smx] Clear: 8 freed 4 from 3: time: 1.09 / 2.82 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:23:30: [l4d2_skill_detect.smx] Checking charge victim: 3 - 4 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:24:14: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 3: time: 0.46 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 02:24:15: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 3: time: 1.09 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:24:41: [l4d2_skill_detect.smx] Charge carry start: 1 - 2 -- time: 809.50
+L 11/01/2020 - 02:24:45: [l4d2_skill_detect.smx] Clear: 8 freed 2 from 1: time: 1.60 / 4.14 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:24:45: [l4d2_skill_detect.smx] Checking charge victim: 1 - 2 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:25:40: [l4d2_skill_detect.smx] Clear: 8 freed 6 from 5: time: 1.45 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:25:40: [l4d2_skill_detect.smx] Charge carry start: 3 - 8 -- time: 869.28
+L 11/01/2020 - 02:25:43: [l4d2_skill_detect.smx] Checking charge victim: 3 - 8 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:25:44: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 3: time: 2.20 / 3.25 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:26:17: -------- Mapchange to c8m4_interior --------
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 02:26:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 02:27:18: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "5")
+L 11/01/2020 - 02:28:39: [l4d2_skill_detect.smx] Clear: 1 freed 7 from 8: time: 1.65 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:28:40: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 2: time: -1.00 / 1.07 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:29:36: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 8: time: 2.73 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:29:46: [l4d2_skill_detect.smx] Clear: 1 freed 1 from 4: time: -1.00 / 0.76 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:30:07: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 2: time: 1.17 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:31:50: [l4d2_skill_detect.smx] Charge carry start: 8 - 3 -- time: 297.42
+L 11/01/2020 - 02:31:54: [l4d2_skill_detect.smx] Checking charge victim: 8 - 3 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:31:54: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 6: time: -1.00 / 1.18 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:31:55: [l4d2_skill_detect.smx] Clear: 5 freed 3 from 8: time: 3.37 / 5.03 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:33:53: [l4d2_skill_detect.smx] Charge carry start: 6 - 5 -- time: 420.07
+L 11/01/2020 - 02:33:56: [l4d2_skill_detect.smx] Checking charge victim: 6 - 5 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:34:02: [l4d2_skill_detect.smx] Clear: 9 freed 5 from 6: time: 7.89 / 9.09 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:34:20: [l4d2_skill_detect.smx] Clear: 9 freed 5 from 4: time: 7.28 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:35:40: [l4d2_skill_detect.smx] Clear: 6 freed 2 from 5: time: 0.93 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 02:35:52: [l4d2_skill_detect.smx] Clear: 2 freed 8 from 1: time: 4.84 / 6.21 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:35:56: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 3: time: 2.20 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:36:52: [l4d2_skill_detect.smx] Clear: 6 freed 4 from 9: time: 1.39 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:36:58: [l4d2_skill_detect.smx] Clear: 8 freed 2 from 1: time: 0.98 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 02:37:26: [l4d2_skill_detect.smx] Clear: 2 freed 6 from 9: time: -1.00 / 1.45 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:37:43: [l4d2_skill_detect.smx] Clear: 8 freed 2 from 9: time: -1.00 / 0.62 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:37:46: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 3: time: 1.73 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:37:59: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 9: time: -1.00 / 1.56 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:38:14: [l4d2_skill_detect.smx] Charge carry start: 5 - 8 -- time: 680.31
+L 11/01/2020 - 02:38:17: [l4d2_skill_detect.smx] Checking charge victim: 5 - 4 - flags: 0 (alive? 1)
+L 11/01/2020 - 02:38:18: [l4d2_skill_detect.smx] Checking charge victim: 5 - 8 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:38:21: [l4d2_skill_detect.smx] Clear: 2 freed 8 from 5: time: 5.34 / 7.48 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:38:31: [l4d2_skill_detect.smx] Clear: 2 freed 6 from 3: time: 15.48 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 02:38:47: [l4d2_skill_detect.smx] Clear: 2 freed 6 from 1: time: 1.12 / 4.03 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:40:16: [l4d2_skill_detect.smx] Charge carry start: 3 - 2 -- time: 802.25
+L 11/01/2020 - 02:40:21: [l4d2_skill_detect.smx] Checking charge victim: 3 - 2 - flags: 43 (alive? 0)
+L 11/01/2020 - 02:40:53: -------- Mapchange to c8m5_rooftop --------
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4000")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "18")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "18")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_survival_bonus") (value "35")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_throw_health") (value "10")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "director_force_tank") (value "1")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_tankswap_choicetype") (value "2")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_min_interp_ratio") (value "-1")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_client_max_interp_ratio") (value "0")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minrate") (value "80000")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxrate") (value "80000")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_mincmdrate") (value "64")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxcmdrate") (value "64")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_minupdaterate") (value "64")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxupdaterate") (value "64")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "fps_max") (value "100")
+L 11/01/2020 - 02:40:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "hostname") (value "Versus")
+L 11/01/2020 - 02:42:31: [l4d2_skill_detect.smx] Clear: 3 freed 9 from 8: time: 1.43 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:42:33: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 2: time: -1.00 / 2.18 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:43:19: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 6: time: 3.10 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:44:13: [l4d2_skill_detect.smx] Clear: 3 freed 9 from 4: time: 0.93 / -1.00 -- class: jockey (with shove? 1)
+L 11/01/2020 - 02:44:40: [l4d2_skill_detect.smx] Clear: 10 freed 9 from 2: time: 1.01 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 02:44:41: [l4d2_skill_detect.smx] Clear: 3 freed 9 from 2: time: 1.68 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:44:51: [l4d2_skill_detect.smx] Clear: 10 freed 9 from 4: time: -1.00 / 1.98 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:45:33: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 8: time: 0.51 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:46:54: [l4d2_skill_detect.smx] Clear: 10 freed 1 from 8: time: -1.00 / 2.03 -- class: smoker (with shove? 1)
+L 11/01/2020 - 02:47:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561198237187494
+L 11/01/2020 - 02:47:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561198237187494
+L 11/01/2020 - 02:47:14: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561198237187494/?xml=1
+L 11/01/2020 - 02:47:15: [l4d2_skill_detect.smx] Clear: 3 freed 9 from 6: time: 5.40 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:47:53: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 6: time: 1.03 / 2.06 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:48:11: [l4d2_skill_detect.smx] Charge carry start: 4 - 9 -- time: 427.54
+L 11/01/2020 - 02:48:16: [l4d2_skill_detect.smx] Checking charge victim: 4 - 9 - flags: 1 (alive? 1)
+L 11/01/2020 - 02:48:17: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 4: time: 2.71 / 6.20 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:48:32: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 2: time: 1.57 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:49:01: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: sFriendID 76561199026271567
+L 11/01/2020 - 02:49:01: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: begin search in whitelist 76561199026271567
+L 11/01/2020 - 02:49:01: [l4d_profile_checker_v12.smx] [l4d_profile_checker] #DEBUG: link profiles/76561199026271567/?xml=1
+L 11/01/2020 - 02:50:22: [l4d2_skill_detect.smx] Clear: 2 freed 8 from 3: time: 1.79 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:50:25: [l4d2_skill_detect.smx] Clear: 2 freed 6 from 9: time: 4.82 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:51:01: [l4d2_skill_detect.smx] Clear: 6 freed 4 from 1: time: 2.90 / 3.90 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:51:14: [l4d2_skill_detect.smx] Clear: 2 freed 6 from 9: time: 10.89 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:51:37: [l4d2_skill_detect.smx] Clear: 6 freed 2 from 1: time: 6.14 / -1.00 -- class: jockey (with shove? 0)
+L 11/01/2020 - 02:52:13: [l4d2_skill_detect.smx] Clear: 8 freed 2 from 7: time: -1.00 / 2.57 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:52:16: [l4d2_skill_detect.smx] Clear: 4 freed 8 from 1: time: 1.89 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:53:41: [l4d2_skill_detect.smx] Clear: 8 freed 2 from 7: time: 0.00 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 02:53:43: [l4d2_skill_detect.smx] Clear: 8 freed 2 from 7: time: 1.46 / -1.00 -- class: hunter (with shove? 1)
+L 11/01/2020 - 02:53:45: [l4d2_skill_detect.smx] Clear: 8 freed 4 from 7: time: 1.46 / -1.00 -- class: hunter (with shove? 0)
+L 11/01/2020 - 02:54:52: [l4d2_skill_detect.smx] Clear: 6 freed 4 from 1: time: 5.23 / 7.32 -- class: smoker (with shove? 0)
+L 11/01/2020 - 02:55:03: [l4d2_skill_detect.smx] Clear: 8 freed 2 from 3: time: 4.59 / 839.35 -- class: charger (with shove? 0)
+L 11/01/2020 - 02:55:33: Log file closed.

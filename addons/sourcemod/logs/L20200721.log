@@ -1,0 +1,98 @@
+L 07/21/2020 - 12:36:06: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 12:36:06: -------- Mapchange to c10m1_caves --------
+L 07/21/2020 - 12:36:11: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/21/2020 - 12:36:12: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/21/2020 - 12:36:34: [SM] Changed map to "c10m1_caves"
+L 07/21/2020 - 12:36:37: -------- Mapchange to c10m1_caves --------
+L 07/21/2020 - 12:39:08: Log file closed.
+L 07/21/2020 - 12:42:45: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 12:42:45: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 12:42:47: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/21/2020 - 12:42:47: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/21/2020 - 12:42:59: [SM] Changed map to "c8m1_apartment"
+L 07/21/2020 - 12:43:01: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 12:43:50: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 12:44:38: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 12:45:12: Log file closed.
+L 07/21/2020 - 12:50:07: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 12:50:07: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 12:50:09: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/21/2020 - 12:50:09: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/21/2020 - 12:50:18: [SM] Changed map to "c8m1_apartment"
+L 07/21/2020 - 12:50:20: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 12:50:40: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 12:52:02: Log file closed.
+L 07/21/2020 - 12:52:55: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 12:52:55: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 12:52:57: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/21/2020 - 12:52:57: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/21/2020 - 12:53:07: [SM] Changed map to "c8m1_apartment"
+L 07/21/2020 - 12:53:09: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 12:53:28: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 12:55:59: Log file closed.
+L 07/21/2020 - 13:20:42: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 13:20:42: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 13:20:44: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/21/2020 - 13:20:44: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/21/2020 - 13:20:53: [SM] Changed map to "c8m1_apartment"
+L 07/21/2020 - 13:20:56: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 13:22:25: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Francis<3><BOT><>"
+L 07/21/2020 - 13:22:25: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Bill<4><BOT><>"
+L 07/21/2020 - 13:22:25: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Louis<5><BOT><>"
+L 07/21/2020 - 13:23:50: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<16><BOT><>"
+L 07/21/2020 - 13:23:51: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<18><BOT><>"
+L 07/21/2020 - 13:23:51: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Hunter<19><BOT><>"
+L 07/21/2020 - 13:23:51: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Zoey<13><BOT><>"
+L 07/21/2020 - 13:23:52: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Bill<14><BOT><>"
+L 07/21/2020 - 13:26:26: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 13:26:27: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<36><BOT><>"
+L 07/21/2020 - 13:26:27: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<37><BOT><>"
+L 07/21/2020 - 13:26:27: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 13:26:28: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 13:26:28: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 13:26:28: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 13:26:32: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 13:26:33: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Boomer<38><BOT><>"
+L 07/21/2020 - 13:26:57: -------- Mapchange to c8m2_subway --------
+L 07/21/2020 - 13:35:57: Log file closed.
+L 07/21/2020 - 13:41:53: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 13:41:53: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 13:41:57: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/21/2020 - 13:41:57: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/21/2020 - 13:42:11: [SM] Changed map to "c8m1_apartment"
+L 07/21/2020 - 13:42:13: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 13:43:15: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 13:44:14: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 13:44:17: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 13:44:49: Log file closed.
+L 07/21/2020 - 14:20:01: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 14:20:01: Log file closed.
+L 07/21/2020 - 14:24:52: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 14:24:52: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 14:24:56: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/21/2020 - 14:24:56: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/21/2020 - 14:25:17: [SM] Changed map to "c8m1_apartment"
+L 07/21/2020 - 14:25:20: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 14:25:38: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 14:26:14: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 14:26:22: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 14:27:05: Log file closed.
+L 07/21/2020 - 14:48:49: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 14:48:49: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 14:48:53: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/21/2020 - 14:48:53: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/21/2020 - 14:49:03: [SM] Changed map to "c8m1_apartment"
+L 07/21/2020 - 14:49:05: -------- Mapchange to c8m1_apartment --------
+L 07/21/2020 - 14:50:32: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 14:50:38: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/21/2020 - 14:53:52: Log file closed.
+L 07/21/2020 - 15:11:59: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 15:11:59: Log file closed.
+L 07/21/2020 - 16:35:31: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 16:35:31: Log file closed.
+L 07/21/2020 - 17:36:41: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 17:36:41: Log file closed.
+L 07/21/2020 - 18:51:09: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 18:51:09: Log file closed.
+L 07/21/2020 - 21:56:03: SourceMod log file session started (file "L20200721.log") (Version "1.8.0.6041")
+L 07/21/2020 - 21:56:03: Log file closed.

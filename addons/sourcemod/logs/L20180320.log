@@ -1,0 +1,39 @@
+L 03/20/2018 - 17:00:14: SourceMod log file session started (file "L20180320.log") (Version "1.8.0.6041")
+L 03/20/2018 - 17:00:14: -------- Mapchange to c1m1_hotel --------
+L 03/20/2018 - 17:00:17: [GEOIP] GeoIP database info: GEO-106FREE 20180206 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/20/2018 - 17:00:35: [SM] Changed map to "c1m1_hotel"
+L 03/20/2018 - 17:00:38: -------- Mapchange to c1m1_hotel --------
+L 03/20/2018 - 17:01:28: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 03/20/2018 - 17:03:56: -------- Mapchange to c4m1_milltown_a --------
+L 03/20/2018 - 17:05:05: [playercommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" slapped "۩ Duяåznlто™ ۩<7><STEAM_1:0:63214260><>" (damage "0")
+L 03/20/2018 - 17:05:09: [playercommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" slapped "۩ Duяåznlто™ ۩<7><STEAM_1:0:63214260><>" (damage "0")
+L 03/20/2018 - 17:05:11: [playercommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" slapped "۩ Duяåznlто™ ۩<7><STEAM_1:0:63214260><>" (damage "0")
+L 03/20/2018 - 17:05:11: [playercommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" slapped "۩ Duяåznlто™ ۩<7><STEAM_1:0:63214260><>" (damage "0")
+L 03/20/2018 - 17:09:24: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" froze "♛ Rain ♛<6><STEAM_1:0:162762726><>"
+L 03/20/2018 - 17:09:28: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" froze "♛ Rain ♛<6><STEAM_1:0:162762726><>"
+L 03/20/2018 - 17:09:33: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" froze "old man senil<8><STEAM_1:0:53525099><>"
+L 03/20/2018 - 17:09:36: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" froze "old man senil<8><STEAM_1:0:53525099><>"
+L 03/20/2018 - 17:09:42: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" froze "۩ Duяåznlто™ ۩<7><STEAM_1:0:63214260><>"
+L 03/20/2018 - 17:09:46: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" froze "۩ Duяåznlто™ ۩<7><STEAM_1:0:63214260><>"
+L 03/20/2018 - 17:09:56: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" set a FreezeBomb on "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>"
+L 03/20/2018 - 17:10:18: [funcommands.smx] "♛ Rain ♛<6><STEAM_1:0:162762726><>" set a TimeBomb on "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>"
+L 03/20/2018 - 17:11:05: [funcommands.smx] "♛ Rain ♛<6><STEAM_1:0:162762726><>" drugged "۩ Duяåznlто™ ۩<7><STEAM_1:0:63214260><>"
+L 03/20/2018 - 17:11:05: [funcommands.smx] "♛ Rain ♛<6><STEAM_1:0:162762726><>" undrugged "۩ Duяåznlто™ ۩<7><STEAM_1:0:63214260><>"
+L 03/20/2018 - 17:11:10: [funcommands.smx] "♛ Rain ♛<6><STEAM_1:0:162762726><>" drugged "۩ Duяåznlто™ ۩<7><STEAM_1:0:63214260><>"
+L 03/20/2018 - 17:11:29: [funcommands.smx] "♛ Rain ♛<6><STEAM_1:0:162762726><>" drugged "old man senil<8><STEAM_1:0:53525099><>"
+L 03/20/2018 - 17:11:41: [funcommands.smx] "♛ Rain ♛<6><STEAM_1:0:162762726><>" drugged "♛ Rain ♛<6><STEAM_1:0:162762726><>"
+L 03/20/2018 - 17:12:10: -------- Mapchange to c8m1_apartment --------
+L 03/20/2018 - 17:21:20: -------- Mapchange to c8m2_subway --------
+L 03/20/2018 - 17:29:04: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" set blind on "♛ Rain ♛<6><STEAM_1:0:162762726><>", amount 255.
+L 03/20/2018 - 17:29:08: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" set blind on "♛ Rain ♛<6><STEAM_1:0:162762726><>", amount 0.
+L 03/20/2018 - 17:33:32: -------- Mapchange to c8m3_sewers --------
+L 03/20/2018 - 17:43:22: -------- Mapchange to c8m4_interior --------
+L 03/20/2018 - 17:44:20: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" set a FreezeBomb on "Legend<106><STEAM_1:1:154463135><>"
+L 03/20/2018 - 17:44:31: [funcommands.smx] "۩ Calavera Oscura™ ۩<9><STEAM_1:0:55764397><>" set a FreezeBomb on "old man senil<8><STEAM_1:0:53525099><>"
+L 03/20/2018 - 17:48:41: SourceMod log file session started (file "L20180320.log") (Version "1.8.0.6041")
+L 03/20/2018 - 17:48:41: -------- Mapchange to c9m1_alleys --------
+L 03/20/2018 - 17:48:41: [GEOIP] GeoIP database info: GEO-106FREE 20180206 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 03/20/2018 - 17:48:48: [SM] Changed map to "c9m1_alleys"
+L 03/20/2018 - 17:48:52: -------- Mapchange to c9m1_alleys --------
+L 03/20/2018 - 17:50:40: [funcommands.smx] "۩ Calavera Oscura™ ۩<4><STEAM_1:0:55764397><>" set a FreezeBomb on "old man senil<5><STEAM_1:0:53525099><>"
+L 03/20/2018 - 17:50:43: [funcommands.smx] "۩ Calavera Oscura™ ۩<4><STEAM_1:0:55764397><>" removed a FreezeBomb on "old man senil<5><STEAM_1:0:53525099><>"

@@ -1,0 +1,213 @@
+L 08/02/2020 - 00:14:49: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 00:14:49: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 00:14:55: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 00:14:56: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 00:15:27: [SM] Changed map to "c1m1_hotel"
+L 08/02/2020 - 00:15:30: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 00:17:57: -------- Mapchange to c8m1_apartment --------
+L 08/02/2020 - 01:18:51: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 01:18:51: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 01:18:57: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 01:18:58: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 01:19:29: [SM] Changed map to "c1m1_hotel"
+L 08/02/2020 - 01:19:32: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 01:42:38: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 02:06:40: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 02:10:33: -------- Mapchange to c8m1_apartment --------
+L 08/02/2020 - 02:25:42: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 02:25:42: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 02:25:47: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 02:25:47: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 02:26:07: [SM] Changed map to "c1m1_hotel"
+L 08/02/2020 - 02:26:10: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 02:30:34: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<3><BOT><>"
+L 08/02/2020 - 02:30:34: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<4><BOT><>"
+L 08/02/2020 - 02:30:34: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<5><BOT><>"
+L 08/02/2020 - 02:30:34: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<6><BOT><>"
+L 08/02/2020 - 02:30:34: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<7><BOT><>"
+L 08/02/2020 - 02:30:40: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 02:30:54: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 02:31:12: -------- Mapchange to c1m2_streets --------
+L 08/02/2020 - 02:38:24: -------- Mapchange to c1m2_streets --------
+L 08/02/2020 - 02:41:58: Log file closed.
+L 08/02/2020 - 03:03:24: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 03:03:24: -------- Mapchange to c1m2_streets --------
+L 08/02/2020 - 03:03:29: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 03:03:29: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 03:03:51: [SM] Changed map to "c1m2_streets"
+L 08/02/2020 - 03:03:54: -------- Mapchange to c1m2_streets --------
+L 08/02/2020 - 03:05:37: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 03:05:47: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 03:06:13: -------- Mapchange to c1m3_mall --------
+L 08/02/2020 - 03:09:44: Log file closed.
+L 08/02/2020 - 18:05:00: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 18:05:00: -------- Mapchange to c2m1_highway --------
+L 08/02/2020 - 18:05:05: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 18:05:06: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 18:05:34: [SM] Changed map to "c2m1_highway"
+L 08/02/2020 - 18:05:37: -------- Mapchange to c2m1_highway --------
+L 08/02/2020 - 18:06:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:06:53: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:07:11: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:07:49: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:08:07: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:08:14: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:08:16: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:08:49: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 18:14:01: -------- Mapchange to C12m1_hilltop --------
+L 08/02/2020 - 18:17:27: -------- Mapchange to c13m1_alpinecreek --------
+L 08/02/2020 - 18:21:14: -------- Mapchange to c13m2_southpinestream --------
+L 08/02/2020 - 18:22:56: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:23:39: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:23:43: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<42><BOT><>"
+L 08/02/2020 - 18:23:43: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<43><BOT><>"
+L 08/02/2020 - 18:23:43: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<44><BOT><>"
+L 08/02/2020 - 18:23:43: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<50><BOT><>"
+L 08/02/2020 - 18:23:43: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Meteor Tankㅣ운석탱크<49><BOT><>"
+L 08/02/2020 - 18:24:01: -------- Mapchange to c13m3_memorialbridge --------
+L 08/02/2020 - 18:27:35: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:27:43: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 08/02/2020 - 18:27:48: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:28:00: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:28:03: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<52><BOT><>"
+L 08/02/2020 - 18:28:03: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<62><BOT><>"
+L 08/02/2020 - 18:28:03: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<61><BOT><>"
+L 08/02/2020 - 18:28:22: -------- Mapchange to c13m4_cutthroatcreek --------
+L 08/02/2020 - 18:31:12: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:31:16: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:31:43: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:31:44: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:31:45: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:31:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 18:31:54: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Coach<63><BOT><>"
+L 08/02/2020 - 18:31:55: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Nick<64><BOT><>"
+L 08/02/2020 - 18:31:55: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Ellis<65><BOT><>"
+L 08/02/2020 - 18:32:19: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Coach<63><BOT><>"
+L 08/02/2020 - 18:32:19: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Nick<64><BOT><>"
+L 08/02/2020 - 18:32:20: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Ellis<65><BOT><>"
+L 08/02/2020 - 18:32:44: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 18:33:15: Log file closed.
+L 08/02/2020 - 19:17:30: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 19:17:30: Log file closed.
+L 08/02/2020 - 19:19:08: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 19:19:08: Log file closed.
+L 08/02/2020 - 19:49:00: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 19:49:00: -------- Mapchange to c1m2_streets --------
+L 08/02/2020 - 19:49:04: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 19:49:05: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 19:49:26: [SM] Changed map to "c1m2_streets"
+L 08/02/2020 - 19:49:29: -------- Mapchange to c1m2_streets --------
+L 08/02/2020 - 19:52:35: Log file closed.
+L 08/02/2020 - 20:25:32: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 20:25:32: -------- Mapchange to c2m1_highway --------
+L 08/02/2020 - 20:25:37: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 20:25:37: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 20:26:11: [SM] Changed map to "c2m1_highway"
+L 08/02/2020 - 20:26:28: -------- Mapchange to c2m1_highway --------
+L 08/02/2020 - 20:29:22: -------- Mapchange to c8m1_apartment --------
+L 08/02/2020 - 20:32:01: -------- Mapchange to c2m1_highway --------
+L 08/02/2020 - 20:34:50: [funcommands.smx] "♛ Rain ♛<12><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<12><STEAM_1:0:162762726><>"
+L 08/02/2020 - 20:34:55: [funcommands.smx] "♛ Rain ♛<12><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<12><STEAM_1:0:162762726><>"
+L 08/02/2020 - 20:35:22: -------- Mapchange to c1m1_hotel --------
+L 08/02/2020 - 20:37:57: -------- Mapchange to c13m1_alpinecreek --------
+L 08/02/2020 - 20:39:16: -------- Mapchange to c2m1_highway --------
+L 08/02/2020 - 20:40:58: -------- Mapchange to c5m1_waterfront --------
+L 08/02/2020 - 20:43:11: -------- Mapchange to c5m2_park --------
+L 08/02/2020 - 20:46:20: Log file closed.
+L 08/02/2020 - 20:53:04: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 20:53:04: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 20:53:09: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 20:53:09: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 20:53:35: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 20:53:38: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 20:56:25: -------- Mapchange to C12m1_hilltop --------
+L 08/02/2020 - 20:59:16: -------- Mapchange to c12m2_traintunnel --------
+L 08/02/2020 - 21:02:39: -------- Mapchange to c12m3_bridge --------
+L 08/02/2020 - 21:15:39: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:19:15: Log file closed.
+L 08/02/2020 - 21:25:06: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 21:25:06: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:25:10: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 21:25:10: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 21:25:37: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 21:25:40: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:27:17: Log file closed.
+L 08/02/2020 - 21:38:18: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 21:38:18: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:38:22: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 21:38:23: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 21:38:47: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 21:38:50: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:40:35: Log file closed.
+L 08/02/2020 - 21:43:34: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 21:43:34: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:43:39: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 21:43:39: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 21:44:08: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 21:44:11: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:46:27: Log file closed.
+L 08/02/2020 - 21:52:11: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 21:52:11: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:52:15: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 21:52:15: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 21:52:39: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 21:52:42: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:55:06: Log file closed.
+L 08/02/2020 - 21:56:26: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 21:56:26: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:56:28: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 21:56:28: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 21:56:38: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 21:56:40: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 21:58:01: Log file closed.
+L 08/02/2020 - 22:00:20: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 22:00:20: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:00:21: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 22:00:22: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 22:00:32: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 22:00:34: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:01:35: -------- Mapchange to c2m1_highway --------
+L 08/02/2020 - 22:03:11: Log file closed.
+L 08/02/2020 - 22:11:05: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 22:11:05: -------- Mapchange to c8m1_apartment --------
+L 08/02/2020 - 22:11:11: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 22:11:11: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 22:11:55: [SM] Changed map to "c8m1_apartment"
+L 08/02/2020 - 22:11:58: -------- Mapchange to c8m1_apartment --------
+L 08/02/2020 - 22:13:17: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/02/2020 - 22:14:10: Log file closed.
+L 08/02/2020 - 22:29:37: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 22:29:37: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:29:41: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 22:29:42: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 22:30:10: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 22:30:13: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:32:20: Log file closed.
+L 08/02/2020 - 22:32:55: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 22:32:55: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:32:57: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 22:32:57: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 22:33:07: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 22:33:09: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:36:35: Log file closed.
+L 08/02/2020 - 22:41:09: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 22:41:10: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:41:13: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 22:41:14: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 22:41:40: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 22:41:42: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:44:04: Log file closed.
+L 08/02/2020 - 22:47:22: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 22:47:22: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:47:27: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 22:47:27: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 22:47:52: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 22:47:54: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:51:38: Log file closed.
+L 08/02/2020 - 22:52:54: SourceMod log file session started (file "L20200802.log") (Version "1.8.0.6041")
+L 08/02/2020 - 22:52:54: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:52:58: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/02/2020 - 22:52:58: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/02/2020 - 22:53:17: [SM] Changed map to "c10m1_caves"
+L 08/02/2020 - 22:53:19: -------- Mapchange to c10m1_caves --------
+L 08/02/2020 - 22:57:55: Log file closed.

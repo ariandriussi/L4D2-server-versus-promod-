@@ -1,0 +1,23 @@
+"Phrases"
+{
+	"Switch Map/Mission"
+	{
+		"en"		"Cambiar Campaña"
+	}
+	
+	"All maps"
+	{
+		"en"		"Todos los Mapas"
+	}
+	
+	"Choose a Map"
+	{
+		"en"		"Elige un Mapa"
+	}
+	
+	"Admin is forcing a map change"
+	{
+		"#format"		"{1:s}"
+		"en"		"Cambiando Campaña a  {1}"
+	}
+}

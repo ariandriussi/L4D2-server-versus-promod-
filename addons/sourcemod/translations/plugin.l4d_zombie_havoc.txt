@@ -1,0 +1,242 @@
+"Phrases"
+{
+	"L_AUTO_CONNECT"
+	{
+		"en" 	"You have been automatically connected and moved to the Survivor team, good luck!"
+	}
+
+	"L_AUTO_HAVOC"
+	{
+		"en"	"Auto Havoc"
+	}
+
+	"L_AUTO_HAVOC_1"
+	{
+		"en"	"[Zombie Havoc] Auto Havoc Level 1 activated.  Good luck!"
+	}
+
+	"L_AUTO_HAVOC_2"
+	{
+		"en"	"[Zombie Havoc] Auto Havoc Level 2 activated.  This should be fun!"
+	}
+
+	"L_AUTO_HAVOC_3"
+	{
+		"en"	"[Zombie Havoc] Auto Havoc Level 3 activated. Time to die!"
+	}
+
+	"L_AUTO_HAVOC_DISABLED"
+	{
+		"en"	"[Zombie Havoc] Auto Havoc disabled!"
+	}
+
+	"L_AUTO_HAVOC_ENABLED"
+	{
+		"en"	"[Zombie Havoc] Auto Havoc enabled!"
+	}
+
+	"L_AUTO_HAVOC_OFF"
+	{
+		"en"	"Off"
+	}
+
+	"L_AUTO_HAVOC_ON"
+	{
+		"en"	"On"
+	}
+
+	"L_AUTO_HAVOC_TOGGLE"
+	{
+		"en"	"Toggle Auto Havoc:"
+	}
+
+	"L_BLOOD_HARVEST"
+	{
+		"en"	"Blood Harvest"
+	}
+
+	"L_BLOOD_HARVEST_BRIDGE"
+	{
+		"en"	"Bridge"
+	}
+
+	"L_BLOOD_HARVEST_FARMHOUSE_FINALE"
+	{
+		"en"	"Farmhouse Finale"
+	}
+
+	"L_BLOOD_HARVEST_MAPS"
+	{
+		"en"	"Blood Harvest Maps:"
+	}
+
+	"L_BLOOD_HARVEST_TRAIN_STATIONS"
+	{
+		"en"	"Train Station"
+	}
+
+	"L_BLOOD_HARVEST_TUNNEL"
+	{
+		"en"	"Tunnel"
+	}
+
+	"L_BLOOD_HARVEST_WOODS"
+	{
+		"en"	"Woods"
+	}
+
+	"L_BOT_SPAWNED"
+	{
+		"en"	"A Survivor Bot will be spawned for you.  Type /sm_jointeam to take it over once it spawns!"
+	}
+
+	"L_CHANGE_MAP"
+	{
+		"en"	"Change Map"
+	}
+
+	"L_CHOOSE_CAMPAIGN"
+	{
+		"en"	"Choose a Campaign:"
+	}
+
+	"L_CRASH_COURSE"
+	{
+		"en"	"Crash Course"
+	}
+
+	"L_CRASH_COURSE_ALLEYS"
+	{
+		"en"	"Alleys"
+	}
+
+	"L_CRASH_COURSE_MAPS"
+	{
+		"en"	"Crash Course Maps:"
+	}
+
+	"L_CRASH_COURSE_TRUCK_DEPOT"
+	{
+		"en"	"Truck Depot"
+	}
+
+	"L_DEAD_AIR"
+	{
+		"en"	"Dead Air"
+	}
+
+	"L_DEAD_AIR_CONSTRUCTION_SITE"
+	{
+		"en"	"Construction Site"
+	}
+
+	"L_DEAD_AIR_CRANE"
+	{
+		"en"	"Crane"
+	}
+
+	"L_DEAD_AIR_GREENHOUSE"
+	{
+		"en"	"Greenhouse"
+	}
+
+	"L_DEAD_AIR_MAPS"
+	{
+		"en"	"Dead Air Maps:"
+	}
+
+	"L_DEAD_AIR_RUNWAY_FINALE"
+	{
+		"en"	"Runway Finale"
+	}
+
+	"L_DEAD_AIR_TERMINAL"
+	{
+		"en"	"Terminal"
+	}
+
+	"L_DEATH_TOLL"
+	{
+		"en"	"Death Toll"
+	}
+
+	"L_DEATH_TOLL_BOATHOUSE_FINALE"
+	{
+		"en"	"Boathouse Finale"
+	}
+
+	"L_DEATH_TOLL_CHURCH"
+	{
+		"en"	"Church"
+	}
+
+	"L_DEATH_TOLL_DRAINS"
+	{
+		"en"	"Drains"
+	}
+
+	"L_DEATH_TOLL_TOWN"
+	{
+		"en"	"Town"
+	}
+
+	"L_DEATH_TOLL_TURNPIKE"
+	{
+		"en"	"Turnpike"
+	}
+
+	"L_DEATH_TOLL_MAPS"
+	{
+		"en"	"Death Toll Maps:"
+	}
+
+	"L_NO_MERCY"
+	{
+		"en"	"No Mercy"
+	}
+
+	"L_NO_MERCY_APARTMENTS"
+	{
+		"en"	"Apartments"
+	}
+
+	"L_NO_MERCY_HOSPITAL"
+	{
+		"en"	"Hospital"
+	}
+
+	"L_NO_MERCY_MAPS"
+	{
+		"en"	"No Mercy Maps:"
+	}
+
+	"L_NO_MERCY_ROOFTOP_FINALE"
+	{
+		"en"	"Rooftop Finale"
+	}
+
+	"L_NO_MERCY_SEWERS"
+	{
+		"en"	"Sewers"
+	}
+
+	"L_NO_MERCY_SUBWAY"
+	{
+		"en"	"Subway"
+	}
+
+	"L_SURVIVOR_TEAM_FULL"
+	{
+		"en"	"The Survivor team is full, please wait until a slot opens"
+	}
+
+	"L_ZOMBIE_HAVOC"
+	{
+		"en"	"Zombie Havoc"
+	}
+
+	"L_ZOMBIE_HAVOC_COL"
+	{
+		"en"	"Zombie Havoc:"
+	}
+}

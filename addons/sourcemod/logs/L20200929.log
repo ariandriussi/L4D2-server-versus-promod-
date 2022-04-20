@@ -1,0 +1,677 @@
+L 09/29/2020 - 02:22:23: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200929.log") (Version "1.10.0.6492")
+L 09/29/2020 - 02:22:23: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/29/2020 - 02:22:25: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/29/2020 - 02:22:44: [SM] Changed map to "c8m5_rooftop"
+L 09/29/2020 - 02:22:46: -------- Mapchange to c8m5_rooftop --------
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 02:23:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 02:24:39: [admin_hp.smx]  
+L 09/29/2020 - 02:25:09: [admin_hp.smx]  
+L 09/29/2020 - 02:27:05: [admin_hp.smx]  
+L 09/29/2020 - 02:29:49: [admin_hp.smx]  
+L 09/29/2020 - 02:29:59: [admin_hp.smx]  
+L 09/29/2020 - 02:32:22: [admin_hp.smx]  
+L 09/29/2020 - 02:32:41: [admin_hp.smx]  
+L 09/29/2020 - 02:33:09: [admin_hp.smx]  
+L 09/29/2020 - 02:33:11: [admin_hp.smx]  
+L 09/29/2020 - 02:33:12: [admin_hp.smx]  
+L 09/29/2020 - 02:33:13: [admin_hp.smx]  
+L 09/29/2020 - 02:33:14: [admin_hp.smx]  
+L 09/29/2020 - 02:33:15: [admin_hp.smx]  
+L 09/29/2020 - 02:33:16: [admin_hp.smx]  
+L 09/29/2020 - 02:33:17: [admin_hp.smx]  
+L 09/29/2020 - 02:33:18: [admin_hp.smx]  
+L 09/29/2020 - 02:33:58: [admin_hp.smx]  
+L 09/29/2020 - 02:34:01: [admin_hp.smx]  
+L 09/29/2020 - 02:34:03: [admin_hp.smx]  
+L 09/29/2020 - 02:34:07: [admin_hp.smx]  
+L 09/29/2020 - 02:34:13: [admin_hp.smx]  
+L 09/29/2020 - 02:34:31: [admin_hp.smx]  
+L 09/29/2020 - 02:37:58: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<98><BOT><>"
+L 09/29/2020 - 02:38:40: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<102><BOT><>"
+L 09/29/2020 - 02:40:39: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 02:41:28: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 02:41:33: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 02:41:53: [admin_hp.smx]  
+L 09/29/2020 - 02:42:05: [admin_hp.smx]  
+L 09/29/2020 - 02:44:06: [admin_hp.smx]  
+L 09/29/2020 - 02:47:06: [admin_hp.smx]  
+L 09/29/2020 - 02:47:29: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Smoker<135><BOT><>"
+L 09/29/2020 - 02:47:29: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<146><BOT><>"
+L 09/29/2020 - 02:48:32: [admin_hp.smx]  
+L 09/29/2020 - 02:49:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 02:49:49: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 02:51:58: -------- Mapchange to c10m1_caves --------
+L 09/29/2020 - 02:54:09: -------- Mapchange to c10m2_drainage --------
+L 09/29/2020 - 02:54:29: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 02:54:38: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 02:55:22: -------- Mapchange to c10m3_ranchhouse --------
+L 09/29/2020 - 02:57:59: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 02:58:08: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 02:59:15: -------- Mapchange to c10m4_mainstreet --------
+L 09/29/2020 - 03:01:35: -------- Mapchange to c10m5_houseboat --------
+L 09/29/2020 - 03:04:46: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 03:06:19: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:06:33: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:07:08: -------- Mapchange to c10m5_houseboat --------
+L 09/29/2020 - 03:07:26: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:07:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:07:45: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:07:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:07:48: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:07:53: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:07:54: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:07:56: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:08:02: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:08:04: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:08:08: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:08:10: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:08:12: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:08:12: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:08:18: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 03:08:49: Log file closed.
+L 09/29/2020 - 04:30:27: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200929.log") (Version "1.10.0.6492")
+L 09/29/2020 - 04:30:27: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/29/2020 - 04:30:30: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/29/2020 - 04:30:48: [SM] Changed map to "c1m2_streets"
+L 09/29/2020 - 04:30:51: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 04:32:02: [admin_hp.smx]  
+L 09/29/2020 - 04:33:07: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 04:33:32: [l4d2_tankswap.smx] ReplaceTank being called, client Tank target ♛ Rain ♛
+L 09/29/2020 - 04:33:32: [l4d2_tankswap.smx] ZombieManager pointer: 0x46aac00
+L 09/29/2020 - 04:34:13: [l4d2_tankswap.smx] ReplaceTank being called, client Tank target ♛ Rain ♛
+L 09/29/2020 - 04:34:13: [l4d2_tankswap.smx] ZombieManager pointer: 0x46aac00
+L 09/29/2020 - 04:36:31: Log file closed.
+L 09/29/2020 - 04:46:42: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200929.log") (Version "1.10.0.6492")
+L 09/29/2020 - 04:46:42: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/29/2020 - 04:46:43: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/29/2020 - 04:46:50: [SM] Changed map to "c1m2_streets"
+L 09/29/2020 - 04:46:53: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 04:47:54: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 04:48:03: [l4d2_tankswap.smx] ReplaceTank being called, client Tank target ♛ Rain ♛
+L 09/29/2020 - 04:48:03: [l4d2_tankswap.smx] ZombieManager pointer: 0x490ac00
+L 09/29/2020 - 04:52:13: Log file closed.
+L 09/29/2020 - 04:54:18: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200929.log") (Version "1.10.0.6492")
+L 09/29/2020 - 04:54:18: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/29/2020 - 04:54:19: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 04:54:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 04:54:25: [SM] Changed map to "c1m2_streets"
+L 09/29/2020 - 04:54:28: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 04:54:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 04:57:13: [admin_hp.smx]  
+L 09/29/2020 - 04:57:18: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 04:57:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/29/2020 - 04:57:37: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 04:58:08: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter<13><BOT><>"
+L 09/29/2020 - 04:58:08: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<4><BOT><>"
+L 09/29/2020 - 04:58:09: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<6><BOT><>"
+L 09/29/2020 - 04:58:09: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Hunter<16><BOT><>"
+L 09/29/2020 - 04:58:09: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<14><BOT><>"
+L 09/29/2020 - 04:58:09: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<15><BOT><>"
+L 09/29/2020 - 04:58:09: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<17><BOT><>"
+L 09/29/2020 - 04:58:09: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 04:58:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 04:58:47: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 05:00:39: Log file closed.
+L 09/29/2020 - 05:16:44: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200929.log") (Version "1.10.0.6492")
+L 09/29/2020 - 05:16:44: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/29/2020 - 05:16:47: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 05:16:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 05:17:01: [SM] Changed map to "c1m2_streets"
+L 09/29/2020 - 05:17:04: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 05:17:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 05:31:50: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 05:31:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 05:36:52: -------- Mapchange to c1m1_hotel --------
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 05:36:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 05:37:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 05:37:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 05:37:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 05:47:01: Log file closed.
+L 09/29/2020 - 05:51:45: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200929.log") (Version "1.10.0.6492")
+L 09/29/2020 - 05:51:45: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/29/2020 - 05:51:48: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 05:51:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 05:52:01: [SM] Changed map to "c1m2_streets"
+L 09/29/2020 - 05:52:04: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 05:52:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 05:53:52: [admin_hp.smx]  
+L 09/29/2020 - 05:55:26: [admin_hp.smx]  
+L 09/29/2020 - 05:58:13: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 06:01:40: [admin_hp.smx]  
+L 09/29/2020 - 06:06:02: [admin_hp.smx]  
+L 09/29/2020 - 06:10:34: -------- Mapchange to c1m3_mall --------
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 06:10:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 06:12:53: [admin_hp.smx]  
+L 09/29/2020 - 06:13:23: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 06:14:16: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 06:14:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 06:17:50: [admin_hp.smx]  
+L 09/29/2020 - 06:19:32: [admin_hp.smx]  
+L 09/29/2020 - 06:25:38: [admin_hp.smx]  
+L 09/29/2020 - 06:25:46: [admin_hp.smx]  
+L 09/29/2020 - 06:27:00: Log file closed.
+L 09/29/2020 - 18:34:57: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200929.log") (Version "1.10.0.6492")
+L 09/29/2020 - 18:34:57: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/29/2020 - 18:35:01: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 18:35:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 18:35:16: [SM] Changed map to "c1m1_hotel"
+L 09/29/2020 - 18:35:20: -------- Mapchange to c1m1_hotel --------
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 18:35:23: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 18:40:00: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "Extos529<18><STEAM_1:0:436261720><>" (reason "")
+L 09/29/2020 - 18:47:46: -------- Mapchange to c1m2_streets --------
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 18:47:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 19:07:12: -------- Mapchange to c1m3_mall --------
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 19:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 19:21:58: -------- Mapchange to c1m4_atrium --------
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 19:22:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 19:22:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 19:22:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 19:22:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 19:22:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 19:22:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 19:33:36: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 19:33:37: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "NeoSatan<112><STEAM_1:0:562670584><>"
+L 09/29/2020 - 19:33:39: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "Mr.C<114><STEAM_1:1:522925221><>"
+L 09/29/2020 - 19:33:39: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "NeoSatan<112><STEAM_1:0:562670584><>"
+L 09/29/2020 - 19:33:40: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "Mr.C<114><STEAM_1:1:522925221><>"
+L 09/29/2020 - 19:33:40: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "NeoSatan<112><STEAM_1:0:562670584><>"
+L 09/29/2020 - 19:33:42: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "ＧＯＲＤＯＮ ＦＲＥＥ<20><STEAM_1:1:4151444><>"
+L 09/29/2020 - 19:33:59: -------- Mapchange to c2m1_highway --------
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 19:34:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 19:44:16: [basebans.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" banned "(ᶡGƤ﴿ OnlySkill<141><STEAM_1:1:443801496><>" (minutes "0") (reason "Troll de Mierda")
+L 09/29/2020 - 19:51:34: -------- Mapchange to c2m2_fairgrounds --------
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 19:51:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 20:03:57: -------- Mapchange to c11m1_greenhouse --------
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 20:04:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 20:12:29: -------- Mapchange to c11m2_offices --------
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 20:12:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 20:12:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 20:12:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 20:26:01: -------- Mapchange to c11m3_garage --------
+L 09/29/2020 - 20:26:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 20:26:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 20:26:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 20:26:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 20:26:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 20:38:59: -------- Mapchange to c10m1_caves --------
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 20:39:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 20:50:00: Log file closed.
+L 09/29/2020 - 20:51:15: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200929.log") (Version "1.10.0.6492")
+L 09/29/2020 - 20:51:15: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/29/2020 - 20:51:16: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 20:51:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 20:51:29: [SM] Changed map to "c5m1_waterfront"
+L 09/29/2020 - 20:51:32: -------- Mapchange to c5m1_waterfront --------
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 20:51:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 20:51:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 20:51:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 20:51:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 20:51:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 20:58:40: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/29/2020 - 21:00:48: -------- Mapchange to c5m2_park --------
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 21:00:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 21:00:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 21:00:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 21:00:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 21:21:52: -------- Mapchange to c5m3_cemetery --------
+L 09/29/2020 - 21:21:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 21:21:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 21:21:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 21:21:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 21:21:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 21:22:34: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 21:22:35: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "Delta<3><STEAM_1:0:555087244><>"
+L 09/29/2020 - 21:22:35: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 21:22:36: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "ＧＯＲＤＯＮ ＦＲＥＥ<4><STEAM_1:1:4151444><>"
+L 09/29/2020 - 21:22:37: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "SanFord<56><STEAM_1:1:564477800><>"
+L 09/29/2020 - 21:22:38: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 21:22:40: [playercommands.smx] "Delta<3><STEAM_1:0:555087244><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/29/2020 - 21:22:50: -------- Mapchange to c8m1_apartment --------
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 21:22:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 21:23:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 21:23:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 21:23:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 21:23:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 21:23:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 21:31:38: -------- Mapchange to c8m2_subway --------
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 21:31:44: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 21:41:24: -------- Mapchange to c8m3_sewers --------
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.5")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "4333")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/29/2020 - 21:41:31: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/29/2020 - 21:47:41: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "Leamns<181><STEAM_1:0:555454774><>" (reason "")
+L 09/29/2020 - 21:48:05: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/29/2020 - 21:48:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/29/2020 - 21:51:54: Log file closed.

@@ -1,0 +1,72 @@
+L 09/24/2020 - 21:32:17: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200924.log") (Version "1.10.0.6492")
+L 09/24/2020 - 21:32:17: [UPDATER] Successfully updated gamedata file "sdktools.games/game.left4dead2.txt"
+L 09/24/2020 - 21:32:17: [UPDATER] Successfully updated gamedata file "sdkhooks.games/game.l4d2.txt"
+L 09/24/2020 - 21:32:17: [UPDATER] SourceMod has been updated, please reload it or restart your server.
+L 09/24/2020 - 21:33:16: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "Rochelle<3><BOT><>" (reason "")
+L 09/24/2020 - 21:33:30: Log file closed.
+L 09/24/2020 - 21:36:20: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200924.log") (Version "1.10.0.6492")
+L 09/24/2020 - 21:36:20: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/24/2020 - 21:37:35: -------- Mapchange to c1m1_hotel --------
+L 09/24/2020 - 21:38:52: [admin_hp.smx]  
+L 09/24/2020 - 21:39:04: Log file closed.
+L 09/24/2020 - 21:42:34: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200924.log") (Version "1.10.0.6492")
+L 09/24/2020 - 21:42:34: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/24/2020 - 21:42:34: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/24/2020 - 21:42:37: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/24/2020 - 21:43:56: Log file closed.
+L 09/24/2020 - 21:52:43: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200924.log") (Version "1.10.0.6492")
+L 09/24/2020 - 21:52:43: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/24/2020 - 21:52:43: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/24/2020 - 21:59:04: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200924.log") (Version "1.10.0.6492")
+L 09/24/2020 - 21:59:04: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/24/2020 - 21:59:04: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/24/2020 - 22:01:39: -------- Mapchange to c2m1_highway --------
+L 09/24/2020 - 22:22:18: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200924.log") (Version "1.10.0.6492")
+L 09/24/2020 - 22:22:18: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/24/2020 - 22:22:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 09/24/2020 - 22:22:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/24/2020 - 22:23:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/24/2020 - 22:23:22: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/24/2020 - 22:23:22: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/24/2020 - 22:23:22: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 09/24/2020 - 22:23:22: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 09/24/2020 - 22:32:41: -------- Mapchange to c8m2_subway --------
+L 09/24/2020 - 22:32:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 09/24/2020 - 22:32:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 09/24/2020 - 22:50:53: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200924.log") (Version "1.10.0.6492")
+L 09/24/2020 - 22:50:53: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/24/2020 - 22:51:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 09/24/2020 - 22:51:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 09/24/2020 - 22:52:15: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "allow_all_bot_survivor_team") (value "1")

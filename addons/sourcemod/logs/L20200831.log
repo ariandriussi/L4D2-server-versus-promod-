@@ -1,0 +1,110 @@
+L 08/31/2020 - 00:01:09: SourceMod log file session started (file "L20200831.log") (Version "1.8.0.6041")
+L 08/31/2020 - 00:01:09: Log file closed.
+L 08/31/2020 - 15:50:14: SourceMod log file session started (file "L20200831.log") (Version "1.8.0.6041")
+L 08/31/2020 - 15:50:14: Log file closed.
+L 08/31/2020 - 15:55:10: SourceMod log file session started (file "L20200831.log") (Version "1.8.0.6041")
+L 08/31/2020 - 15:55:10: -------- Mapchange to c1m1_hotel --------
+L 08/31/2020 - 15:55:15: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/31/2020 - 15:55:15: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/31/2020 - 15:55:38: [SM] Changed map to "c1m1_hotel"
+L 08/31/2020 - 15:55:38: -------- Mapchange to c1m1_hotel --------
+L 08/31/2020 - 16:02:15: -------- Mapchange to c11m1_greenhouse --------
+L 08/31/2020 - 16:07:10: [playercommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" slayed "Bill<11><BOT><>"
+L 08/31/2020 - 16:07:10: [playercommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" slayed "marciof04<19><STEAM_1:0:127057016><>"
+L 08/31/2020 - 16:07:29: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/31/2020 - 16:07:29: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/31/2020 - 16:07:29: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/31/2020 - 16:07:29: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/31/2020 - 16:07:29: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/31/2020 - 16:07:29: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/31/2020 - 16:07:29: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/31/2020 - 16:07:31: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/31/2020 - 16:10:18: -------- Mapchange to c11m2_offices --------
+L 08/31/2020 - 16:30:49: -------- Mapchange to c11m3_garage --------
+L 08/31/2020 - 16:44:45: -------- Mapchange to c11m4_terminal --------
+L 08/31/2020 - 16:53:50: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/31/2020 - 16:55:21: -------- Mapchange to c11m5_runway --------
+L 08/31/2020 - 17:00:50: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/31/2020 - 17:04:20: -------- Mapchange to c12m1_hilltop --------
+L 08/31/2020 - 17:10:49: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/31/2020 - 17:14:30: [admin_hp.smx]  El Administrador Carmencita Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 17:15:03: [admin_hp.smx]  El Administrador Carmencita Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 17:15:31: [admin_hp.smx]  El Administrador Carmencita Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 17:16:57: [admin_hp.smx]  El Administrador Carmencita Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 17:17:04: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/31/2020 - 17:17:08: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/31/2020 - 17:23:50: -------- Mapchange to C12m2_traintunnel --------
+L 08/31/2020 - 17:26:51: [basebans.smx] "Carmencita<6><STEAM_1:0:162762726><>" banned "InguiMastil<149><STEAM_1:1:119467404><>" (minutes "0") (reason "Troll")
+L 08/31/2020 - 17:30:05: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/31/2020 - 17:35:03: [admin_hp.smx]  El Administrador FaceLive:FacturitaJuega 🥐� Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 17:35:12: -------- Mapchange to C12m3_bridge --------
+L 08/31/2020 - 17:43:09: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed map to "c8m1_apartment"
+L 08/31/2020 - 17:43:12: [SM] Changed map to "c8m1_apartment"
+L 08/31/2020 - 17:43:17: -------- Mapchange to c8m1_apartment --------
+L 08/31/2020 - 17:46:09: [playercommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" slayed "Zoey<204><BOT><>"
+L 08/31/2020 - 17:46:14: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/31/2020 - 17:46:21: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/31/2020 - 17:49:24: [basecomm.smx] "FaceLive:FacturitaJuega 🥐�<7><STEAM_1:1:522713982><>" gagged "(-=NB=-) BoKita paSioN<161><STEAM_1:0:554927290><>"
+L 08/31/2020 - 17:49:37: [basecomm.smx] "Carmencita<6><STEAM_1:0:162762726><>" muted "(-=NB=-) BoKita paSioN<161><STEAM_1:0:554927290><>"
+L 08/31/2020 - 17:50:59: [basecomm.smx] "Carmencita<6><STEAM_1:0:162762726><>" ungagged "(-=NB=-) BoKita paSioN<161><STEAM_1:0:554927290><>"
+L 08/31/2020 - 17:51:31: -------- Mapchange to c5m1_waterfront --------
+L 08/31/2020 - 17:53:07: [basecomm.smx] "Carmencita<6><STEAM_1:0:162762726><>" muted "(-=NB=-) BoKita paSioN<161><STEAM_1:0:554927290><>"
+L 08/31/2020 - 17:56:24: [playercommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" slayed "Ellis<246><BOT><>"
+L 08/31/2020 - 17:59:19: [admin_hp.smx]  El Administrador Carmencita Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 17:59:39: [playercommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" slayed "FaceLive:FacturitaJuega 🥐�<7><STEAM_1:1:522713982><>"
+L 08/31/2020 - 17:59:59: [admin_hp.smx]  El Administrador Carmencita Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 18:01:36: -------- Mapchange to c5m2_park --------
+L 08/31/2020 - 18:02:13: [playercommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" slayed "Ellis<290><BOT><>"
+L 08/31/2020 - 18:13:03: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/31/2020 - 18:13:06: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/31/2020 - 18:15:19: -------- Mapchange to c5m3_cemetery --------
+L 08/31/2020 - 18:18:59: [admin_hp.smx]  El Administrador Carmencita Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 18:25:57: [playercommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" slayed "Rochelle<341><BOT><>"
+L 08/31/2020 - 18:30:10: -------- Mapchange to c5m4_quarter --------
+L 08/31/2020 - 18:48:47: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/31/2020 - 18:49:07: -------- Mapchange to c5m5_bridge --------
+L 08/31/2020 - 18:50:53: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" changed map to "c2m1_highway"
+L 08/31/2020 - 18:50:56: [SM] Changed map to "c2m1_highway"
+L 08/31/2020 - 18:51:01: -------- Mapchange to c2m1_highway --------
+L 08/31/2020 - 18:59:08: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" kicked "Ellis<423><BOT><>" (reason "")
+L 08/31/2020 - 18:59:28: [basecommands.smx] "Carmencita<6><STEAM_1:0:162762726><>" kicked "Rochelle<459><BOT><>" (reason "")
+L 08/31/2020 - 19:06:14: -------- Mapchange to c2m2_fairgrounds --------
+L 08/31/2020 - 19:20:22: [playercommands.smx] "Delta❤Rain<500><STEAM_1:0:555087244><>" slayed "Carmencita<6><STEAM_1:0:162762726><>"
+L 08/31/2020 - 19:20:23: [playercommands.smx] "Delta❤Rain<500><STEAM_1:0:555087244><>" slayed "Nick<536><BOT><>"
+L 08/31/2020 - 19:20:24: [playercommands.smx] "Delta❤Rain<500><STEAM_1:0:555087244><>" slayed "Ellis<543><BOT><>"
+L 08/31/2020 - 19:20:24: [playercommands.smx] "Delta❤Rain<500><STEAM_1:0:555087244><>" slayed "MarkitosTY<539><STEAM_1:1:458071037><>"
+L 08/31/2020 - 19:20:25: [playercommands.smx] "Delta❤Rain<500><STEAM_1:0:555087244><>" slayed "Serafect<447><STEAM_1:0:57000186><>"
+L 08/31/2020 - 19:20:35: -------- Mapchange to c2m3_coaster --------
+L 08/31/2020 - 19:34:31: [playercommands.smx] "FaceLive:FacturitaJuega 🥐�<477><STEAM_1:1:522713982><>" slayed "(-=NB=-) BoKita paSioN<161><STEAM_1:0:554927290><>"
+L 08/31/2020 - 19:34:53: [admin_hp.smx]  El Administrador Carmencita Descalza Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 19:35:47: [admin_hp.smx]  El Administrador FaceLive:FacturitaJuega 🥐� Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 19:36:27: [admin_hp.smx]  El Administrador FaceLive:FacturitaJuega 🥐� Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 19:36:39: [admin_hp.smx]  El Administrador FaceLive:FacturitaJuega 🥐� Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 19:38:48: [admin_hp.smx]  El Administrador Carmencita Descalza Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 19:39:38: [playercommands.smx] "Delta❤Rain<500><STEAM_1:0:555087244><>" slayed "Delta❤Rain<500><STEAM_1:0:555087244><>"
+L 08/31/2020 - 19:39:53: [playercommands.smx] "FaceLive:FacturitaJuega 🥐�<477><STEAM_1:1:522713982><>" slayed "FaceLive:FacturitaJuega 🥐�<477><STEAM_1:1:522713982><>"
+L 08/31/2020 - 19:40:07: [playercommands.smx] "FaceLive:FacturitaJuega 🥐�<477><STEAM_1:1:522713982><>" slayed "(-=NB=-) BoKita paSioN<161><STEAM_1:0:554927290><>"
+L 08/31/2020 - 19:40:24: [playercommands.smx] "FaceLive:FacturitaJuega 🥐�<477><STEAM_1:1:522713982><>" slayed "FaceLive:FacturitaJuega 🥐�<477><STEAM_1:1:522713982><>"
+L 08/31/2020 - 19:40:28: -------- Mapchange to c2m4_barns --------
+L 08/31/2020 - 19:41:29: -------- Mapchange to c10m1_caves --------
+L 08/31/2020 - 19:51:59: -------- Mapchange to c10m2_drainage --------
+L 08/31/2020 - 20:00:16: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 20:04:29: [playercommands.smx] "Delta❤Rain<500><STEAM_1:0:555087244><>" slayed "Rain❤Delta<6><STEAM_1:0:162762726><>"
+L 08/31/2020 - 20:04:29: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 20:05:27: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 20:05:57: [playercommands.smx] "Delta❤Rain<500><STEAM_1:0:555087244><>" slayed "[D*X*Z*Y]<670><STEAM_1:1:545751665><>"
+L 08/31/2020 - 20:09:50: -------- Mapchange to c10m3_ranchhouse --------
+L 08/31/2020 - 20:21:13: -------- Mapchange to c10m4_mainstreet --------
+L 08/31/2020 - 20:36:27: -------- Mapchange to c10m5_houseboat --------
+L 08/31/2020 - 20:45:45: [admin_hp.smx]  El Administrador FaceLive:FacturitaJuega 🥐� Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 20:57:20: -------- Mapchange to c1m1_hotel --------
+L 08/31/2020 - 21:08:58: -------- Mapchange to c1m2_streets --------
+L 08/31/2020 - 21:24:37: Log file closed.
+L 08/31/2020 - 23:47:01: SourceMod log file session started (file "L20200831.log") (Version "1.8.0.6041")
+L 08/31/2020 - 23:47:01: -------- Mapchange to c1m2_streets --------
+L 08/31/2020 - 23:47:05: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/31/2020 - 23:47:05: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/31/2020 - 23:47:13: [SM] Changed map to "c1m2_streets"
+L 08/31/2020 - 23:47:13: -------- Mapchange to c1m2_streets --------
+L 08/31/2020 - 23:48:40: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/31/2020 - 23:52:10: Log file closed.

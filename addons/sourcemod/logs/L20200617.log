@@ -1,0 +1,277 @@
+L 06/17/2020 - 14:08:31: SourceMod log file session started (file "L20200617.log") (Version "1.8.0.6041")
+L 06/17/2020 - 14:08:31: -------- Mapchange to c1m2_streets --------
+L 06/17/2020 - 14:08:35: [GEOIP] GeoIP database info: GEO-106FREE 20180206 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 06/17/2020 - 14:09:07: [SM] Changed map to "c1m2_streets"
+L 06/17/2020 - 14:09:19: -------- Mapchange to c1m2_streets --------
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Thinks (1)Ellis should rather be 4, setting model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:04: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:05: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:06: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:08: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:09: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:10: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:11: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:11: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:11: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:11: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:11: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:11: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:11: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:12: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:12: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:12: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:12: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:12: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:12: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:12: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:12: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:12: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:13: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:10:16: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:10:27: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slapped "Rain❤Delta<2><STEAM_1:0:162762726><>" (damage "99")
+L 06/17/2020 - 14:10:34: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slapped "Rain❤Delta<2><STEAM_1:0:162762726><>" (damage "99")
+L 06/17/2020 - 14:10:42: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slapped "Rain❤Delta<2><STEAM_1:0:162762726><>" (damage "99")
+L 06/17/2020 - 14:10:50: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slapped "Rain❤Delta<2><STEAM_1:0:162762726><>" (damage "99")
+L 06/17/2020 - 14:11:15: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:11:15: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:11:15: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:11:15: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:11:16: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:11:16: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:11:16: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:11:16: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:11:16: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:11:16: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:11:16: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:11:23: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:11:26: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:11:27: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:11:28: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:11:41: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:11:43: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:11:53: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:11:54: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: Spots player Rain❤Delta wearing 0, model models/survivors/survivor_gambler.mdl
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: player Rain❤Delta is an original!
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: Spots player (1)Ellis wearing 4, model models/survivors/survivor_namvet.mdl
+L 06/17/2020 - 14:11:56: [allsurvivorsmod.smx] AllSurvivors: player (1)Ellis is an original!
+L 06/17/2020 - 14:12:21: Log file closed.
+L 06/17/2020 - 14:17:22: SourceMod log file session started (file "L20200617.log") (Version "1.8.0.6041")
+L 06/17/2020 - 14:17:22: Log file closed.

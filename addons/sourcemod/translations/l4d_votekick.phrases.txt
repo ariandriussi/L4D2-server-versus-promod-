@@ -1,0 +1,9 @@
+﻿"Phrases"
+{
+	"Player To Kick"
+	{
+		"en"			"Seleccione el jugador para expulsar:"		
+		"ru"			"Seleccione el jugador para expulsar:"
+                "es"                    "Seleccione el jugador para expulsar:"
+	}	
+}

@@ -1,0 +1,316 @@
+L 09/10/2020 - 00:14:20: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 00:14:20: -------- Mapchange to c2m3_coaster --------
+L 09/10/2020 - 00:33:43: -------- Mapchange to c2m4_barns --------
+L 09/10/2020 - 00:49:52: -------- Mapchange to c2m5_concert --------
+L 09/10/2020 - 00:58:43: [basebans.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" banned "Dany<42><STEAM_1:1:548551401><>" (minutes "0") (reason "Troll de Mierda")
+L 09/10/2020 - 01:07:33: Log file closed.
+L 09/10/2020 - 07:05:22: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 07:05:22: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 07:05:38: [SM] Changed map to "c1m1_hotel"
+L 09/10/2020 - 07:05:39: -------- Mapchange to c1m1_hotel --------
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "100")
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/10/2020 - 07:06:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/10/2020 - 07:06:17: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<3><BOT><>"
+L 09/10/2020 - 07:06:18: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<4><BOT><>"
+L 09/10/2020 - 07:07:59: Log file closed.
+L 09/10/2020 - 07:14:08: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 07:14:08: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 07:14:26: [SM] Changed map to "c2m5_concert"
+L 09/10/2020 - 07:14:26: -------- Mapchange to c2m5_concert --------
+L 09/10/2020 - 07:16:50: Log file closed.
+L 09/10/2020 - 07:18:43: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 07:18:43: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 07:18:57: [SM] Changed map to "c2m5_concert"
+L 09/10/2020 - 07:18:58: -------- Mapchange to c2m5_concert --------
+L 09/10/2020 - 07:21:11: Log file closed.
+L 09/10/2020 - 07:22:54: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 07:22:54: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 07:23:05: [SM] Changed map to "c2m5_concert"
+L 09/10/2020 - 07:23:06: -------- Mapchange to c2m5_concert --------
+L 09/10/2020 - 07:24:42: Log file closed.
+L 09/10/2020 - 07:34:36: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 07:34:36: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 07:34:51: [SM] Changed map to "c2m5_concert"
+L 09/10/2020 - 07:34:52: -------- Mapchange to c2m5_concert --------
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "75")
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/10/2020 - 07:35:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/10/2020 - 07:36:28: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 07:37:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "8000")
+L 09/10/2020 - 07:37:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/10/2020 - 07:37:31: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 07:38:37: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 07:38:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "7000")
+L 09/10/2020 - 07:39:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6700")
+L 09/10/2020 - 07:39:12: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 07:39:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6780")
+L 09/10/2020 - 07:39:40: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 07:39:54: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6680")
+L 09/10/2020 - 07:39:59: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 07:40:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6670")
+L 09/10/2020 - 07:40:16: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 07:40:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6666")
+L 09/10/2020 - 07:40:37: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 07:41:12: Log file closed.
+L 09/10/2020 - 07:47:35: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 07:47:35: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 07:47:50: [SM] Changed map to "c2m5_concert"
+L 09/10/2020 - 07:47:50: -------- Mapchange to c2m5_concert --------
+L 09/10/2020 - 07:48:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "75")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6666")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/10/2020 - 07:48:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/10/2020 - 07:50:18: Log file closed.
+L 09/10/2020 - 08:00:57: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 08:00:57: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 08:01:12: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 08:01:12: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "75")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6666")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/10/2020 - 08:01:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/10/2020 - 08:01:58: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 08:02:06: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 08:02:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 08:02:47: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 08:06:10: Log file closed.
+L 09/10/2020 - 08:43:42: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 08:43:42: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 08:43:56: [SM] Changed map to "c1m1_hotel"
+L 09/10/2020 - 08:43:56: -------- Mapchange to c1m1_hotel --------
+L 09/10/2020 - 08:45:30: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed map to "c10m1_caves"
+L 09/10/2020 - 08:45:33: [SM] Changed map to "c10m1_caves"
+L 09/10/2020 - 08:45:38: -------- Mapchange to c10m1_caves --------
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "75")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6666")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/10/2020 - 08:45:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/10/2020 - 08:50:54: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed map to "c11m1_greenhouse"
+L 09/10/2020 - 08:50:57: [SM] Changed map to "c11m1_greenhouse"
+L 09/10/2020 - 08:51:01: -------- Mapchange to c11m1_greenhouse --------
+L 09/10/2020 - 08:55:10: Log file closed.
+L 09/10/2020 - 08:56:41: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 08:56:41: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 08:56:50: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 08:56:51: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 08:57:09: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 08:57:49: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 08:59:03: Log file closed.
+L 09/10/2020 - 09:20:19: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 09:20:19: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 09:20:32: [SM] Changed map to "c5m3_cemetery"
+L 09/10/2020 - 09:20:32: -------- Mapchange to c5m3_cemetery --------
+L 09/10/2020 - 09:24:54: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 09:25:05: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 09:25:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter<27><BOT><>"
+L 09/10/2020 - 09:25:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<4><BOT><>"
+L 09/10/2020 - 09:25:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<5><BOT><>"
+L 09/10/2020 - 09:25:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<6><BOT><>"
+L 09/10/2020 - 09:25:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<25><BOT><>"
+L 09/10/2020 - 09:25:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<28><BOT><>"
+L 09/10/2020 - 09:25:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Hunter<29><BOT><>"
+L 09/10/2020 - 09:26:11: Log file closed.
+L 09/10/2020 - 09:26:59: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 09:26:59: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 09:27:06: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 09:27:06: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 09:27:24: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 09:28:11: Log file closed.
+L 09/10/2020 - 09:30:18: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 09:30:18: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 09:30:24: [SM] Changed map to "c5m2_park"
+L 09/10/2020 - 09:30:24: -------- Mapchange to c5m2_park --------
+L 09/10/2020 - 09:30:43: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 09:32:31: Log file closed.
+L 09/10/2020 - 09:42:22: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 09:42:22: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 09:42:30: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 09:42:30: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 09:43:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<11><BOT><>"
+L 09/10/2020 - 09:43:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<4><BOT><>"
+L 09/10/2020 - 09:43:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<5><BOT><>"
+L 09/10/2020 - 09:43:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<6><BOT><>"
+L 09/10/2020 - 09:43:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<12><BOT><>"
+L 09/10/2020 - 09:43:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<10><BOT><>"
+L 09/10/2020 - 09:43:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 09:44:17: Log file closed.
+L 09/10/2020 - 09:57:01: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 09:57:01: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 09:57:07: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 09:57:07: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 09:58:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<3><BOT><>"
+L 09/10/2020 - 09:58:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<4><BOT><>"
+L 09/10/2020 - 09:58:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<5><BOT><>"
+L 09/10/2020 - 09:58:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 09:59:17: Log file closed.
+L 09/10/2020 - 10:13:06: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 10:13:06: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 10:13:20: [SM] Changed map to "c5m2_park"
+L 09/10/2020 - 10:13:20: -------- Mapchange to c5m2_park --------
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "75")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6666")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/10/2020 - 10:16:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/10/2020 - 10:20:58: Log file closed.
+L 09/10/2020 - 16:45:36: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 16:45:36: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 16:45:58: [SM] Changed map to "c2m5_concert"
+L 09/10/2020 - 16:45:58: -------- Mapchange to c2m5_concert --------
+L 09/10/2020 - 16:46:59: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 16:49:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tanks_block_molotovs") (value "1")
+L 09/10/2020 - 16:50:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/10/2020 - 16:51:05: Log file closed.
+L 09/10/2020 - 17:13:28: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 17:13:28: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 17:13:42: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 17:13:43: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "75")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "9000")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/10/2020 - 17:14:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/10/2020 - 17:14:37: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 17:14:55: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 17:17:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/10/2020 - 17:18:09: [admin_hp.smx]  
+L 09/10/2020 - 17:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/10/2020 - 17:19:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "99999999")
+L 09/10/2020 - 17:21:11: Log file closed.
+L 09/10/2020 - 17:23:00: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 17:23:00: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 17:23:12: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 17:23:13: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 17:24:01: Log file closed.
+L 09/10/2020 - 17:31:50: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 17:31:50: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 17:32:02: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 17:32:02: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 17:32:38: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 17:33:27: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 17:34:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "75")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6666")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/10/2020 - 17:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/10/2020 - 17:35:16: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 17:35:20: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<20><BOT><>"
+L 09/10/2020 - 17:35:21: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<19><BOT><>"
+L 09/10/2020 - 17:35:25: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<9><BOT><>"
+L 09/10/2020 - 17:38:12: Log file closed.
+L 09/10/2020 - 22:38:56: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 22:38:56: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 22:39:17: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 22:39:17: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 22:41:38: Log file closed.
+L 09/10/2020 - 22:43:16: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 22:43:16: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 22:43:21: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 22:43:21: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 22:43:57: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 22:44:01: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 22:45:16: Log file closed.
+L 09/10/2020 - 22:46:21: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 22:46:21: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 22:46:26: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 22:46:26: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "75")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6666")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/10/2020 - 22:46:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/10/2020 - 22:48:25: Log file closed.
+L 09/10/2020 - 22:50:10: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 22:50:10: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 22:50:16: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 22:50:16: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 22:50:39: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 22:50:48: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 22:51:38: Log file closed.
+L 09/10/2020 - 22:52:17: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 22:52:17: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 22:52:24: [SM] Changed map to "c2m5_concert"
+L 09/10/2020 - 22:52:25: -------- Mapchange to c2m5_concert --------
+L 09/10/2020 - 22:52:37: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 22:52:53: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 22:52:59: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 22:53:09: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 22:53:27: Log file closed.
+L 09/10/2020 - 22:55:46: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 22:55:46: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 22:55:52: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 22:55:52: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 22:56:50: Log file closed.
+L 09/10/2020 - 22:58:07: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200910.log") (Version "1.10.0.6492")
+L 09/10/2020 - 22:58:07: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/10/2020 - 22:58:13: [SM] Changed map to "c1m2_streets"
+L 09/10/2020 - 22:58:13: -------- Mapchange to c1m2_streets --------
+L 09/10/2020 - 22:58:31: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/10/2020 - 22:59:17: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed map to "c2m5_concert"
+L 09/10/2020 - 22:59:20: [SM] Changed map to "c2m5_concert"
+L 09/10/2020 - 22:59:21: -------- Mapchange to c2m5_concert --------
+L 09/10/2020 - 23:01:34: Log file closed.

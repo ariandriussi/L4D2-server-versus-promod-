@@ -1,0 +1,682 @@
+L 09/15/2020 - 06:16:36: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200915.log") (Version "1.10.0.6492")
+L 09/15/2020 - 06:16:36: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/15/2020 - 06:16:39: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/15/2020 - 06:16:57: [SM] Changed map to "c1m1_hotel"
+L 09/15/2020 - 06:17:00: -------- Mapchange to c1m1_hotel --------
+L 09/15/2020 - 06:17:47: Log file closed.
+L 09/15/2020 - 06:21:46: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200915.log") (Version "1.10.0.6492")
+L 09/15/2020 - 06:21:46: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/15/2020 - 06:21:47: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/15/2020 - 06:21:53: [SM] Changed map to "c1m4_atrium"
+L 09/15/2020 - 06:21:56: -------- Mapchange to c1m4_atrium --------
+L 09/15/2020 - 06:22:44: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 7: time: -1.00 / 1.40 -- class: smoker (with shove? 1)
+L 09/15/2020 - 06:23:44: [l4d2_skill_detect.smx] Witch Crown Check: crown shot: 1224, harrassed: 1 (full health: 1000 / drawthresh: 500 / oneshot 0)
+L 09/15/2020 - 06:23:53: [l4d2_skill_detect.smx] Clear: 1 freed 5 from 8: time: 0.59 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 06:24:20: [l4d2_skill_detect.smx] Charge carry start: 2 - 3 -- time: 135.50
+L 09/15/2020 - 06:24:21: [l4d2_skill_detect.smx] Clear: 4 freed 3 from 2: time: 0.19 / 1.40 -- class: charger (with shove? 0)
+L 09/15/2020 - 06:24:23: [l4d2_skill_detect.smx] Checking charge victim: 2 - 3 - flags: 1 (alive? 1)
+L 09/15/2020 - 06:24:24: [l4d2_skill_detect.smx] Checking charge victim: 2 - 1 - flags: 0 (alive? 1)
+L 09/15/2020 - 06:24:39: [l4d2_skill_detect.smx] Clear: 3 freed 5 from 7: time: 3.56 / -1.00 -- class: hunter (with shove? 1)
+L 09/15/2020 - 06:24:50: -------- Mapchange to c10m5_houseboat --------
+L 09/15/2020 - 06:25:10: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:25:20: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:26:40: -------- Mapchange to c11m5_runway --------
+L 09/15/2020 - 06:26:54: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:26:57: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:27:16: [l4d2_skill_detect.smx] Charge carry start: 5 - 4 -- time: 27.96
+L 09/15/2020 - 06:27:18: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 5: time: 0.76 / 1.83 -- class: charger (with shove? 0)
+L 09/15/2020 - 06:27:19: [l4d2_skill_detect.smx] Checking charge victim: 5 - 4 - flags: 1 (alive? 1)
+L 09/15/2020 - 06:28:16: -------- Mapchange to c12m5_cornfield --------
+L 09/15/2020 - 06:28:34: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:28:39: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:29:55: -------- Mapchange to c13m4_cutthroatcreek --------
+L 09/15/2020 - 06:30:12: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:30:27: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:31:19: [l4d2_skill_detect.smx] Clear: 4 freed 2 from 5: time: -1.00 / 10.06 -- class: smoker (with shove? 1)
+L 09/15/2020 - 06:31:48: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 8: time: 2.56 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 06:31:56: -------- Mapchange to c2m5_concert --------
+L 09/15/2020 - 06:32:17: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:32:20: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:32:36: [l4d2_skill_detect.smx] Clear: 2 freed 2 from 7: time: -1.00 / 0.39 -- class: smoker (with shove? 1)
+L 09/15/2020 - 06:32:47: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 185)
+L 09/15/2020 - 06:32:47: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: Nick, attacker dmg: 512, teamless dmg: 0
+L 09/15/2020 - 06:33:22: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<51><BOT><>"
+L 09/15/2020 - 06:33:22: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<52><BOT><>"
+L 09/15/2020 - 06:33:23: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<53><BOT><>"
+L 09/15/2020 - 06:33:23: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Boomer<59><BOT><>"
+L 09/15/2020 - 06:33:23: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:33:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:33:59: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:35:15: -------- Mapchange to c2m5_concert --------
+L 09/15/2020 - 06:35:27: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:35:34: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:35:53: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:36:10: [l4d2_skill_detect.smx] Clear: 5 freed 4 from 2: time: 2.23 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 06:37:48: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<86><BOT><>"
+L 09/15/2020 - 06:37:48: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<75><BOT><>"
+L 09/15/2020 - 06:37:49: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<76><BOT><>"
+L 09/15/2020 - 06:37:49: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<77><BOT><>"
+L 09/15/2020 - 06:37:49: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Hunter<87><BOT><>"
+L 09/15/2020 - 06:37:50: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<85><BOT><>"
+L 09/15/2020 - 06:37:50: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:38:11: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:38:17: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:38:47: -------- Mapchange to c1m4_atrium --------
+L 09/15/2020 - 06:39:10: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:39:13: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:39:35: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 0 / crowntype: 0 (entity: 346)
+L 09/15/2020 - 06:39:35: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 1565, teamless dmg: 0
+L 09/15/2020 - 06:40:05: Log file closed.
+L 09/15/2020 - 06:42:12: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200915.log") (Version "1.10.0.6492")
+L 09/15/2020 - 06:42:12: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/15/2020 - 06:42:13: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/15/2020 - 06:42:23: [SM] Changed map to "c1m4_atrium"
+L 09/15/2020 - 06:42:25: -------- Mapchange to c1m4_atrium --------
+L 09/15/2020 - 06:42:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:42:50: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:43:10: [l4d2_skill_detect.smx] Witch Crown Check: crown shot: 1225, harrassed: 1 (full health: 1000 / drawthresh: 500 / oneshot 0)
+L 09/15/2020 - 06:43:25: Log file closed.
+L 09/15/2020 - 06:44:15: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200915.log") (Version "1.10.0.6492")
+L 09/15/2020 - 06:44:15: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/15/2020 - 06:44:15: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/15/2020 - 06:44:20: [SM] Changed map to "c1m4_atrium"
+L 09/15/2020 - 06:44:23: -------- Mapchange to c1m4_atrium --------
+L 09/15/2020 - 06:44:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:44:50: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/15/2020 - 06:45:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/15/2020 - 06:45:43: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 359)
+L 09/15/2020 - 06:45:43: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 1008, teamless dmg: 0
+L 09/15/2020 - 06:45:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:45:47: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:46:01: Log file closed.
+L 09/15/2020 - 06:47:53: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200915.log") (Version "1.10.0.6492")
+L 09/15/2020 - 06:47:53: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/15/2020 - 06:47:53: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/15/2020 - 06:48:03: [SM] Changed map to "c2m5_concert"
+L 09/15/2020 - 06:48:06: -------- Mapchange to c2m5_concert --------
+L 09/15/2020 - 06:48:23: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:48:27: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:48:43: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:48:59: [l4d2_skill_detect.smx] Clear: 5 freed 4 from 2: time: -1.00 / 0.86 -- class: smoker (with shove? 0)
+L 09/15/2020 - 06:49:15: [l4d2_skill_detect.smx] Clear: 4 freed 3 from 8: time: 1.96 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 06:49:24: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 152)
+L 09/15/2020 - 06:49:24: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 550, teamless dmg: 0
+L 09/15/2020 - 06:49:34: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:36: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:37: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:39: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:40: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:48: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:51: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 7: time: 1.69 / 3.53 -- class: smoker (with shove? 1)
+L 09/15/2020 - 06:49:51: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:52: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:53: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:54: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:55: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:49:59: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:00: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:01: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:02: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:04: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:08: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:09: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:12: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:14: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:15: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:18: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:31: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:33: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:33: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:35: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:37: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:38: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:39: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:40: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:41: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:45: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:48: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:50:50: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:51:06: Log file closed.
+L 09/15/2020 - 06:52:19: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200915.log") (Version "1.10.0.6492")
+L 09/15/2020 - 06:52:19: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/15/2020 - 06:52:19: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/15/2020 - 06:52:25: [SM] Changed map to "c1m4_atrium"
+L 09/15/2020 - 06:52:28: -------- Mapchange to c1m4_atrium --------
+L 09/15/2020 - 06:52:48: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:53:18: [l4d2_skill_detect.smx] Clear: 4 freed 2 from 5: time: 2.43 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 06:53:19: [l4d2_skill_detect.smx] Clear: 4 freed 3 from 6: time: 0.96 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 06:53:26: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:54:06: Log file closed.
+L 09/15/2020 - 06:56:20: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200915.log") (Version "1.10.0.6492")
+L 09/15/2020 - 06:56:20: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/15/2020 - 06:56:21: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/15/2020 - 06:56:27: [SM] Changed map to "c5m2_park"
+L 09/15/2020 - 06:56:30: -------- Mapchange to c5m2_park --------
+L 09/15/2020 - 06:57:10: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:57:15: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:57:28: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:57:59: [l4d2_skill_detect.smx] Clear: 4 freed 5 from 8: time: 36.40 / 38.73 -- class: smoker (with shove? 0)
+L 09/15/2020 - 06:58:08: [l4d2_skill_detect.smx] Clear: 4 freed 3 from 7: time: 44.73 / 48.30 -- class: smoker (with shove? 1)
+L 09/15/2020 - 06:58:21: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 06:58:23: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Coach<4><BOT><>"
+L 09/15/2020 - 06:58:24: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Rochelle<5><BOT><>"
+L 09/15/2020 - 06:58:26: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Nick<6><BOT><>"
+L 09/15/2020 - 06:58:32: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 6: time: 11.00 / -1.00 -- class: hunter (with shove? 1)
+L 09/15/2020 - 06:59:14: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 6: time: -1.00 / 2.26 -- class: smoker (with shove? 0)
+L 09/15/2020 - 07:00:19: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 6: time: -1.00 / 1.53 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:00:35: -------- Mapchange to c2m5_concert --------
+L 09/15/2020 - 07:00:49: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:00:53: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:01:25: -------- Mapchange to c3m4_plantation --------
+L 09/15/2020 - 07:01:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:02:03: [l4d2_skill_detect.smx] Clear: 4 freed 3 from 7: time: -1.00 / 1.73 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:02:09: [l4d2_skill_detect.smx] Clear: 4 freed 2 from 6: time: -1.00 / 2.36 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:03:00: -------- Mapchange to c4m5_milltown_escape --------
+L 09/15/2020 - 07:03:16: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:03:55: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 8: time: 13.03 / 16.43 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:04:47: -------- Mapchange to c5m5_bridge --------
+L 09/15/2020 - 07:05:14: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:08:24: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:08:28: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:08:31: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:08:50: -------- Mapchange to c6m3_port --------
+L 09/15/2020 - 07:09:08: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:09:36: [l4d2_skill_detect.smx] Clear: 4 freed 1 from 8: time: 5.56 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:10:01: [l4d2_skill_detect.smx] Clear: 4 freed 1 from 6: time: -1.00 / 1.50 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:10:14: -------- Mapchange to c7m3_port --------
+L 09/15/2020 - 07:10:30: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:10:37: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:11:12: -------- Mapchange to c8m5_rooftop --------
+L 09/15/2020 - 07:11:35: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:11:41: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:12:42: -------- Mapchange to c9m2_lots --------
+L 09/15/2020 - 07:12:56: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:13:08: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:13:17: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 6: time: 2.60 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:13:19: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<94><BOT><>"
+L 09/15/2020 - 07:13:43: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 214)
+L 09/15/2020 - 07:13:43: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 997, teamless dmg: 0
+L 09/15/2020 - 07:14:59: -------- Mapchange to c10m1_caves --------
+L 09/15/2020 - 07:15:28: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:15:36: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:15:59: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 7: time: -1.00 / 2.59 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:16:02: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 5: time: 8.00 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 07:16:31: [l4d2_skill_detect.smx] Charge carry start: 5 - 4 -- time: 84.00
+L 09/15/2020 - 07:16:35: [l4d2_skill_detect.smx] Checking charge victim: 5 - 4 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:16:35: [l4d2_skill_detect.smx] Checking charge victim: 5 - 2 - flags: 0 (alive? 1)
+L 09/15/2020 - 07:16:37: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 5: time: 4.23 / 5.83 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:17:59: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 8: time: 0.73 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:18:02: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 6: time: 1.23 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:18:35: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 8: time: 1.39 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:19:29: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 7: time: 0.10 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:19:33: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 5: time: 1.10 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:19:45: [l4d2_skill_detect.smx] Clear: 4 freed 3 from 7: time: 0.93 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 07:19:55: [l4d2_skill_detect.smx] Charge carry start: 6 - 1 -- time: 288.06
+L 09/15/2020 - 07:19:57: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 6: time: 0.16 / 1.13 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:19:59: [l4d2_skill_detect.smx] Checking charge victim: 6 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:20:30: [l4d2_skill_detect.smx] Clear: 4 freed 2 from 5: time: 1.50 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 07:20:35: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 6: time: 1.26 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:21:03: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 5: time: 3.76 / 355.96 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:21:07: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 6: time: 3.13 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:21:13: [admin_hp.smx]  
+L 09/15/2020 - 07:21:20: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 8: time: 2.63 / 6.40 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:21:35: [l4d2_skill_detect.smx] Charge carry start: 7 - 4 -- time: 387.66
+L 09/15/2020 - 07:21:39: [l4d2_skill_detect.smx] Checking charge victim: 7 - 4 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:21:48: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 8: time: 5.23 / 8.93 -- class: smoker (with shove? 0)
+L 09/15/2020 - 07:22:19: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 7: time: 1.29 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:22:24: [l4d2_skill_detect.smx] Charge carry start: 8 - 3 -- time: 436.76
+L 09/15/2020 - 07:22:28: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 8: time: 1.16 / 3.50 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:22:28: [l4d2_skill_detect.smx] Checking charge victim: 8 - 3 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:22:30: [l4d2_skill_detect.smx] Clear: 4 freed 1 from 5: time: 1.86 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:22:36: -------- Mapchange to c10m2_drainage --------
+L 09/15/2020 - 07:23:47: -------- Mapchange to c4m2_sugarmill_a --------
+L 09/15/2020 - 07:24:41: -------- Mapchange to c4m4_milltown_b --------
+L 09/15/2020 - 07:25:04: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<153><BOT><>"
+L 09/15/2020 - 07:25:05: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<154><BOT><>"
+L 09/15/2020 - 07:25:05: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<155><BOT><>"
+L 09/15/2020 - 07:25:05: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:25:51: -------- Mapchange to c4m5_milltown_escape --------
+L 09/15/2020 - 07:26:21: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:26:25: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:26:40: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<160><BOT><>"
+L 09/15/2020 - 07:26:41: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<161><BOT><>"
+L 09/15/2020 - 07:26:41: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<162><BOT><>"
+L 09/15/2020 - 07:26:41: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<163><BOT><>"
+L 09/15/2020 - 07:26:41: [l4d2_skill_detect.smx] Clear: 5 freed 2 from 5: time: 7.73 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:26:41: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<164><BOT><>"
+L 09/15/2020 - 07:26:41: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Smoker<165><BOT><>"
+L 09/15/2020 - 07:26:42: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter<166><BOT><>"
+L 09/15/2020 - 07:26:42: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:27:04: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:27:10: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:27:34: -------- Mapchange to c2m5_concert --------
+L 09/15/2020 - 07:27:50: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:27:54: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:28:11: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<175><BOT><>"
+L 09/15/2020 - 07:28:11: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<176><BOT><>"
+L 09/15/2020 - 07:28:11: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<177><BOT><>"
+L 09/15/2020 - 07:28:12: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<178><BOT><>"
+L 09/15/2020 - 07:28:12: [l4d2_skill_detect.smx] Clear: 5 freed 2 from 5: time: 29.20 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:28:12: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<179><BOT><>"
+L 09/15/2020 - 07:28:12: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Hunter<180><BOT><>"
+L 09/15/2020 - 07:28:12: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<181><BOT><>"
+L 09/15/2020 - 07:28:12: [l4d2_skill_detect.smx] Clear: 8 freed 3 from 8: time: -1.00 / 30.00 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:28:12: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:28:35: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:29:01: Log file closed.
+L 09/15/2020 - 07:30:58: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200915.log") (Version "1.10.0.6492")
+L 09/15/2020 - 07:30:58: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/15/2020 - 07:30:58: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/15/2020 - 07:31:13: [SM] Changed map to "c2m5_concert"
+L 09/15/2020 - 07:31:15: -------- Mapchange to c2m5_concert --------
+L 09/15/2020 - 07:31:33: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:31:39: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<3><BOT><>"
+L 09/15/2020 - 07:31:39: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<4><BOT><>"
+L 09/15/2020 - 07:31:40: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<5><BOT><>"
+L 09/15/2020 - 07:31:40: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter<6><BOT><>"
+L 09/15/2020 - 07:31:40: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Boomer<7><BOT><>"
+L 09/15/2020 - 07:31:40: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:31:43: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Hunter<9><BOT><>"
+L 09/15/2020 - 07:31:43: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<8><BOT><>"
+L 09/15/2020 - 07:32:01: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:32:43: [l4d2_skill_detect.smx] Clear: 8 freed 7 from 3: time: 1.90 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:32:51: [l4d2_skill_detect.smx] Clear: 7 freed 1 from 2: time: -1.00 / 9.30 -- class: smoker (with shove? 0)
+L 09/15/2020 - 07:32:55: [l4d2_skill_detect.smx] Charge carry start: 5 - 8 -- time: 92.00
+L 09/15/2020 - 07:32:59: [l4d2_skill_detect.smx] Checking charge victim: 5 - 8 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:32:59: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:33:09: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<21><BOT><>"
+L 09/15/2020 - 07:33:10: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<17><BOT><>"
+L 09/15/2020 - 07:33:10: [l4d2_skill_detect.smx] Clear: 5 freed 8 from 5: time: 13.56 / 15.06 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:33:11: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<22><BOT><>"
+L 09/15/2020 - 07:33:11: [l4d2_skill_detect.smx] Clear: 3 freed 7 from 3: time: 107.90 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:33:37: [l4d2_skill_detect.smx] Clear: 8 freed 6 from 4: time: -1.00 / 2.33 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:33:45: [l4d2_skill_detect.smx] Charge carry start: 5 - 7 -- time: 142.20
+L 09/15/2020 - 07:33:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/15/2020 - 07:33:47: [l4d2_skill_detect.smx] Clear: 6 freed 7 from 5: time: 0.10 / 1.76 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:33:48: [l4d2_skill_detect.smx] Checking charge victim: 5 - 7 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:33:49: [l4d2_skill_detect.smx] Checking charge victim: 5 - 8 - flags: 0 (alive? 1)
+L 09/15/2020 - 07:34:02: [l4d2_skill_detect.smx] Clear: 7 freed 6 from 3: time: -1.00 / 1.56 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:34:07: [l4d2_skill_detect.smx] Clear: 7 freed 6 from 4: time: 2.30 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:34:22: [l4d2_skill_detect.smx] Clear: 8 freed 6 from 4: time: 3.23 / 5.29 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:34:45: [l4d2_skill_detect.smx] Charge carry start: 5 - 6 -- time: 202.10
+L 09/15/2020 - 07:34:48: [l4d2_skill_detect.smx] Checking charge victim: 5 - 6 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:34:49: [l4d2_skill_detect.smx] Clear: 8 freed 7 from 2: time: 1.36 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:34:51: [l4d2_skill_detect.smx] Clear: 7 freed 6 from 5: time: 5.23 / 6.30 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:35:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/15/2020 - 07:35:04: [admin_hp.smx]  
+L 09/15/2020 - 07:35:09: [admin_hp.smx]  
+L 09/15/2020 - 07:35:25: [l4d2_skill_detect.smx] Clear: 7 freed 1 from 3: time: 4.36 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:35:25: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 2: time: 4.00 / -1.00 -- class: hunter (with shove? 1)
+L 09/15/2020 - 07:35:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/15/2020 - 07:35:34: [admin_hp.smx]  
+L 09/15/2020 - 07:35:52: [admin_hp.smx]  
+L 09/15/2020 - 07:35:55: [l4d2_skill_detect.smx] Clear: 8 freed 7 from 9: time: 2.20 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:36:09: [admin_hp.smx]  
+L 09/15/2020 - 07:36:10: [l4d2_skill_detect.smx] Clear: 8 freed 7 from 5: time: 1.20 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:36:13: [l4d2_skill_detect.smx] Clear: 1 freed 6 from 2: time: 1.53 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:36:17: [admin_hp.smx]  
+L 09/15/2020 - 07:36:38: [l4d2_skill_detect.smx] Charge carry start: 3 - 1 -- time: 315.00
+L 09/15/2020 - 07:36:41: [l4d2_skill_detect.smx] Checking charge victim: 3 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:36:41: [l4d2_skill_detect.smx] Clear: 8 freed 1 from 3: time: 2.06 / 3.03 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:38:12: [l4d2_skill_detect.smx] Clear: 1 freed 8 from 3: time: -1.00 / 1.89 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:38:38: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 4: time: 1.23 / 5.53 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:38:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_boomer_near_dist") (value "400")
+L 09/15/2020 - 07:39:12: [l4d2_skill_detect.smx] Charge carry start: 2 - 1 -- time: 469.36
+L 09/15/2020 - 07:39:14: [l4d2_skill_detect.smx] Clear: 6 freed 1 from 2: time: 0.36 / 1.19 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:39:15: [l4d2_skill_detect.smx] Checking charge victim: 2 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:39:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_boomer_near_dist") (value "10")
+L 09/15/2020 - 07:39:49: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 3: time: 1.53 / 8.36 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:39:53: [admin_hp.smx]  
+L 09/15/2020 - 07:40:03: [admin_hp.smx]  
+L 09/15/2020 - 07:40:17: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 2: time: 6.53 / 11.83 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:40:28: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 3: time: 0.06 / 2.00 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:40:51: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_range") (value "500")
+L 09/15/2020 - 07:40:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/15/2020 - 07:41:05: [l4d2_skill_detect.smx] Clear: 6 freed 8 from 3: time: 0.89 / 2.96 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:41:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_range") (value "300")
+L 09/15/2020 - 07:41:35: [l4d2_skill_detect.smx] Clear: 7 freed 6 from 2: time: -1.00 / 3.03 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:41:50: [admin_hp.smx]  
+L 09/15/2020 - 07:41:51: [l4d2_skill_detect.smx] Clear: 7 freed 6 from 3: time: -1.00 / 3.70 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:41:52: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:42:01: [l4d2_skill_detect.smx] Clear: 7 freed 6 from 2: time: -1.00 / 1.06 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:42:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_target_range") (value "500")
+L 09/15/2020 - 07:42:28: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/15/2020 - 07:42:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_range") (value "500")
+L 09/15/2020 - 07:43:03: [admin_hp.smx]  
+L 09/15/2020 - 07:43:11: [l4d2_skill_detect.smx] Charge carry start: 5 - 1 -- time: 707.56
+L 09/15/2020 - 07:43:14: [l4d2_skill_detect.smx] Checking charge victim: 5 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:43:39: [l4d2_skill_detect.smx] Clear: 7 freed 8 from 3: time: 2.26 / 3.33 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:43:49: [l4d2_skill_detect.smx] Clear: 6 freed 1 from 5: time: 36.23 / 38.03 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:43:53: [admin_hp.smx]  
+L 09/15/2020 - 07:43:55: [admin_hp.smx]  
+L 09/15/2020 - 07:43:56: [admin_hp.smx]  
+L 09/15/2020 - 07:43:56: [admin_hp.smx]  
+L 09/15/2020 - 07:43:57: [admin_hp.smx]  
+L 09/15/2020 - 07:43:57: [admin_hp.smx]  
+L 09/15/2020 - 07:43:57: [admin_hp.smx]  
+L 09/15/2020 - 07:43:58: [admin_hp.smx]  
+L 09/15/2020 - 07:43:58: [admin_hp.smx]  
+L 09/15/2020 - 07:43:58: [admin_hp.smx]  
+L 09/15/2020 - 07:43:58: [admin_hp.smx]  
+L 09/15/2020 - 07:44:00: [l4d2_skill_detect.smx] Clear: 7 freed 6 from 4: time: 8.36 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:44:04: [admin_hp.smx]  
+L 09/15/2020 - 07:44:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_maxdamagedist") (value "600.0")
+L 09/15/2020 - 07:44:53: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_maxdamagedist") (value "600")
+L 09/15/2020 - 07:45:28: [l4d2_skill_detect.smx] Clear: 8 freed 6 from 5: time: 2.09 / 7.70 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:45:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_maxdamagedist") (value "900")
+L 09/15/2020 - 07:45:37: [l4d2_skill_detect.smx] Charge carry start: 4 - 1 -- time: 853.86
+L 09/15/2020 - 07:45:40: [l4d2_skill_detect.smx] Clear: 7 freed 1 from 4: time: 1.53 / 2.93 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:45:40: [l4d2_skill_detect.smx] Checking charge victim: 4 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:45:42: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Smoker<115><BOT><>"
+L 09/15/2020 - 07:45:42: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<100><BOT><>"
+L 09/15/2020 - 07:45:59: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<119><BOT><>"
+L 09/15/2020 - 07:46:07: [l4d2_skill_detect.smx] Charge carry start: 9 - 1 -- time: 883.96
+L 09/15/2020 - 07:46:10: [l4d2_skill_detect.smx] Clear: 8 freed 1 from 9: time: 0.80 / 2.76 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:46:11: [l4d2_skill_detect.smx] Checking charge victim: 9 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:46:14: [l4d2_skill_detect.smx] Clear: 6 freed 7 from 5: time: 2.03 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 07:46:28: [admin_hp.smx]  
+L 09/15/2020 - 07:46:33: [l4d2_skill_detect.smx] Clear: 7 freed 1 from 3: time: 0.06 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:46:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_range") (value "400")
+L 09/15/2020 - 07:46:57: [l4d2_skill_detect.smx] Charge carry start: 3 - 1 -- time: 933.86
+L 09/15/2020 - 07:47:00: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<129><BOT><>"
+L 09/15/2020 - 07:47:00: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 3: time: 0.59 / 2.66 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:47:02: [l4d2_skill_detect.smx] Checking charge victim: 3 - 6 - flags: 0 (alive? 1)
+L 09/15/2020 - 07:47:02: [l4d2_skill_detect.smx] Checking charge victim: 3 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:47:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_range") (value "450")
+L 09/15/2020 - 07:47:52: [l4d2_skill_detect.smx] Clear: 6 freed 7 from 3: time: 3.03 / 4.56 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:47:52: [l4d2_skill_detect.smx] Clear: 6 freed 1 from 4: time: 3.29 / 5.63 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:47:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_range") (value "430")
+L 09/15/2020 - 07:48:03: [admin_hp.smx]  
+L 09/15/2020 - 07:48:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_range") (value "420")
+L 09/15/2020 - 07:48:39: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<132><BOT><>"
+L 09/15/2020 - 07:48:41: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<144><BOT><>"
+L 09/15/2020 - 07:49:42: -------- Mapchange to c5m1_waterfront --------
+L 09/15/2020 - 07:51:24: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Boomer<160><BOT><>"
+L 09/15/2020 - 07:51:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_range") (value "400")
+L 09/15/2020 - 07:51:35: [l4d2_skill_detect.smx] Charge carry start: 6 - 1 -- time: 101.26
+L 09/15/2020 - 07:51:39: [l4d2_skill_detect.smx] Checking charge victim: 6 - 5 - flags: 0 (alive? 1)
+L 09/15/2020 - 07:51:40: [l4d2_skill_detect.smx] Checking charge victim: 6 - 4 - flags: 0 (alive? 1)
+L 09/15/2020 - 07:51:40: [l4d2_skill_detect.smx] Checking charge victim: 6 - 3 - flags: 0 (alive? 1)
+L 09/15/2020 - 07:51:40: [l4d2_skill_detect.smx] Checking charge victim: 6 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 07:51:40: [admin_hp.smx]  
+L 09/15/2020 - 07:51:43: [admin_hp.smx]  
+L 09/15/2020 - 07:51:47: [admin_hp.smx]  
+L 09/15/2020 - 07:51:50: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 6: time: 12.36 / 14.76 -- class: charger (with shove? 0)
+L 09/15/2020 - 07:51:52: [l4d2_skill_detect.smx] Clear: 5 freed 4 from 8: time: 9.56 / 11.13 -- class: smoker (with shove? 0)
+L 09/15/2020 - 07:51:54: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter<162><BOT><>"
+L 09/15/2020 - 07:52:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_vomit_maxdamagedist") (value "350.0")
+L 09/15/2020 - 07:52:24: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 8: time: -1.00 / 3.43 -- class: smoker (with shove? 1)
+L 09/15/2020 - 07:52:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<173><BOT><>"
+L 09/15/2020 - 07:52:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<172><BOT><>"
+L 09/15/2020 - 07:52:45: [l4d2_skill_detect.smx] Clear: 9 freed 1 from 9: time: 170.63 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:53:31: [l4d2_skill_detect.smx] Clear: 5 freed 4 from 7: time: 0.60 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 07:53:42: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 2: time: 1.03 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 07:53:49: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<157><BOT><>"
+L 09/15/2020 - 07:53:49: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<158><BOT><>"
+L 09/15/2020 - 07:53:50: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<159><BOT><>"
+L 09/15/2020 - 07:54:09: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 2: time: 0.93 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 07:57:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/15/2020 - 07:57:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/15/2020 - 07:58:01: Log file closed.
+L 09/15/2020 - 22:13:53: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200915.log") (Version "1.10.0.6492")
+L 09/15/2020 - 22:13:53: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/15/2020 - 22:13:56: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/15/2020 - 22:14:08: [SM] Changed map to "c1m1_hotel"
+L 09/15/2020 - 22:14:11: -------- Mapchange to c1m1_hotel --------
+L 09/15/2020 - 22:16:48: [l4d2_skill_detect.smx] Charge carry start: 5 - 2 -- time: 147.66
+L 09/15/2020 - 22:16:49: [l4d2_skill_detect.smx] Clear: 1 freed 2 from 5: time: 0.33 / 1.10 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:16:51: [l4d2_skill_detect.smx] Checking charge victim: 5 - 2 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:17:20: [l4d2_skill_detect.smx] Clear: 7 freed 8 from 4: time: 1.59 / 4.86 -- class: smoker (with shove? 0)
+L 09/15/2020 - 22:17:36: [l4d2_skill_detect.smx] Charge carry start: 6 - 7 -- time: 195.03
+L 09/15/2020 - 22:17:39: [l4d2_skill_detect.smx] Checking charge victim: 6 - 7 - flags: 43 (alive? 0)
+L 09/15/2020 - 22:19:27: [l4d2_skill_detect.smx] Charge carry start: 4 - 9 -- time: 306.50
+L 09/15/2020 - 22:19:27: [l4d2_skill_detect.smx] Clear: 7 freed 9 from 4: time: 0.00 / 0.03 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:19:30: [l4d2_skill_detect.smx] Checking charge victim: 4 - 9 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:20:08: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 6: time: 19.03 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:20:23: [l4d2_skill_detect.smx] Charge carry start: 3 - 1 -- time: 362.10
+L 09/15/2020 - 22:20:27: [l4d2_skill_detect.smx] Checking charge victim: 3 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:20:28: [l4d2_skill_detect.smx] Clear: 11 freed 1 from 3: time: 2.89 / 5.23 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:20:30: [l4d2_skill_detect.smx] Clear: 11 freed 9 from 5: time: 2.93 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 22:21:55: [l4d2_skill_detect.smx] Clear: 5 freed 3 from 1: time: 1.70 / -1.00 -- class: hunter (with shove? 1)
+L 09/15/2020 - 22:21:59: [l4d2_skill_detect.smx] Clear: 3 freed 5 from 1: time: 2.46 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:22:02: [l4d2_skill_detect.smx] Clear: 5 freed 3 from 11: time: 2.53 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 22:22:30: [l4d2_skill_detect.smx] Charge carry start: 4 - 3 -- time: 488.76
+L 09/15/2020 - 22:22:33: [l4d2_skill_detect.smx] Checking charge victim: 4 - 3 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:22:42: [l4d2_skill_detect.smx] Clear: 6 freed 3 from 4: time: 10.46 / 11.23 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:22:44: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 11: time: 2.16 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:23:26: [l4d2_skill_detect.smx] Clear: 0 freed 7 from 11: time: -1.00 / 544.50 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:24:57: -------- Mapchange to c1m2_streets --------
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/15/2020 - 22:25:28: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/15/2020 - 22:26:50: [l4d2_skill_detect.smx] Clear: 11 freed 9 from 3: time: -1.00 / 1.69 -- class: smoker (with shove? 0)
+L 09/15/2020 - 22:27:07: [l4d2_skill_detect.smx] Clear: 4 freed 11 from 5: time: 4.33 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 22:31:36: [l4d2_skill_detect.smx] Clear: 1 freed 4 from 5: time: 2.26 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:32:14: [l4d2_skill_detect.smx] Clear: 4 freed 1 from 6: time: 1.60 / 2.16 -- class: smoker (with shove? 1)
+L 09/15/2020 - 22:32:22: [l4d2_skill_detect.smx] Clear: 9 freed 1 from 2: time: 1.73 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:33:01: [l4d2_skill_detect.smx] Charge carry start: 7 - 1 -- time: 465.56
+L 09/15/2020 - 22:33:03: [l4d2_skill_detect.smx] Clear: 4 freed 1 from 7: time: 0.50 / 1.26 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:33:04: [l4d2_skill_detect.smx] Checking charge victim: 7 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:33:06: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 6: time: 1.03 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 22:33:36: [l4d2_skill_detect.smx] Clear: 0 freed 4 from 5: time: 499.83 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 22:33:50: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 6: time: 1.59 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:33:56: [l4d2_skill_detect.smx] Charge carry start: 2 - 4 -- time: 519.53
+L 09/15/2020 - 22:33:58: [l4d2_skill_detect.smx] Clear: 11 freed 4 from 2: time: 0.20 / 2.59 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:34:00: [l4d2_skill_detect.smx] Checking charge victim: 2 - 4 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:34:25: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 5: time: -1.00 / 2.40 -- class: smoker (with shove? 0)
+L 09/15/2020 - 22:34:30: [l4d2_skill_detect.smx] Clear: 4 freed 11 from 3: time: 2.50 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 22:36:45: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 9: time: 4.23 / 5.86 -- class: smoker (with shove? 1)
+L 09/15/2020 - 22:36:50: [l4d2_skill_detect.smx] Clear: 5 freed 6 from 1: time: 21.03 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 22:37:21: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 11: time: 1.90 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:37:40: [l4d2_skill_detect.smx] Charge carry start: 1 - 5 -- time: 742.76
+L 09/15/2020 - 22:37:43: [l4d2_skill_detect.smx] Checking charge victim: 1 - 5 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:37:44: [l4d2_skill_detect.smx] Checking charge victim: 1 - 6 - flags: 0 (alive? 1)
+L 09/15/2020 - 22:37:45: [l4d2_skill_detect.smx] Clear: 6 freed 5 from 1: time: 4.26 / 5.66 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:38:01: [l4d2_skill_detect.smx] Clear: 5 freed 3 from 11: time: 1.46 / 3.16 -- class: smoker (with shove? 1)
+L 09/15/2020 - 22:38:46: [l4d2_skill_detect.smx] Charge carry start: 9 - 2 -- time: 809.26
+L 09/15/2020 - 22:38:49: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 9: time: 0.50 / 2.26 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:38:50: [l4d2_skill_detect.smx] Checking charge victim: 9 - 2 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:38:59: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 1: time: 9.03 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:39:55: -------- Mapchange to c1m3_mall --------
+L 09/15/2020 - 22:42:00: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 3: time: 1.36 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 22:43:34: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 6: time: 2.06 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:43:54: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 412)
+L 09/15/2020 - 22:43:54: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 627, teamless dmg: 0
+L 09/15/2020 - 22:44:01: [l4d2_skill_detect.smx] Clear: 11 freed 9 from 5: time: -1.00 / 1.60 -- class: smoker (with shove? 1)
+L 09/15/2020 - 22:45:53: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 5: time: 1.16 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:47:01: [l4d2_skill_detect.smx] Charge carry start: 6 - 9 -- time: 404.63
+L 09/15/2020 - 22:47:03: [l4d2_skill_detect.smx] Clear: 11 freed 9 from 6: time: 1.53 / 2.36 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:47:03: [l4d2_skill_detect.smx] Checking charge victim: 6 - 9 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:47:46: [l4d2_skill_detect.smx] Clear: 1 freed 4 from 6: time: 1.29 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:47:49: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 2: time: -1.00 / 1.60 -- class: smoker (with shove? 0)
+L 09/15/2020 - 22:48:36: [l4d2_skill_detect.smx] Clear: 1 freed 4 from 5: time: 0.39 / 500.20 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:48:48: [l4d2_skill_detect.smx] Clear: 11 freed 9 from 7: time: 5.23 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 22:49:23: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/15/2020 - 22:51:16: [l4d2_skill_detect.smx] Clear: 3 freed 8 from 11: time: 0.83 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 22:51:58: [l4d2_skill_detect.smx] Clear: 2 freed 7 from 11: time: 2.63 / 4.29 -- class: smoker (with shove? 0)
+L 09/15/2020 - 22:52:10: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 4: time: 1.60 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:52:37: [l4d2_skill_detect.smx] Clear: 6 freed 3 from 1: time: 3.59 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 22:53:18: [l4d2_skill_detect.smx] Clear: 7 freed 3 from 4: time: -1.00 / 1.79 -- class: smoker (with shove? 1)
+L 09/15/2020 - 22:53:24: [l4d2_skill_detect.smx] Clear: 6 freed 2 from 1: time: 3.33 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:53:38: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 4: time: -1.00 / 2.86 -- class: smoker (with shove? 0)
+L 09/15/2020 - 22:54:32: [l4d2_skill_detect.smx] Charge carry start: 11 - 7 -- time: 855.23
+L 09/15/2020 - 22:54:36: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 11: time: 1.56 / 4.00 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:54:36: [l4d2_skill_detect.smx] Checking charge victim: 11 - 6 - flags: 0 (alive? 1)
+L 09/15/2020 - 22:54:37: [l4d2_skill_detect.smx] Checking charge victim: 11 - 7 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:54:43: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 401)
+L 09/15/2020 - 22:54:43: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: enrique_ten, attacker dmg: 245, teamless dmg: 20
+L 09/15/2020 - 22:54:45: [l4d2_skill_detect.smx] Clear: 6 freed 5 from 9: time: 1.10 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:55:30: [l4d2_skill_detect.smx] Clear: 5 freed 2 from 4: time: 1.73 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 22:55:31: [l4d2_skill_detect.smx] Charge carry start: 1 - 2 -- time: 914.43
+L 09/15/2020 - 22:55:35: [l4d2_skill_detect.smx] Checking charge victim: 1 - 6 - flags: 0 (alive? 1)
+L 09/15/2020 - 22:55:35: [l4d2_skill_detect.smx] Checking charge victim: 1 - 7 - flags: 0 (alive? 1)
+L 09/15/2020 - 22:55:36: [l4d2_skill_detect.smx] Clear: 5 freed 6 from 9: time: -1.00 / 1.76 -- class: smoker (with shove? 1)
+L 09/15/2020 - 22:55:37: [l4d2_skill_detect.smx] Checking charge victim: 1 - 2 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:55:38: [l4d2_skill_detect.smx] Clear: 5 freed 2 from 1: time: 3.39 / 6.69 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:56:04: [l4d2_skill_detect.smx] Clear: 6 freed 5 from 11: time: 4.00 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 22:56:45: [l4d2_skill_detect.smx] Charge carry start: 4 - 7 -- time: 988.10
+L 09/15/2020 - 22:56:47: [l4d2_skill_detect.smx] Clear: 2 freed 7 from 4: time: 0.86 / 1.76 -- class: charger (with shove? 0)
+L 09/15/2020 - 22:56:48: [l4d2_skill_detect.smx] Checking charge victim: 4 - 7 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:57:26: -------- Mapchange to c1m4_atrium --------
+L 09/15/2020 - 22:58:44: [l4d2_skill_detect.smx] Clear: 1 freed 4 from 5: time: 0.36 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 22:59:17: [l4d2_skill_detect.smx] Charge carry start: 5 - 4 -- time: 98.06
+L 09/15/2020 - 22:59:21: [l4d2_skill_detect.smx] Checking charge victim: 5 - 1 - flags: 0 (alive? 1)
+L 09/15/2020 - 22:59:21: [l4d2_skill_detect.smx] Checking charge victim: 5 - 4 - flags: 1 (alive? 1)
+L 09/15/2020 - 22:59:21: [l4d2_skill_detect.smx] Checking charge victim: 5 - 9 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:00:20: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 0 / crowntype: 0 (entity: 419)
+L 09/15/2020 - 23:00:20: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 1317, teamless dmg: 20
+L 09/15/2020 - 23:00:42: [l4d2_skill_detect.smx] Clear: 9 freed 4 from 7: time: 0.60 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 23:00:52: [l4d2_skill_detect.smx] Clear: 4 freed 1 from 5: time: -1.00 / 1.13 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:01:09: [l4d2_skill_detect.smx] Clear: 11 freed 9 from 5: time: 1.26 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:01:26: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 2: time: -1.00 / 1.06 -- class: smoker (with shove? 0)
+L 09/15/2020 - 23:03:15: [l4d2_skill_detect.smx] Clear: 9 freed 4 from 3: time: 2.29 / 4.33 -- class: smoker (with shove? 0)
+L 09/15/2020 - 23:04:15: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 6: time: 1.83 / 3.63 -- class: smoker (with shove? 0)
+L 09/15/2020 - 23:04:47: [l4d2_skill_detect.smx] Charge carry start: 2 - 11 -- time: 426.90
+L 09/15/2020 - 23:04:50: [l4d2_skill_detect.smx] Checking charge victim: 2 - 11 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:06:34: [l4d2_skill_detect.smx] Clear: 2 freed 6 from 11: time: 1.16 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:08:04: [l4d2_skill_detect.smx] Clear: 7 freed 2 from 11: time: 1.56 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:08:23: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 306)
+L 09/15/2020 - 23:08:23: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: Ellis, attacker dmg: 136, teamless dmg: 0
+L 09/15/2020 - 23:08:49: [l4d2_skill_detect.smx] Clear: 6 freed 2 from 1: time: 1.36 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:09:49: [l4d2_skill_detect.smx] Clear: 3 freed 5 from 4: time: -1.00 / 2.89 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:10:18: [l4d2_skill_detect.smx] Clear: 2 freed 5 from 1: time: 5.29 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:10:30: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 9: time: 5.79 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:10:41: [basebans.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" banned "RipaNaXulipa<130><STEAM_1:0:57711014><>" (minutes "0") (reason "Troll de Mierda")
+L 09/15/2020 - 23:12:26: -------- Mapchange to c2m1_highway --------
+L 09/15/2020 - 23:14:21: [l4d2_skill_detect.smx] Charge carry start: 3 - 9 -- time: 97.20
+L 09/15/2020 - 23:14:23: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 3: time: 0.23 / 2.03 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:14:25: [l4d2_skill_detect.smx] Checking charge victim: 3 - 9 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:14:26: [l4d2_skill_detect.smx] Checking charge victim: 3 - 4 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:14:53: [l4d2_skill_detect.smx] Clear: 11 freed 4 from 2: time: 2.30 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 23:15:41: [l4d2_skill_detect.smx] Clear: 9 freed 4 from 6: time: 1.26 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 23:16:49: [l4d2_skill_detect.smx] calarm trigger: caller 865 / activator 865 / delay: 0.00
+L 09/15/2020 - 23:16:58: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 3: time: 3.43 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:17:49: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 5: time: 1.56 / 2.20 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:18:05: [l4d2_skill_detect.smx] Clear: 9 freed 11 from 7: time: 0.39 / 320.30 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:18:36: [l4d2_skill_detect.smx] Clear: 1 freed 4 from 5: time: 6.70 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 23:20:36: [l4d2_skill_detect.smx] Charge carry start: 8 - 9 -- time: 471.33
+L 09/15/2020 - 23:20:39: [l4d2_skill_detect.smx] Checking charge victim: 8 - 9 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:20:41: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 8: time: 3.43 / 4.56 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:21:47: [l4d2_skill_detect.smx] Charge carry start: 5 - 11 -- time: 541.70
+L 09/15/2020 - 23:21:50: [l4d2_skill_detect.smx] Checking charge victim: 5 - 11 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:23:17: [l4d2_skill_detect.smx] Charge carry start: 4 - 3 -- time: 632.36
+L 09/15/2020 - 23:23:20: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 4: time: 0.79 / 2.56 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:23:21: [l4d2_skill_detect.smx] Checking charge victim: 4 - 3 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:23:21: [l4d2_skill_detect.smx] Checking charge victim: 4 - 5 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:24:06: [l4d2_skill_detect.smx] Clear: 7 freed 2 from 4: time: 1.86 / 1.90 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:24:11: [l4d2_skill_detect.smx] Clear: 7 freed 3 from 9: time: 2.29 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:24:37: [l4d2_skill_detect.smx] Charge carry start: 1 - 3 -- time: 711.43
+L 09/15/2020 - 23:24:40: [l4d2_skill_detect.smx] Clear: 2 freed 7 from 11: time: 5.46 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:24:42: [l4d2_skill_detect.smx] Checking charge victim: 1 - 3 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:24:50: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 1: time: 9.66 / 12.83 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:25:42: [l4d2_skill_detect.smx] Clear: 7 freed 3 from 1: time: 5.76 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:26:33: [l4d2_skill_detect.smx] Charge carry start: 1 - 3 -- time: 826.80
+L 09/15/2020 - 23:26:36: [l4d2_skill_detect.smx] Checking charge victim: 1 - 3 - flags: 1 (alive? 0)
+L 09/15/2020 - 23:26:37: [l4d2_skill_detect.smx] Checking charge victim: 1 - 5 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:26:37: [l4d2_skill_detect.smx] Charge carry start: 1 - 7 -- time: 831.13
+L 09/15/2020 - 23:26:41: [l4d2_skill_detect.smx] Clear: 2 freed 5 from 9: time: 2.76 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:26:42: [l4d2_skill_detect.smx] Checking charge victim: 1 - 7 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:26:45: [l4d2_skill_detect.smx] Clear: 2 freed 7 from 1: time: 5.20 / 6.96 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:26:51: [l4d2_skill_detect.smx] Clear: 2 freed 5 from 11: time: 6.23 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:28:19: [l4d2_skill_detect.smx] Charge carry start: 11 - 2 -- time: 931.36
+L 09/15/2020 - 23:28:22: [l4d2_skill_detect.smx] Checking charge victim: 11 - 2 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:28:54: -------- Mapchange to c2m2_fairgrounds --------
+L 09/15/2020 - 23:30:47: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 2: time: 0.56 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:30:55: [l4d2_skill_detect.smx] Charge carry start: 3 - 9 -- time: 98.63
+L 09/15/2020 - 23:30:58: [l4d2_skill_detect.smx] Checking charge victim: 3 - 9 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:30:59: [l4d2_skill_detect.smx] Checking charge victim: 3 - 1 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:31:03: [l4d2_skill_detect.smx] Clear: 4 freed 9 from 3: time: 6.29 / 7.73 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:31:05: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 10: time: 4.19 / 6.43 -- class: smoker (with shove? 0)
+L 09/15/2020 - 23:31:24: [l4d2_skill_detect.smx] Clear: 1 freed 4 from 5: time: 2.13 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:32:00: [l4d2_skill_detect.smx] Clear: 1 freed 4 from 3: time: 1.56 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:32:01: [l4d2_skill_detect.smx] Charge carry start: 5 - 4 -- time: 164.53
+L 09/15/2020 - 23:32:05: [l4d2_skill_detect.smx] Checking charge victim: 5 - 1 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:32:06: [l4d2_skill_detect.smx] Checking charge victim: 5 - 4 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:32:07: [l4d2_skill_detect.smx] Clear: 11 freed 4 from 5: time: 3.20 / 5.53 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:32:58: [l4d2_skill_detect.smx] Clear: 4 freed 9 from 2: time: 2.63 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:33:03: [l4d2_skill_detect.smx] Clear: 9 freed 4 from 3: time: 0.66 / 2.23 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:33:07: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 5: time: 2.06 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 23:34:05: [l4d2_skill_detect.smx] Charge carry start: 2 - 9 -- time: 288.60
+L 09/15/2020 - 23:34:09: [l4d2_skill_detect.smx] Checking charge victim: 2 - 9 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:34:10: [l4d2_skill_detect.smx] Checking charge victim: 2 - 1 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:34:54: [l4d2_skill_detect.smx] Charge carry start: 5 - 9 -- time: 337.23
+L 09/15/2020 - 23:34:56: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 5: time: 1.53 / 2.30 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:34:57: [l4d2_skill_detect.smx] Checking charge victim: 5 - 9 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:35:05: [l4d2_skill_detect.smx] Clear: 9 freed 9 from 10: time: 0.13 / -1.00 -- class: jockey (with shove? 1)
+L 09/15/2020 - 23:35:40: [l4d2_skill_detect.smx] Charge carry start: 3 - 1 -- time: 383.16
+L 09/15/2020 - 23:35:43: [l4d2_skill_detect.smx] Clear: 11 freed 1 from 3: time: 2.10 / 3.20 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:35:43: [l4d2_skill_detect.smx] Checking charge victim: 3 - 1 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:35:44: [l4d2_skill_detect.smx] Clear: 11 freed 4 from 2: time: 0.69 / 2.29 -- class: smoker (with shove? 0)
+L 09/15/2020 - 23:36:23: [l4d2_skill_detect.smx] Charge carry start: 2 - 4 -- time: 425.76
+L 09/15/2020 - 23:36:26: [l4d2_skill_detect.smx] Checking charge victim: 2 - 4 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:38:20: [l4d2_skill_detect.smx] Clear: 5 freed 10 from 9: time: 4.76 / 6.76 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:38:32: [l4d2_skill_detect.smx] Clear: 5 freed 10 from 1: time: 6.20 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:38:37: [l4d2_skill_detect.smx] Clear: 10 freed 3 from 4: time: 2.40 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:39:21: [l4d2_skill_detect.smx] Charge carry start: 11 - 10 -- time: 603.63
+L 09/15/2020 - 23:39:24: [l4d2_skill_detect.smx] Checking charge victim: 11 - 10 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:40:11: -------- Mapchange to c2m3_coaster --------
+L 09/15/2020 - 23:42:00: [l4d2_skill_detect.smx] Charge carry start: 5 - 11 -- time: 95.23
+L 09/15/2020 - 23:42:02: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 5: time: 0.00 / 1.56 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:42:04: [l4d2_skill_detect.smx] Checking charge victim: 5 - 9 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:42:04: [l4d2_skill_detect.smx] Checking charge victim: 5 - 4 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:42:05: [l4d2_skill_detect.smx] Checking charge victim: 5 - 11 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:42:43: [l4d2_skill_detect.smx] Clear: 9 freed 4 from 5: time: 3.19 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:42:45: [l4d2_skill_detect.smx] Clear: 9 freed 11 from 3: time: -1.00 / 2.53 -- class: smoker (with shove? 0)
+L 09/15/2020 - 23:43:27: [l4d2_skill_detect.smx] Clear: 11 freed 11 from 5: time: -1.00 / 0.60 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:44:13: [l4d2_skill_detect.smx] Clear: 1 freed 4 from 3: time: 1.06 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:46:55: [l4d2_skill_detect.smx] Clear: 3 freed 6 from 11: time: 0.66 / 2.60 -- class: smoker (with shove? 0)
+L 09/15/2020 - 23:47:49: [l4d2_skill_detect.smx] Clear: 3 freed 6 from 11: time: 1.53 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:49:29: -------- Mapchange to c2m4_barns --------
+L 09/15/2020 - 23:50:54: [l4d2_skill_detect.smx] Clear: 5 freed 7 from 2: time: 2.09 / 72.93 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:52:01: [l4d2_skill_detect.smx] Charge carry start: 9 - 7 -- time: 140.00
+L 09/15/2020 - 23:52:03: [l4d2_skill_detect.smx] Clear: 11 freed 7 from 9: time: 0.33 / 1.83 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:52:05: [l4d2_skill_detect.smx] Checking charge victim: 9 - 7 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:52:07: [l4d2_skill_detect.smx] Clear: 7 freed 7 from 6: time: -1.00 / 0.26 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:52:21: [l4d2_skill_detect.smx] Clear: 9 freed 7 from 8: time: 0.93 / -1.00 -- class: jockey (with shove? 0)
+L 09/15/2020 - 23:53:28: [l4d2_skill_detect.smx] Clear: 9 freed 7 from 4: time: 1.33 / -1.00 -- class: hunter (with shove? 0)
+L 09/15/2020 - 23:53:35: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 5: time: -1.00 / 2.43 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:56:05: [l4d2_skill_detect.smx] Clear: 11 freed 1 from 2: time: -1.00 / 3.13 -- class: smoker (with shove? 1)
+L 09/15/2020 - 23:56:56: [l4d2_skill_detect.smx] Charge carry start: 2 - 7 -- time: 434.40
+L 09/15/2020 - 23:56:57: [l4d2_skill_detect.smx] Clear: 11 freed 7 from 2: time: 0.00 / 0.63 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:56:59: [l4d2_skill_detect.smx] Clear: 7 freed 11 from 4: time: 1.13 / 3.06 -- class: smoker (with shove? 0)
+L 09/15/2020 - 23:56:59: [l4d2_skill_detect.smx] Checking charge victim: 2 - 7 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:57:00: [l4d2_skill_detect.smx] Checking charge victim: 2 - 9 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:57:38: [l4d2_skill_detect.smx] Charge carry start: 4 - 11 -- time: 476.53
+L 09/15/2020 - 23:57:42: [l4d2_skill_detect.smx] Clear: 7 freed 11 from 4: time: 1.43 / 3.93 -- class: charger (with shove? 0)
+L 09/15/2020 - 23:57:42: [l4d2_skill_detect.smx] Checking charge victim: 4 - 9 - flags: 0 (alive? 1)
+L 09/15/2020 - 23:57:43: [l4d2_skill_detect.smx] Checking charge victim: 4 - 11 - flags: 1 (alive? 1)
+L 09/15/2020 - 23:58:01: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 5: time: 0.89 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 00:00:07: Log file closed.

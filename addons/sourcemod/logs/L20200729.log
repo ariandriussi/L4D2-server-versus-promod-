@@ -1,0 +1,303 @@
+L 07/29/2020 - 11:34:53: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 11:34:53: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 11:34:58: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 11:34:59: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/29/2020 - 11:35:27: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 11:35:29: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 11:36:50: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 11:37:34: Log file closed.
+L 07/29/2020 - 13:01:38: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 13:01:38: -------- Mapchange to c10m1_caves --------
+L 07/29/2020 - 13:01:43: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 13:02:10: [SM] Changed map to "c10m1_caves"
+L 07/29/2020 - 13:02:14: -------- Mapchange to c10m1_caves --------
+L 07/29/2020 - 13:03:26: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Boomer<7><BOT><>"
+L 07/29/2020 - 13:03:27: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter<9><BOT><>"
+L 07/29/2020 - 13:05:39: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<20><BOT><>"
+L 07/29/2020 - 13:07:07: Log file closed.
+L 07/29/2020 - 13:16:32: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 13:16:32: -------- Mapchange to c10m1_caves --------
+L 07/29/2020 - 13:16:34: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 13:16:56: [SM] Changed map to "c10m1_caves"
+L 07/29/2020 - 13:16:59: -------- Mapchange to c10m1_caves --------
+L 07/29/2020 - 13:18:11: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<7><BOT><>"
+L 07/29/2020 - 13:18:11: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter<8><BOT><>"
+L 07/29/2020 - 13:18:12: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<9><BOT><>"
+L 07/29/2020 - 13:18:18: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 13:18:42: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<10><BOT><>"
+L 07/29/2020 - 13:18:42: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<12><BOT><>"
+L 07/29/2020 - 13:18:44: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 13:19:06: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Boomer<13><BOT><>"
+L 07/29/2020 - 13:19:07: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<14><BOT><>"
+L 07/29/2020 - 13:19:07: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<15><BOT><>"
+L 07/29/2020 - 13:20:46: Log file closed.
+L 07/29/2020 - 14:29:40: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 14:29:40: Log file closed.
+L 07/29/2020 - 15:35:20: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 15:35:20: Log file closed.
+L 07/29/2020 - 16:46:38: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 16:46:38: Log file closed.
+L 07/29/2020 - 16:49:12: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 16:49:12: Log file closed.
+L 07/29/2020 - 20:20:46: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 20:20:46: Log file closed.
+L 07/29/2020 - 21:17:26: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 21:17:26: -------- Mapchange to c9m1_alleys --------
+L 07/29/2020 - 21:17:33: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 21:18:06: [SM] Changed map to "c9m1_alleys"
+L 07/29/2020 - 21:18:09: -------- Mapchange to c9m1_alleys --------
+L 07/29/2020 - 21:20:21: Log file closed.
+L 07/29/2020 - 21:21:26: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 21:21:26: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 21:21:30: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 21:21:44: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 21:21:47: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 21:22:24: Log file closed.
+L 07/29/2020 - 21:24:02: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 21:24:02: -------- Mapchange to c9m1_alleys --------
+L 07/29/2020 - 21:24:05: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 21:24:22: [SM] Changed map to "c9m1_alleys"
+L 07/29/2020 - 21:24:24: -------- Mapchange to c9m1_alleys --------
+L 07/29/2020 - 21:31:07: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Zoey<4><BOT><>"
+L 07/29/2020 - 21:31:14: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Boomer<26><BOT><>"
+L 07/29/2020 - 21:31:16: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<19><BOT><>"
+L 07/29/2020 - 21:31:17: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Louis<3><BOT><>"
+L 07/29/2020 - 21:31:59: -------- Mapchange to c10m1_caves --------
+L 07/29/2020 - 21:33:20: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(1)Smoker<35><BOT><>"
+L 07/29/2020 - 21:33:21: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "Hunter<36><BOT><>"
+L 07/29/2020 - 21:33:21: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "Jockey<37><BOT><>"
+L 07/29/2020 - 21:33:21: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(1)Spitter<39><BOT><>"
+L 07/29/2020 - 21:33:22: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(2)Spitter<40><BOT><>"
+L 07/29/2020 - 21:33:22: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(3)Spitter<41><BOT><>"
+L 07/29/2020 - 21:33:22: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(4)Spitter<42><BOT><>"
+L 07/29/2020 - 21:33:22: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(7)Spitter<45><BOT><>"
+L 07/29/2020 - 21:33:22: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(9)Spitter<47><BOT><>"
+L 07/29/2020 - 21:33:22: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(11)Spitter<49><BOT><>"
+L 07/29/2020 - 21:33:23: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(12)Spitter<50><BOT><>"
+L 07/29/2020 - 21:33:23: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(13)Spitter<51><BOT><>"
+L 07/29/2020 - 21:33:23: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(15)Spitter<53><BOT><>"
+L 07/29/2020 - 21:33:23: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(16)Spitter<54><BOT><>"
+L 07/29/2020 - 21:33:23: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(17)Spitter<55><BOT><>"
+L 07/29/2020 - 21:33:23: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(18)Spitter<56><BOT><>"
+L 07/29/2020 - 21:33:24: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(19)Spitter<57><BOT><>"
+L 07/29/2020 - 21:33:24: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(20)Spitter<58><BOT><>"
+L 07/29/2020 - 21:33:24: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(21)Spitter<59><BOT><>"
+L 07/29/2020 - 21:33:30: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "Smoker<34><BOT><>"
+L 07/29/2020 - 21:33:32: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "Boomer<61><BOT><>"
+L 07/29/2020 - 21:33:32: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(1)Boomer<62><BOT><>"
+L 07/29/2020 - 21:33:32: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(2)Boomer<63><BOT><>"
+L 07/29/2020 - 21:33:37: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:33:45: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(2)Charger<66><BOT><>"
+L 07/29/2020 - 21:33:45: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "Charger<64><BOT><>"
+L 07/29/2020 - 21:33:46: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(3)Charger<67><BOT><>"
+L 07/29/2020 - 21:33:46: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "Hunter<70><BOT><>"
+L 07/29/2020 - 21:33:46: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(4)Charger<68><BOT><>"
+L 07/29/2020 - 21:33:46: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(5)Charger<69><BOT><>"
+L 07/29/2020 - 21:33:46: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "Jockey<71><BOT><>"
+L 07/29/2020 - 21:33:46: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "Spitter<72><BOT><>"
+L 07/29/2020 - 21:33:47: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(1)Spitter<73><BOT><>"
+L 07/29/2020 - 21:33:47: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(2)Spitter<74><BOT><>"
+L 07/29/2020 - 21:33:47: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(3)Spitter<75><BOT><>"
+L 07/29/2020 - 21:33:47: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(4)Spitter<76><BOT><>"
+L 07/29/2020 - 21:33:47: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(5)Spitter<77><BOT><>"
+L 07/29/2020 - 21:33:47: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(6)Spitter<78><BOT><>"
+L 07/29/2020 - 21:33:48: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(7)Spitter<79><BOT><>"
+L 07/29/2020 - 21:33:48: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(8)Spitter<80><BOT><>"
+L 07/29/2020 - 21:33:48: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(9)Spitter<81><BOT><>"
+L 07/29/2020 - 21:33:48: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(10)Spitter<82><BOT><>"
+L 07/29/2020 - 21:33:48: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(11)Spitter<83><BOT><>"
+L 07/29/2020 - 21:33:49: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(12)Spitter<84><BOT><>"
+L 07/29/2020 - 21:33:49: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(13)Spitter<85><BOT><>"
+L 07/29/2020 - 21:33:49: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(14)Spitter<86><BOT><>"
+L 07/29/2020 - 21:33:49: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(15)Spitter<87><BOT><>"
+L 07/29/2020 - 21:33:49: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(16)Spitter<88><BOT><>"
+L 07/29/2020 - 21:33:50: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(17)Spitter<89><BOT><>"
+L 07/29/2020 - 21:33:50: [playercommands.smx] "♛ Rain ♛<29><STEAM_1:0:162762726><>" slayed "(18)Spitter<90><BOT><>"
+L 07/29/2020 - 21:33:53: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:34:16: -------- Mapchange to c10m1_caves --------
+L 07/29/2020 - 21:35:51: Log file closed.
+L 07/29/2020 - 21:36:44: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 21:36:44: -------- Mapchange to c10m1_caves --------
+L 07/29/2020 - 21:36:47: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 21:37:05: [SM] Changed map to "c10m1_caves"
+L 07/29/2020 - 21:37:07: -------- Mapchange to c10m1_caves --------
+L 07/29/2020 - 21:41:14: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:41:18: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:41:42: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:41:56: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:42:09: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:42:17: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:42:50: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:01: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:15: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:19: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:23: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:26: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:29: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:31: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:36: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:37: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:39: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:40: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:41: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:42: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:44: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:45: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:46: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:47: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:51: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:52: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:53: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:53: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:53: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:54: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:54: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:54: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:55: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:55: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:55: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:56: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:56: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:56: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:56: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:57: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:57: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:57: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:57: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:58: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:58: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:58: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:58: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:58: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:59: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:59: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:59: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:43:59: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:17: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:18: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:18: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:18: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:19: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:19: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:19: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:20: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:20: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:44:32: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:23: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:24: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:24: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:25: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:25: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:25: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:26: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:26: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:26: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:27: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:27: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:27: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:28: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:28: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:29: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:29: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:29: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:47:53: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:48:20: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:48:34: [admin_hp.smx] [TS] Adm ♛ Rain ♛ restores all survivors FULL HP
+L 07/29/2020 - 21:49:36: Log file closed.
+L 07/29/2020 - 21:58:25: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 21:58:25: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 21:58:27: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 21:58:42: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 21:58:45: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:00:27: Log file closed.
+L 07/29/2020 - 22:01:13: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 22:01:13: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:01:16: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 22:01:27: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 22:01:29: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:02:50: Log file closed.
+L 07/29/2020 - 22:03:45: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 22:03:45: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:03:48: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 22:03:55: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 22:03:57: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:06:12: Log file closed.
+L 07/29/2020 - 22:08:58: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 22:08:58: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:09:00: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 22:09:11: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 22:09:13: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:12:19: Log file closed.
+L 07/29/2020 - 22:19:00: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 22:19:00: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:19:04: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 22:19:17: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 22:19:20: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:21:40: Log file closed.
+L 07/29/2020 - 22:33:06: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 22:33:06: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:33:09: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 22:33:24: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 22:33:27: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:35:07: Log file closed.
+L 07/29/2020 - 22:38:25: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 22:38:25: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:38:28: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 22:38:38: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 22:38:41: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:40:21: Log file closed.
+L 07/29/2020 - 22:42:52: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 22:42:52: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:42:55: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 22:43:09: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 22:43:12: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:45:04: Log file closed.
+L 07/29/2020 - 22:59:19: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 22:59:19: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 22:59:22: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 22:59:22: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/29/2020 - 22:59:37: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 22:59:39: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 23:01:10: Log file closed.
+L 07/29/2020 - 23:04:23: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 23:04:23: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 23:04:26: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 23:04:26: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/29/2020 - 23:04:39: [SM] Changed map to "c1m1_hotel"
+L 07/29/2020 - 23:04:41: -------- Mapchange to c1m1_hotel --------
+L 07/29/2020 - 23:06:42: Log file closed.
+L 07/29/2020 - 23:14:16: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 23:14:16: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:14:18: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 23:14:18: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/29/2020 - 23:14:31: [SM] Changed map to "c1m2_streets"
+L 07/29/2020 - 23:14:34: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:17:01: Log file closed.
+L 07/29/2020 - 23:18:54: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 23:18:54: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:18:57: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 23:18:57: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/29/2020 - 23:19:11: [SM] Changed map to "c1m2_streets"
+L 07/29/2020 - 23:19:14: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:20:37: Log file closed.
+L 07/29/2020 - 23:21:55: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 23:21:55: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:21:57: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 23:21:58: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/29/2020 - 23:22:04: [SM] Changed map to "c1m2_streets"
+L 07/29/2020 - 23:22:06: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:23:14: Log file closed.
+L 07/29/2020 - 23:24:27: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 23:24:27: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:24:30: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 23:24:30: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/29/2020 - 23:24:40: [SM] Changed map to "c1m2_streets"
+L 07/29/2020 - 23:24:43: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:26:55: Log file closed.
+L 07/29/2020 - 23:28:00: SourceMod log file session started (file "L20200729.log") (Version "1.8.0.6041")
+L 07/29/2020 - 23:28:00: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:28:03: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/29/2020 - 23:28:03: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/29/2020 - 23:28:16: [SM] Changed map to "c1m2_streets"
+L 07/29/2020 - 23:28:19: -------- Mapchange to c1m2_streets --------
+L 07/29/2020 - 23:31:27: Log file closed.

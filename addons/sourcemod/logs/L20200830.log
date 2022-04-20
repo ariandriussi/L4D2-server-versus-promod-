@@ -1,0 +1,147 @@
+L 08/30/2020 - 14:58:51: SourceMod log file session started (file "L20200830.log") (Version "1.8.0.6041")
+L 08/30/2020 - 14:58:51: -------- Mapchange to c5m1_waterfront --------
+L 08/30/2020 - 14:58:56: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/30/2020 - 14:58:56: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/30/2020 - 14:59:27: [SM] Changed map to "c5m1_waterfront"
+L 08/30/2020 - 14:59:27: -------- Mapchange to c5m1_waterfront --------
+L 08/30/2020 - 15:01:17: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/30/2020 - 15:01:17: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/30/2020 - 15:01:17: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/30/2020 - 15:01:17: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/30/2020 - 15:01:17: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/30/2020 - 15:01:17: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/30/2020 - 15:01:17: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/30/2020 - 15:01:19: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 15:05:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed map to "c8m1_apartment"
+L 08/30/2020 - 15:05:47: [SM] Changed map to "c8m1_apartment"
+L 08/30/2020 - 15:05:54: -------- Mapchange to c8m1_apartment --------
+L 08/30/2020 - 15:08:15: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 15:11:52: [basecommands.smx] "Alfonsina<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 15:13:22: -------- Mapchange to c8m2_subway --------
+L 08/30/2020 - 15:14:06: [basecommands.smx] "Alfonsina<2><STEAM_1:0:162762726><>" changed map to "c2m1_highway"
+L 08/30/2020 - 15:14:09: [SM] Changed map to "c2m1_highway"
+L 08/30/2020 - 15:14:15: -------- Mapchange to c2m1_highway --------
+L 08/30/2020 - 15:23:40: [admin_hp.smx]  El Administrador Alfonsina Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/30/2020 - 15:24:52: -------- Mapchange to c2m2_fairgrounds --------
+L 08/30/2020 - 15:25:54: [basecommands.smx] "Alfonsina<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 15:39:45: -------- Mapchange to c2m3_coaster --------
+L 08/30/2020 - 15:41:21: [basecommands.smx] "Alfonsina<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 15:42:02: [basecommands.smx] "Alfonsina<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 15:53:08: -------- Mapchange to c2m4_barns --------
+L 08/30/2020 - 15:53:42: [basecommands.smx] "Alfonsina<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 16:06:24: [basecommands.smx] "Alfonsina<2><STEAM_1:0:162762726><>" changed map to "c4m1_milltown_a"
+L 08/30/2020 - 16:06:27: [SM] Changed map to "c4m1_milltown_a"
+L 08/30/2020 - 16:06:37: -------- Mapchange to c4m1_milltown_a --------
+L 08/30/2020 - 16:20:40: -------- Mapchange to c4m2_sugarmill_a --------
+L 08/30/2020 - 16:28:12: [basecommands.smx] "Alfonsina<2><STEAM_1:0:162762726><>" changed map to "c10m1_caves"
+L 08/30/2020 - 16:28:15: [SM] Changed map to "c10m1_caves"
+L 08/30/2020 - 16:28:20: -------- Mapchange to c10m1_caves --------
+L 08/30/2020 - 16:36:51: -------- Mapchange to c10m2_drainage --------
+L 08/30/2020 - 16:47:26: -------- Mapchange to c10m3_ranchhouse --------
+L 08/30/2020 - 16:48:23: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 16:58:22: [admin_hp.smx]  El Administrador ♛ Rain ♛ Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/30/2020 - 16:58:26: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/30/2020 - 16:58:28: [admin_hp.smx]  El Administrador ♛ Rain ♛ Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/30/2020 - 17:03:35: -------- Mapchange to c10m4_mainstreet --------
+L 08/30/2020 - 17:17:41: -------- Mapchange to c10m5_houseboat --------
+L 08/30/2020 - 17:27:38: -------- Mapchange to c11m1_greenhouse --------
+L 08/30/2020 - 17:37:18: -------- Mapchange to c11m2_offices --------
+L 08/30/2020 - 17:39:10: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 17:39:33: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 17:51:50: -------- Mapchange to c11m3_garage --------
+L 08/30/2020 - 18:03:27: [admin_hp.smx]  El Administrador ♛ Rain ♛ Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/30/2020 - 18:05:39: -------- Mapchange to c11m4_terminal --------
+L 08/30/2020 - 18:17:29: -------- Mapchange to c11m5_runway --------
+L 08/30/2020 - 18:18:06: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed map to "c5m1_waterfront"
+L 08/30/2020 - 18:18:09: [SM] Changed map to "c5m1_waterfront"
+L 08/30/2020 - 18:18:11: -------- Mapchange to c5m1_waterfront --------
+L 08/30/2020 - 18:30:39: -------- Mapchange to c5m2_park --------
+L 08/30/2020 - 18:39:56: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "k1dboy<649><STEAM_1:0:93749338><>"
+L 08/30/2020 - 18:41:10: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 18:41:31: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 18:44:54: -------- Mapchange to c5m3_cemetery --------
+L 08/30/2020 - 18:56:51: -------- Mapchange to c5m4_quarter --------
+L 08/30/2020 - 19:15:29: -------- Mapchange to c5m5_bridge --------
+L 08/30/2020 - 19:23:48: -------- Mapchange to c6m1_riverbank --------
+L 08/30/2020 - 19:30:33: [basebans.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" banned "chocolaTee<771><STEAM_1:0:177963575><>" (minutes "0") (reason "afk")
+L 08/30/2020 - 19:34:03: -------- Mapchange to c6m2_bedlam --------
+L 08/30/2020 - 19:52:16: -------- Mapchange to c6m3_port --------
+L 08/30/2020 - 19:53:05: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 20:05:27: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 20:08:34: -------- Mapchange to c2m1_highway --------
+L 08/30/2020 - 20:10:33: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/30/2020 - 20:11:19: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 20:20:16: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/30/2020 - 20:24:29: [playercommands.smx] "Delta❤Rain<812><STEAM_1:0:555087244><>" slayed "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/30/2020 - 20:24:36: [playercommands.smx] "Delta❤Rain<812><STEAM_1:0:555087244><>" slayed "trumpeña<876><STEAM_1:0:418518294><>"
+L 08/30/2020 - 20:24:36: [playercommands.smx] "Delta❤Rain<812><STEAM_1:0:555087244><>" slayed "Delta❤Rain<812><STEAM_1:0:555087244><>"
+L 08/30/2020 - 20:24:37: [playercommands.smx] "Delta❤Rain<812><STEAM_1:0:555087244><>" slayed "Rochelle<879><BOT><>"
+L 08/30/2020 - 20:24:37: [playercommands.smx] "Delta❤Rain<812><STEAM_1:0:555087244><>" slayed "trumpeña<876><STEAM_1:0:418518294><>"
+L 08/30/2020 - 20:24:37: [playercommands.smx] "Delta❤Rain<812><STEAM_1:0:555087244><>" slayed "trumpeña<876><STEAM_1:0:418518294><>"
+L 08/30/2020 - 20:24:38: [playercommands.smx] "Delta❤Rain<812><STEAM_1:0:555087244><>" slayed "trumpeña<876><STEAM_1:0:418518294><>"
+L 08/30/2020 - 20:24:38: [playercommands.smx] "Delta❤Rain<812><STEAM_1:0:555087244><>" slayed "trumpeña<876><STEAM_1:0:418518294><>"
+L 08/30/2020 - 20:24:45: -------- Mapchange to c2m2_fairgrounds --------
+L 08/30/2020 - 20:26:06: -------- Mapchange to c8m1_apartment --------
+L 08/30/2020 - 20:34:55: -------- Mapchange to c8m2_subway --------
+L 08/30/2020 - 20:47:45: -------- Mapchange to c8m3_sewers --------
+L 08/30/2020 - 20:59:41: SourceMod log file session started (file "L20200830.log") (Version "1.8.0.6041")
+L 08/30/2020 - 20:59:41: Log file closed.
+L 08/30/2020 - 21:03:06: SourceMod log file session started (file "L20200830.log") (Version "1.8.0.6041")
+L 08/30/2020 - 21:03:06: -------- Mapchange to c4m1_milltown_a --------
+L 08/30/2020 - 21:03:12: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/30/2020 - 21:03:12: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/30/2020 - 21:03:42: [SM] Changed map to "c4m1_milltown_a"
+L 08/30/2020 - 21:03:42: -------- Mapchange to c4m1_milltown_a --------
+L 08/30/2020 - 21:05:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/30/2020 - 21:05:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/30/2020 - 21:05:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/30/2020 - 21:05:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/30/2020 - 21:05:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/30/2020 - 21:05:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/30/2020 - 21:05:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/30/2020 - 21:05:45: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 21:08:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 21:11:50: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 21:14:02: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_alltalk") (value "0")
+L 08/30/2020 - 21:15:03: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/30/2020 - 21:15:09: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Delta❤Rain<3><STEAM_1:0:555087244><>"
+L 08/30/2020 - 21:15:11: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/30/2020 - 21:16:57: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "-juan.<28><STEAM_1:1:419340091><>"
+L 08/30/2020 - 21:21:04: -------- Mapchange to c4m2_sugarmill_a --------
+L 08/30/2020 - 21:21:51: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 21:22:27: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 21:22:38: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 21:23:07: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 21:29:48: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 21:33:20: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 21:35:42: [basecommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" kicked "Bru<40><STEAM_1:1:49421106><>" (reason "")
+L 08/30/2020 - 21:36:06: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed map to "c1m1_hotel"
+L 08/30/2020 - 21:36:09: [SM] Changed map to "c1m1_hotel"
+L 08/30/2020 - 21:36:15: -------- Mapchange to c1m1_hotel --------
+L 08/30/2020 - 21:40:54: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 21:40:58: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 21:43:33: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 21:43:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 21:48:33: -------- Mapchange to c1m2_streets --------
+L 08/30/2020 - 21:54:55: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 22:07:15: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" kicked "Galaxy<204><STEAM_1:0:212599144><>" (reason "")
+L 08/30/2020 - 22:07:31: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/30/2020 - 22:13:38: -------- Mapchange to c1m3_mall --------
+L 08/30/2020 - 22:15:00: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/30/2020 - 22:34:24: -------- Mapchange to c1m4_atrium --------
+L 08/30/2020 - 22:49:19: -------- Mapchange to c7m1_docks --------
+L 08/30/2020 - 23:08:51: -------- Mapchange to c7m2_barge --------
+L 08/30/2020 - 23:27:45: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/30/2020 - 23:31:03: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/30/2020 - 23:31:04: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "带带大师兄夕摩<388><STEAM_1:1:545361605><>"
+L 08/30/2020 - 23:31:04: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "Sergasd<320><STEAM_1:0:538645145><>"
+L 08/30/2020 - 23:31:05: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "带带大师兄夕摩<388><STEAM_1:1:545361605><>"
+L 08/30/2020 - 23:31:06: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "带带大师兄夕摩<388><STEAM_1:1:545361605><>"
+L 08/30/2020 - 23:31:09: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "带带大师兄夕摩<388><STEAM_1:1:545361605><>"
+L 08/30/2020 - 23:31:09: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "带带大师兄夕摩<388><STEAM_1:1:545361605><>"
+L 08/30/2020 - 23:31:09: [playercommands.smx] "Delta❤Rain<3><STEAM_1:0:555087244><>" slayed "ema salas<336><STEAM_1:1:243713098><>"
+L 08/30/2020 - 23:31:34: -------- Mapchange to c7m3_port --------
+L 08/30/2020 - 23:38:38: -------- Mapchange to c8m1_apartment --------
+L 08/30/2020 - 23:47:07: -------- Mapchange to c8m2_subway --------
+L 08/30/2020 - 23:56:21: [basebans.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" banned "(ᶡGƤ﴿ OnlySkill<459><STEAM_1:1:443801496><>" (minutes "0") (reason "Troll")
+L 08/30/2020 - 23:58:36: -------- Mapchange to c8m3_sewers --------

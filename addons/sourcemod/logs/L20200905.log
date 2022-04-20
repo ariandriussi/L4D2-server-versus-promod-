@@ -1,0 +1,432 @@
+L 09/05/2020 - 01:57:57: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 01:57:57: -------- Mapchange to c5m1_waterfront --------
+L 09/05/2020 - 01:58:00: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 01:58:01: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 01:58:16: [SM] Changed map to "c5m1_waterfront"
+L 09/05/2020 - 01:58:16: -------- Mapchange to c5m1_waterfront --------
+L 09/05/2020 - 02:01:55: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed map to "c10m1_caves"
+L 09/05/2020 - 02:01:58: [SM] Changed map to "c10m1_caves"
+L 09/05/2020 - 02:02:02: -------- Mapchange to c10m1_caves --------
+L 09/05/2020 - 02:04:17: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Tank<39><BOT><>"
+L 09/05/2020 - 02:04:19: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Boomer<44><BOT><>"
+L 09/05/2020 - 02:04:22: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Hunter<46><BOT><>"
+L 09/05/2020 - 02:06:13: Log file closed.
+L 09/05/2020 - 03:04:45: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 03:04:45: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 03:04:47: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 03:04:48: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 03:05:03: [SM] Changed map to "c1m2_streets"
+L 09/05/2020 - 03:05:03: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 03:08:21: Log file closed.
+L 09/05/2020 - 03:11:56: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 03:11:56: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 03:11:57: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 03:11:57: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 03:12:06: [SM] Changed map to "c1m2_streets"
+L 09/05/2020 - 03:12:07: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 03:15:27: Log file closed.
+L 09/05/2020 - 03:52:34: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 03:52:34: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 03:52:36: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 03:52:36: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 03:52:49: [SM] Changed map to "c1m2_streets"
+L 09/05/2020 - 03:52:49: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 03:55:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/05/2020 - 03:55:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/05/2020 - 03:55:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/05/2020 - 03:55:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/05/2020 - 03:55:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/05/2020 - 03:55:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/05/2020 - 03:55:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/05/2020 - 03:55:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/05/2020 - 03:55:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/05/2020 - 03:56:05: [admin_hp.smx]  
+L 09/05/2020 - 03:56:10: [admin_hp.smx]  
+L 09/05/2020 - 03:56:12: [admin_hp.smx]  
+L 09/05/2020 - 03:56:39: [admin_hp.smx]  
+L 09/05/2020 - 03:56:55: [admin_hp.smx]  
+L 09/05/2020 - 03:57:18: [admin_hp.smx]  
+L 09/05/2020 - 04:00:55: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed map to "c5m3_cemetery"
+L 09/05/2020 - 04:00:58: [SM] Changed map to "c5m3_cemetery"
+L 09/05/2020 - 04:01:05: -------- Mapchange to c5m3_cemetery --------
+L 09/05/2020 - 04:01:28: [funcommands.smx] "Nicole<2><STEAM_1:0:162762726><>" toggled noclip on "Nicole<2><STEAM_1:0:162762726><>"
+L 09/05/2020 - 04:01:34: [funcommands.smx] "Nicole<2><STEAM_1:0:162762726><>" toggled noclip on "Nicole<2><STEAM_1:0:162762726><>"
+L 09/05/2020 - 04:01:38: [funcommands.smx] "Nicole<2><STEAM_1:0:162762726><>" toggled noclip on "Ellis<58><BOT><>"
+L 09/05/2020 - 04:01:39: [funcommands.smx] "Nicole<2><STEAM_1:0:162762726><>" toggled noclip on "Coach<59><BOT><>"
+L 09/05/2020 - 04:01:39: [funcommands.smx] "Nicole<2><STEAM_1:0:162762726><>" toggled noclip on "Rochelle<60><BOT><>"
+L 09/05/2020 - 04:02:04: [funcommands.smx] "Nicole<2><STEAM_1:0:162762726><>" toggled noclip on "Nicole<2><STEAM_1:0:162762726><>"
+L 09/05/2020 - 04:02:09: [funcommands.smx] "Nicole<2><STEAM_1:0:162762726><>" toggled noclip on "Nicole<2><STEAM_1:0:162762726><>"
+L 09/05/2020 - 04:02:59: [admin_hp.smx]  
+L 09/05/2020 - 04:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed map to "c8m5_rooftop"
+L 09/05/2020 - 04:03:38: [SM] Changed map to "c8m5_rooftop"
+L 09/05/2020 - 04:03:41: -------- Mapchange to c8m5_rooftop --------
+L 09/05/2020 - 04:03:56: [funcommands.smx] "Nicole<2><STEAM_1:0:162762726><>" toggled noclip on "Nicole<2><STEAM_1:0:162762726><>"
+L 09/05/2020 - 04:04:09: [funcommands.smx] "Nicole<2><STEAM_1:0:162762726><>" toggled noclip on "Nicole<2><STEAM_1:0:162762726><>"
+L 09/05/2020 - 04:04:54: [admin_hp.smx]  
+L 09/05/2020 - 04:05:21: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Bill<76><BOT><>"
+L 09/05/2020 - 04:05:21: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Francis<78><BOT><>"
+L 09/05/2020 - 04:05:26: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Zoey<77><BOT><>"
+L 09/05/2020 - 04:05:27: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Boomer<85><BOT><>"
+L 09/05/2020 - 04:05:43: [admin_hp.smx]  
+L 09/05/2020 - 04:05:56: [admin_hp.smx]  
+L 09/05/2020 - 04:06:49: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Hunter<89><BOT><>"
+L 09/05/2020 - 04:06:51: [admin_hp.smx]  
+L 09/05/2020 - 04:08:13: [admin_hp.smx]  
+L 09/05/2020 - 04:09:15: Log file closed.
+L 09/05/2020 - 04:10:15: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 04:10:15: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 04:10:17: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 04:10:17: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 04:10:31: [SM] Changed map to "c1m2_streets"
+L 09/05/2020 - 04:10:31: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 04:11:46: [admin_hp.smx]  
+L 09/05/2020 - 04:14:37: Log file closed.
+L 09/05/2020 - 04:34:12: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 04:34:12: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 04:34:12: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 04:34:13: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 04:34:27: [SM] Changed map to "c1m2_streets"
+L 09/05/2020 - 04:34:27: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Thinks Nick should rather be 4, setting model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:47: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:48: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:57: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:58: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:34:59: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:00: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:09: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:11: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Player spawned 6 seconds ago, checking all models now
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Nicole wearing 0, model models/survivors/survivor_gambler.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Nicole is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Ellis wearing 3, model models/survivors/survivor_mechanic.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Ellis is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Rochelle wearing 1, model models/survivors/survivor_producer.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Rochelle is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Coach wearing 2, model models/survivors/survivor_coach.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Coach is an original!
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: Spots player Nick wearing 4, model models/survivors/survivor_namvet.mdl
+L 09/05/2020 - 04:35:20: [allsurvivorsmod.smx] AllSurvivors: player Nick is an original!
+L 09/05/2020 - 04:35:31: Log file closed.
+L 09/05/2020 - 04:37:00: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 04:37:00: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 04:37:00: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 04:37:01: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 04:37:06: [SM] Changed map to "c1m2_streets"
+L 09/05/2020 - 04:37:07: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 04:38:28: Log file closed.
+L 09/05/2020 - 05:05:31: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 05:05:31: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 05:05:34: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 05:05:34: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 05:05:48: [SM] Changed map to "c1m2_streets"
+L 09/05/2020 - 05:05:48: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 05:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/05/2020 - 05:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/05/2020 - 05:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/05/2020 - 05:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/05/2020 - 05:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/05/2020 - 05:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/05/2020 - 05:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/05/2020 - 05:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/05/2020 - 05:07:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/05/2020 - 05:12:20: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed map to "c2m5_concert"
+L 09/05/2020 - 05:12:23: [SM] Changed map to "c2m5_concert"
+L 09/05/2020 - 05:12:26: -------- Mapchange to c2m5_concert --------
+L 09/05/2020 - 05:14:51: [admin_hp.smx]  
+L 09/05/2020 - 05:15:15: Log file closed.
+L 09/05/2020 - 21:02:16: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 21:02:16: -------- Mapchange to c5m1_waterfront --------
+L 09/05/2020 - 21:02:21: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 21:02:21: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 21:02:50: [SM] Changed map to "c5m1_waterfront"
+L 09/05/2020 - 21:02:51: -------- Mapchange to c5m1_waterfront --------
+L 09/05/2020 - 21:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/05/2020 - 21:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/05/2020 - 21:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/05/2020 - 21:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/05/2020 - 21:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/05/2020 - 21:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/05/2020 - 21:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/05/2020 - 21:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/05/2020 - 21:03:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/05/2020 - 21:03:38: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/05/2020 - 21:03:40: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/05/2020 - 21:12:31: -------- Mapchange to c5m2_park --------
+L 09/05/2020 - 21:14:09: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed map to "c8m1_apartment"
+L 09/05/2020 - 21:14:12: [SM] Changed map to "c8m1_apartment"
+L 09/05/2020 - 21:14:16: -------- Mapchange to c8m1_apartment --------
+L 09/05/2020 - 21:21:04: -------- Mapchange to c8m1_apartment --------
+L 09/05/2020 - 21:26:59: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/05/2020 - 21:32:41: [playercommands.smx] "FaceLive/FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>" slayed "FaceLive/FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>"
+L 09/05/2020 - 21:32:42: [playercommands.smx] "FaceLive/FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>" slayed "Mihael<130><STEAM_1:1:77982887><>"
+L 09/05/2020 - 21:32:42: [playercommands.smx] "FaceLive/FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>" slayed "Nicole<2><STEAM_1:0:162762726><>"
+L 09/05/2020 - 21:32:47: -------- Mapchange to c8m2_subway --------
+L 09/05/2020 - 21:36:59: [basecommands.smx] "FaceLive/FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>" kicked ".::Nana Gray::.<104><STEAM_1:0:507563727><>" (reason "")
+L 09/05/2020 - 21:41:39: -------- Mapchange to c8m3_sewers --------
+L 09/05/2020 - 21:49:37: -------- Mapchange to c2m1_highway --------
+L 09/05/2020 - 22:01:37: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed map to "c11m1_greenhouse"
+L 09/05/2020 - 22:01:40: [SM] Changed map to "c11m1_greenhouse"
+L 09/05/2020 - 22:01:45: -------- Mapchange to c11m1_greenhouse --------
+L 09/05/2020 - 22:05:14: Log file closed.
+L 09/05/2020 - 22:07:45: SourceMod log file session started (file "L20200905.log") (Version "1.8.0.6041")
+L 09/05/2020 - 22:07:45: -------- Mapchange to c11m1_greenhouse --------
+L 09/05/2020 - 22:07:47: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/05/2020 - 22:07:47: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/05/2020 - 22:08:02: [SM] Changed map to "c11m1_greenhouse"
+L 09/05/2020 - 22:08:04: -------- Mapchange to c11m1_greenhouse --------
+L 09/05/2020 - 22:08:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/05/2020 - 22:08:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/05/2020 - 22:08:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/05/2020 - 22:08:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/05/2020 - 22:08:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/05/2020 - 22:08:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/05/2020 - 22:08:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/05/2020 - 22:08:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/05/2020 - 22:08:35: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/05/2020 - 22:12:25: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Bill<5><BOT><>"
+L 09/05/2020 - 22:16:12: -------- Mapchange to c11m2_offices --------
+L 09/05/2020 - 22:16:29: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/05/2020 - 22:16:49: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/05/2020 - 22:17:39: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/05/2020 - 22:25:21: -------- Mapchange to c11m3_garage --------
+L 09/05/2020 - 22:39:38: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/05/2020 - 22:39:52: -------- Mapchange to c11m4_terminal --------
+L 09/05/2020 - 22:49:02: [playercommands.smx] "FaceLive/FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>" slayed "fontenais<61><STEAM_1:0:516118093><>"
+L 09/05/2020 - 22:49:52: [playercommands.smx] "FaceLive/FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>" slayed "fontenais<61><STEAM_1:0:516118093><>"
+L 09/05/2020 - 22:54:44: -------- Mapchange to c11m5_runway --------
+L 09/05/2020 - 22:56:33: -------- Mapchange to c1m1_hotel --------
+L 09/05/2020 - 22:58:10: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/05/2020 - 22:58:37: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/05/2020 - 23:04:57: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" kicked "br1x<139><STEAM_1:0:50181814><>" (reason "")
+L 09/05/2020 - 23:08:31: -------- Mapchange to c1m2_streets --------
+L 09/05/2020 - 23:11:43: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" kicked "[D]rees "Tubelu"<144><STEAM_1:1:203203797><>" (reason "")
+L 09/05/2020 - 23:17:16: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" kicked "Lukkas<179><STEAM_1:0:91729256><>" (reason "")
+L 09/05/2020 - 23:22:50: -------- Mapchange to C12m1_hilltop --------
+L 09/05/2020 - 23:27:00: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed map to "c10m1_caves"
+L 09/05/2020 - 23:27:03: [SM] Changed map to "c10m1_caves"
+L 09/05/2020 - 23:27:07: -------- Mapchange to c10m1_caves --------
+L 09/05/2020 - 23:34:21: -------- Mapchange to c10m2_drainage --------
+L 09/05/2020 - 23:54:10: -------- Mapchange to c10m3_ranchhouse --------

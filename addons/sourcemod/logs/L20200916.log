@@ -1,0 +1,436 @@
+L 09/16/2020 - 00:00:07: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200916.log") (Version "1.10.0.6492")
+L 09/16/2020 - 00:00:07: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 1: time: -1.00 / 1.26 -- class: smoker (with shove? 1)
+L 09/16/2020 - 00:01:17: [l4d2_skill_detect.smx] Clear: 4 freed 2 from 11: time: 1.10 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:01:29: -------- Mapchange to c8m1_apartment --------
+L 09/16/2020 - 00:04:22: [l4d2_skill_detect.smx] Clear: 11 freed 1 from 2: time: 1.13 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:04:31: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 7: time: 6.50 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 00:05:15: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 0 / crowntype: 0 (entity: 208)
+L 09/16/2020 - 00:05:15: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 964, teamless dmg: 0
+L 09/16/2020 - 00:06:14: [l4d2_skill_detect.smx] calarm trigger: caller 1171 / activator 1171 / delay: 0.00
+L 09/16/2020 - 00:08:19: [l4d2_skill_detect.smx] Clear: 2 freed 7 from 11: time: 0.93 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:08:21: [l4d2_skill_detect.smx] Clear: 2 freed 10 from 9: time: 1.53 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:09:09: [l4d2_skill_detect.smx] Clear: 10 freed 7 from 1: time: 2.10 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:09:10: [l4d2_skill_detect.smx] Charge carry start: 9 - 10 -- time: 442.16
+L 09/16/2020 - 00:09:13: [l4d2_skill_detect.smx] Checking charge victim: 9 - 10 - flags: 1 (alive? 1)
+L 09/16/2020 - 00:09:14: [l4d2_skill_detect.smx] Clear: 7 freed 10 from 9: time: 3.79 / 4.89 -- class: charger (with shove? 0)
+L 09/16/2020 - 00:09:17: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 11: time: 7.73 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 00:09:56: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 180)
+L 09/16/2020 - 00:09:56: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: STARKILL, attacker dmg: 1376, teamless dmg: 4
+L 09/16/2020 - 00:09:58: [l4d2_skill_detect.smx] Charge carry start: 11 - 10 -- time: 490.70
+L 09/16/2020 - 00:10:01: [l4d2_skill_detect.smx] Checking charge victim: 11 - 10 - flags: 1 (alive? 1)
+L 09/16/2020 - 00:10:03: [l4d2_skill_detect.smx] Clear: 2 freed 10 from 11: time: 3.76 / 4.53 -- class: charger (with shove? 0)
+L 09/16/2020 - 00:10:09: [l4d2_skill_detect.smx] Clear: 10 freed 2 from 1: time: 3.33 / 4.53 -- class: smoker (with shove? 1)
+L 09/16/2020 - 00:10:56: -------- Mapchange to c8m2_subway --------
+L 09/16/2020 - 00:12:40: -------- Mapchange to c10m1_caves --------
+L 09/16/2020 - 00:14:53: [l4d2_skill_detect.smx] Clear: 9 freed 11 from 3: time: 0.69 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:16:36: [l4d2_skill_detect.smx] Clear: 1 freed 6 from 5: time: 0.53 / 191.20 -- class: charger (with shove? 0)
+L 09/16/2020 - 00:16:46: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 7: time: 0.76 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:16:52: [l4d2_skill_detect.smx] Clear: 11 freed 6 from 4: time: 1.23 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:17:11: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 4: time: -1.00 / 2.40 -- class: smoker (with shove? 0)
+L 09/16/2020 - 00:17:16: [l4d2_skill_detect.smx] Charge carry start: 2 - 6 -- time: 230.73
+L 09/16/2020 - 00:17:20: [l4d2_skill_detect.smx] Checking charge victim: 2 - 6 - flags: 1 (alive? 1)
+L 09/16/2020 - 00:17:44: [l4d2_skill_detect.smx] Clear: 11 freed 1 from 4: time: 1.43 / -1.00 -- class: hunter (with shove? 1)
+L 09/16/2020 - 00:18:09: [l4d2_skill_detect.smx] Clear: 1 freed 6 from 3: time: -1.00 / 2.06 -- class: smoker (with shove? 0)
+L 09/16/2020 - 00:18:29: [l4d2_skill_detect.smx] Clear: 1 freed 11 from 2: time: 1.36 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:19:06: [l4d2_skill_detect.smx] Clear: 1 freed 9 from 4: time: -1.00 / 4.70 -- class: smoker (with shove? 1)
+L 09/16/2020 - 00:19:52: Log file closed.
+L 09/16/2020 - 00:35:16: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200916.log") (Version "1.10.0.6492")
+L 09/16/2020 - 00:35:16: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/16/2020 - 00:35:19: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/16/2020 - 00:35:19: [acs.smx] Found new coop mission "Left4Duluth" !
+L 09/16/2020 - 00:35:19: [acs.smx] Found new versus mission "Left4Duluth" !
+L 09/16/2020 - 00:35:19: [acs.smx] Found new survival mission "Left4Duluth" !
+L 09/16/2020 - 00:35:37: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 00:36:18: [SM] Changed map to "intro"
+L 09/16/2020 - 00:37:38: -------- Mapchange to intro --------
+L 09/16/2020 - 00:37:47: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/16/2020 - 00:39:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/16/2020 - 00:39:33: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/16/2020 - 00:39:33: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/16/2020 - 00:39:33: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/16/2020 - 00:39:35: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/16/2020 - 00:42:16: -------- Mapchange to umd --------
+L 09/16/2020 - 00:42:25: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 00:44:46: [admin_hp.smx]  
+L 09/16/2020 - 00:45:20: [admin_hp.smx]  
+L 09/16/2020 - 00:45:28: [admin_hp.smx]  
+L 09/16/2020 - 00:45:52: [admin_hp.smx]  
+L 09/16/2020 - 00:46:10: [admin_hp.smx]  
+L 09/16/2020 - 00:46:31: [admin_hp.smx]  
+L 09/16/2020 - 00:46:33: [admin_hp.smx]  
+L 09/16/2020 - 00:47:04: [l4d2_skill_detect.smx] Clear: 1 freed 2 from 6: time: 0.86 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 00:47:22: [admin_hp.smx]  
+L 09/16/2020 - 00:48:08: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 6: time: 3.36 / 4.89 -- class: smoker (with shove? 0)
+L 09/16/2020 - 00:48:11: [admin_hp.smx]  
+L 09/16/2020 - 00:50:32: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 5: time: 1.26 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 00:51:15: [admin_hp.smx]  
+L 09/16/2020 - 00:51:31: [admin_hp.smx]  
+L 09/16/2020 - 00:51:40: [admin_hp.smx]  
+L 09/16/2020 - 00:52:50: [admin_hp.smx]  
+L 09/16/2020 - 00:53:01: [admin_hp.smx]  
+L 09/16/2020 - 00:53:37: [admin_hp.smx]  
+L 09/16/2020 - 00:53:49: [admin_hp.smx]  
+L 09/16/2020 - 00:54:02: [admin_hp.smx]  
+L 09/16/2020 - 00:54:08: [admin_hp.smx]  
+L 09/16/2020 - 00:54:24: [admin_hp.smx]  
+L 09/16/2020 - 00:54:47: [l4d2_skill_detect.smx] Clear: 4 freed 2 from 6: time: 3.19 / 3.29 -- class: smoker (with shove? 0)
+L 09/16/2020 - 00:54:52: [admin_hp.smx]  
+L 09/16/2020 - 00:54:52: [admin_hp.smx]  
+L 09/16/2020 - 00:55:04: [admin_hp.smx]  
+L 09/16/2020 - 00:55:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<300><BOT><>"
+L 09/16/2020 - 00:55:45: [admin_hp.smx]  
+L 09/16/2020 - 00:58:39: -------- Mapchange to fitgers --------
+L 09/16/2020 - 00:58:49: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:00:53: Log file closed.
+L 09/16/2020 - 01:03:10: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200916.log") (Version "1.10.0.6492")
+L 09/16/2020 - 01:03:10: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/16/2020 - 01:03:12: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/16/2020 - 01:03:12: [acs.smx] Found new coop mission "BaysideGenocide" !
+L 09/16/2020 - 01:03:17: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:03:23: [SM] Changed map to "escapefrombayside01"
+L 09/16/2020 - 01:03:29: -------- Mapchange to escapefrombayside01 --------
+L 09/16/2020 - 01:03:32: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:06:08: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 181)
+L 09/16/2020 - 01:06:08: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 591, teamless dmg: 9
+L 09/16/2020 - 01:06:11: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 6: time: 1.90 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/16/2020 - 01:06:11: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/16/2020 - 01:08:17: [l4d2_skill_detect.smx] Clear: 3 freed 4 from 6: time: 2.46 / 2.89 -- class: smoker (with shove? 1)
+L 09/16/2020 - 01:09:34: -------- Mapchange to Escapefrombayside02 --------
+L 09/16/2020 - 01:09:37: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:11:57: [admin_hp.smx]  
+L 09/16/2020 - 01:12:42: [l4d2_skill_detect.smx] Clear: 1 freed 1 from 6: time: -1.00 / 0.66 -- class: smoker (with shove? 0)
+L 09/16/2020 - 01:13:29: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 5: time: 3.29 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 01:15:10: [admin_hp.smx]  
+L 09/16/2020 - 01:15:48: [l4d2_skill_detect.smx] Charge carry start: 6 - 1 -- time: 364.40
+L 09/16/2020 - 01:15:52: [l4d2_skill_detect.smx] Checking charge victim: 6 - 1 - flags: 1 (alive? 1)
+L 09/16/2020 - 01:16:00: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 7: time: -1.00 / 3.23 -- class: smoker (with shove? 0)
+L 09/16/2020 - 01:18:00: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 85)
+L 09/16/2020 - 01:18:00: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: FaceLive/FacturitaJuega, attacker dmg: 201, teamless dmg: 0
+L 09/16/2020 - 01:18:35: [admin_hp.smx]  
+L 09/16/2020 - 01:20:34: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<53><BOT><>"
+L 09/16/2020 - 01:20:38: [admin_hp.smx]  
+L 09/16/2020 - 01:20:54: -------- Mapchange to escapefrombayside03 --------
+L 09/16/2020 - 01:20:57: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:21:44: [admin_hp.smx]  
+L 09/16/2020 - 01:21:44: [admin_hp.smx]  
+L 09/16/2020 - 01:21:49: [admin_hp.smx]  
+L 09/16/2020 - 01:21:49: [admin_hp.smx]  
+L 09/16/2020 - 01:21:49: [admin_hp.smx]  
+L 09/16/2020 - 01:21:49: [admin_hp.smx]  
+L 09/16/2020 - 01:21:50: [admin_hp.smx]  
+L 09/16/2020 - 01:21:50: [admin_hp.smx]  
+L 09/16/2020 - 01:22:33: [l4d2_skill_detect.smx] Clear: 2 freed 4 from 5: time: 2.09 / 4.30 -- class: smoker (with shove? 0)
+L 09/16/2020 - 01:24:16: -------- Mapchange to bwm1_climb --------
+L 09/16/2020 - 01:24:19: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/16/2020 - 01:25:43: [basecommands.smx] "♛ Rain ♛<63><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/16/2020 - 01:26:08: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 1 (entity: 39)
+L 09/16/2020 - 01:26:08: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ｍｏｚｔａｓａ™, attacker dmg: 582, teamless dmg: 0
+L 09/16/2020 - 01:26:14: [l4d2_skill_detect.smx] Clear: 6 freed 3 from 7: time: 9.23 / 12.63 -- class: smoker (with shove? 1)
+L 09/16/2020 - 01:26:17: [admin_hp.smx]  
+L 09/16/2020 - 01:26:54: [l4d2_skill_detect.smx] Charge carry start: 6 - 1 -- time: 151.33
+L 09/16/2020 - 01:26:56: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 6: time: 0.50 / 1.56 -- class: charger (with shove? 0)
+L 09/16/2020 - 01:26:57: [l4d2_skill_detect.smx] Checking charge victim: 6 - 1 - flags: 1 (alive? 1)
+L 09/16/2020 - 01:27:13: [l4d2_skill_detect.smx] Clear: 2 freed 2 from 6: time: -1.00 / 0.79 -- class: smoker (with shove? 1)
+L 09/16/2020 - 01:28:01: -------- Mapchange to bwm2_city --------
+L 09/16/2020 - 01:28:04: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:29:13: [l4d2_skill_detect.smx] Clear: 4 freed 1 from 6: time: 7.10 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 01:30:46: [admin_hp.smx]  
+L 09/16/2020 - 01:32:47: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 5: time: -1.00 / 1.00 -- class: smoker (with shove? 1)
+L 09/16/2020 - 01:33:13: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 7: time: 1.39 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 01:33:31: [l4d2_skill_detect.smx] Clear: 4 freed 1 from 7: time: -1.00 / 5.86 -- class: smoker (with shove? 0)
+L 09/16/2020 - 01:33:52: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 6: time: 0.66 / 2.60 -- class: smoker (with shove? 0)
+L 09/16/2020 - 01:34:01: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 7: time: 6.36 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 01:34:04: [admin_hp.smx]  
+L 09/16/2020 - 01:34:05: [admin_hp.smx]  
+L 09/16/2020 - 01:34:37: -------- Mapchange to bwm3_forest --------
+L 09/16/2020 - 01:34:40: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:36:26: [admin_hp.smx]  
+L 09/16/2020 - 01:36:43: [admin_hp.smx]  
+L 09/16/2020 - 01:36:53: [admin_hp.smx]  
+L 09/16/2020 - 01:38:37: -------- Mapchange to bwm4_rooftops --------
+L 09/16/2020 - 01:38:40: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:40:08: [admin_hp.smx]  
+L 09/16/2020 - 01:40:35: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 201)
+L 09/16/2020 - 01:40:35: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 414, teamless dmg: 0
+L 09/16/2020 - 01:40:37: [admin_hp.smx]  
+L 09/16/2020 - 01:41:34: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 5: time: 0.50 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 01:41:37: [l4d2_skill_detect.smx] Clear: 1 freed 2 from 6: time: 1.10 / -1.00 -- class: jockey (with shove? 1)
+L 09/16/2020 - 01:42:11: [admin_hp.smx]  
+L 09/16/2020 - 01:42:28: [admin_hp.smx]  
+L 09/16/2020 - 01:42:50: -------- Mapchange to bwm5_bridge --------
+L 09/16/2020 - 01:42:53: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:44:08: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 5: time: 0.56 / -1.00 -- class: hunter (with shove? 1)
+L 09/16/2020 - 01:44:10: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 5: time: 2.90 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 01:44:34: [admin_hp.smx]  
+L 09/16/2020 - 01:44:37: [l4d2_skill_detect.smx] Charge carry start: 6 - 2 -- time: 99.53
+L 09/16/2020 - 01:44:39: [l4d2_skill_detect.smx] Clear: 1 freed 2 from 6: time: 1.36 / 2.56 -- class: charger (with shove? 0)
+L 09/16/2020 - 01:44:40: [l4d2_skill_detect.smx] Checking charge victim: 6 - 2 - flags: 1 (alive? 1)
+L 09/16/2020 - 01:45:06: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 7: time: 2.03 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 01:45:09: [admin_hp.smx]  
+L 09/16/2020 - 01:45:50: [admin_hp.smx]  
+L 09/16/2020 - 01:46:55: [admin_hp.smx]  
+L 09/16/2020 - 01:46:55: [admin_hp.smx]  
+L 09/16/2020 - 01:47:17: -------- Mapchange to c2m1_highway --------
+L 09/16/2020 - 01:47:21: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:48:15: -------- Mapchange to building --------
+L 09/16/2020 - 01:48:18: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:50:50: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 6: time: 2.59 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 01:50:58: [l4d2_skill_detect.smx] calarm trigger: caller 247 / activator 247 / delay: 0.00
+L 09/16/2020 - 01:51:01: [l4d2_skill_detect.smx] Clear: 4 freed 2 from 8: time: 1.90 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 01:51:38: -------- Mapchange to streets --------
+L 09/16/2020 - 01:51:43: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:53:08: [l4d2_skill_detect.smx] Clear: 4 freed 4 from 6: time: -1.00 / 0.59 -- class: smoker (with shove? 0)
+L 09/16/2020 - 01:53:11: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 5: time: 1.70 / -1.00 -- class: jockey (with shove? 1)
+L 09/16/2020 - 01:53:24: [l4d2_skill_detect.smx] Charge carry start: 7 - 2 -- time: 90.56
+L 09/16/2020 - 01:53:27: [l4d2_skill_detect.smx] Clear: 1 freed 2 from 7: time: 0.53 / 2.66 -- class: charger (with shove? 0)
+L 09/16/2020 - 01:53:29: [l4d2_skill_detect.smx] Checking charge victim: 7 - 2 - flags: 1 (alive? 1)
+L 09/16/2020 - 01:53:32: [admin_hp.smx]  
+L 09/16/2020 - 01:53:46: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 0 / crowntype: 0 (entity: 199)
+L 09/16/2020 - 01:53:46: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 871, teamless dmg: 0
+L 09/16/2020 - 01:53:53: [admin_hp.smx]  
+L 09/16/2020 - 01:54:25: [l4d2_skill_detect.smx] calarm trigger: caller 220 / activator 220 / delay: 0.00
+L 09/16/2020 - 01:55:44: -------- Mapchange to factory --------
+L 09/16/2020 - 01:55:50: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 01:57:20: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 7: time: 1.30 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 01:57:25: [l4d2_skill_detect.smx] Clear: 1 freed 4 from 6: time: -1.00 / 2.43 -- class: smoker (with shove? 0)
+L 09/16/2020 - 01:58:03: [l4d2_skill_detect.smx] calarm trigger: caller 166 / activator 166 / delay: 0.00
+L 09/16/2020 - 01:58:58: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 192)
+L 09/16/2020 - 01:58:58: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 451, teamless dmg: 0
+L 09/16/2020 - 01:59:00: [admin_hp.smx]  
+L 09/16/2020 - 01:59:27: [l4d2_skill_detect.smx] Clear: 2 freed 2 from 7: time: -1.00 / 0.03 -- class: smoker (with shove? 0)
+L 09/16/2020 - 01:59:35: [l4d2_skill_detect.smx] Clear: 2 freed 3 from 6: time: 1.23 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 02:00:14: -------- Mapchange to trainyard --------
+L 09/16/2020 - 02:00:17: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 02:01:13: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 5: time: -1.00 / 0.53 -- class: smoker (with shove? 0)
+L 09/16/2020 - 02:01:29: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 6: time: 0.83 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 02:03:03: [admin_hp.smx]  
+L 09/16/2020 - 02:03:03: [admin_hp.smx]  
+L 09/16/2020 - 02:08:12: -------- Mapchange to dkr_m1_motel --------
+L 09/16/2020 - 02:08:19: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 02:08:50: -------- Mapchange to c2m1_highway --------
+L 09/16/2020 - 02:08:55: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 02:09:31: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/16/2020 - 02:09:32: [basecommands.smx] "♛ Rain ♛<251><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/16/2020 - 02:13:29: -------- Mapchange to dkr_m1_motel --------
+L 09/16/2020 - 02:13:35: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/16/2020 - 02:16:02: [basecommands.smx] "♛ Rain ♛<266><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/16/2020 - 02:16:36: [l4d2_skill_detect.smx] Clear: 2 freed 1 from 6: time: 1.66 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 02:18:00: [l4d2_skill_detect.smx] Clear: 1 freed 1 from 4: time: -1.00 / 0.40 -- class: smoker (with shove? 0)
+L 09/16/2020 - 02:18:36: [admin_hp.smx]  
+L 09/16/2020 - 02:18:40: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 350)
+L 09/16/2020 - 02:18:40: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ｍｏｚｔａｓａ™, attacker dmg: 84, teamless dmg: 0
+L 09/16/2020 - 02:18:40: [admin_hp.smx]  
+L 09/16/2020 - 02:19:01: [l4d2_skill_detect.smx] calarm trigger: caller 880 / activator 880 / delay: 0.00
+L 09/16/2020 - 02:19:47: [l4d2_skill_detect.smx] Clear: 1 freed 2 from 4: time: 0.73 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 02:19:50: [l4d2_skill_detect.smx] calarm trigger: caller 621 / activator 621 / delay: 0.00
+L 09/16/2020 - 02:20:28: -------- Mapchange to dkr_m2_carnival --------
+L 09/16/2020 - 02:20:36: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 02:22:43: [admin_hp.smx]  
+L 09/16/2020 - 02:24:37: [l4d2_skill_detect.smx] Charge carry start: 4 - 3 -- time: 215.20
+L 09/16/2020 - 02:24:39: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 4: time: 0.40 / 1.43 -- class: charger (with shove? 0)
+L 09/16/2020 - 02:24:41: [l4d2_skill_detect.smx] Checking charge victim: 4 - 3 - flags: 1 (alive? 1)
+L 09/16/2020 - 02:25:17: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 294)
+L 09/16/2020 - 02:25:17: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: edag_c10, attacker dmg: 350, teamless dmg: 0
+L 09/16/2020 - 02:25:20: [admin_hp.smx]  
+L 09/16/2020 - 02:26:52: [l4d2_skill_detect.smx] Clear: 3 freed 2 from 5: time: 0.23 / 2.79 -- class: smoker (with shove? 0)
+L 09/16/2020 - 02:26:55: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 279)
+L 09/16/2020 - 02:26:55: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ｍｏｚｔａｓａ™, attacker dmg: 104, teamless dmg: 0
+L 09/16/2020 - 02:26:56: [admin_hp.smx]  
+L 09/16/2020 - 02:26:58: [l4d2_skill_detect.smx] Charge carry start: 6 - 1 -- time: 355.76
+L 09/16/2020 - 02:27:01: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 6: time: 1.36 / 2.86 -- class: charger (with shove? 0)
+L 09/16/2020 - 02:27:01: [l4d2_skill_detect.smx] Checking charge victim: 6 - 1 - flags: 1 (alive? 1)
+L 09/16/2020 - 02:27:02: [l4d2_skill_detect.smx] Checking charge victim: 6 - 7 - flags: 0 (alive? 1)
+L 09/16/2020 - 02:27:02: [l4d2_skill_detect.smx] Checking charge victim: 6 - 2 - flags: 0 (alive? 1)
+L 09/16/2020 - 02:27:53: -------- Mapchange to dkr_m3_tunneloflove --------
+L 09/16/2020 - 02:28:01: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 02:29:41: [l4d2_skill_detect.smx] Clear: 7 freed 1 from 6: time: 2.06 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 02:30:47: [admin_hp.smx]  
+L 09/16/2020 - 02:30:49: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 1 / crowntype: 0 (entity: 215)
+L 09/16/2020 - 02:30:49: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ♛ Rain ♛, attacker dmg: 472, teamless dmg: 0
+L 09/16/2020 - 02:31:57: [l4d2_skill_detect.smx] Clear: 7 freed 1 from 5: time: -1.00 / 0.53 -- class: smoker (with shove? 0)
+L 09/16/2020 - 02:32:30: [admin_hp.smx]  
+L 09/16/2020 - 02:33:13: [admin_hp.smx]  
+L 09/16/2020 - 02:33:20: [admin_hp.smx]  
+L 09/16/2020 - 02:33:28: [admin_hp.smx]  
+L 09/16/2020 - 02:33:28: [admin_hp.smx]  
+L 09/16/2020 - 02:33:30: [admin_hp.smx]  
+L 09/16/2020 - 02:33:30: [admin_hp.smx]  
+L 09/16/2020 - 02:33:30: [admin_hp.smx]  
+L 09/16/2020 - 02:33:30: [admin_hp.smx]  
+L 09/16/2020 - 02:33:30: [admin_hp.smx]  
+L 09/16/2020 - 02:33:31: [admin_hp.smx]  
+L 09/16/2020 - 02:33:31: [admin_hp.smx]  
+L 09/16/2020 - 02:33:31: [admin_hp.smx]  
+L 09/16/2020 - 02:33:31: [admin_hp.smx]  
+L 09/16/2020 - 02:33:31: [admin_hp.smx]  
+L 09/16/2020 - 02:33:32: [admin_hp.smx]  
+L 09/16/2020 - 02:33:32: [admin_hp.smx]  
+L 09/16/2020 - 02:33:32: [admin_hp.smx]  
+L 09/16/2020 - 02:33:41: [admin_hp.smx]  
+L 09/16/2020 - 02:33:41: [admin_hp.smx]  
+L 09/16/2020 - 02:33:42: [admin_hp.smx]  
+L 09/16/2020 - 02:34:34: -------- Mapchange to dkr_m4_ferris --------
+L 09/16/2020 - 02:34:42: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 02:36:11: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 6: time: -1.00 / 1.66 -- class: smoker (with shove? 0)
+L 09/16/2020 - 02:36:47: [admin_hp.smx]  
+L 09/16/2020 - 02:37:15: [l4d2_skill_detect.smx] Witch Crown Check: Failed: bungled: 0 / crowntype: 0 (entity: 98)
+L 09/16/2020 - 02:37:15: [l4d2_skill_detect.smx] Witch Crown Check: Further details: attacker: ｍｏｚｔａｓａ™, attacker dmg: 128, teamless dmg: 0
+L 09/16/2020 - 02:38:22: [l4d2_skill_detect.smx] Clear: 2 freed 7 from 5: time: 2.76 / -1.00 -- class: hunter (with shove? 0)
+L 09/16/2020 - 02:38:23: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 4: time: 3.86 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 02:38:49: [admin_hp.smx]  
+L 09/16/2020 - 02:39:07: [l4d2_skill_detect.smx] Clear: 3 freed 1 from 5: time: 2.36 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 02:39:22: [admin_hp.smx]  
+L 09/16/2020 - 02:41:05: -------- Mapchange to dkr_m5_stadium --------
+L 09/16/2020 - 02:41:13: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/16/2020 - 02:41:42: [admin_hp.smx]  
+L 09/16/2020 - 02:43:06: [l4d2_skill_detect.smx] Clear: 1 freed 3 from 4: time: 3.46 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 02:43:43: [l4d2_skill_detect.smx] Clear: 5 freed 1 from 5: time: 127.50 / -1.00 -- class: jockey (with shove? 0)
+L 09/16/2020 - 02:44:44: [admin_hp.smx]  
+L 09/16/2020 - 02:45:48: [admin_hp.smx]  
+L 09/16/2020 - 02:48:51: [admin_hp.smx]  
+L 09/16/2020 - 02:50:56: [admin_hp.smx]  
+L 09/16/2020 - 02:52:26: [admin_hp.smx]  
+L 09/16/2020 - 02:53:54: Log file closed.
+L 09/16/2020 - 08:07:37: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200916.log") (Version "1.10.0.6492")
+L 09/16/2020 - 08:07:37: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/16/2020 - 08:07:40: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/16/2020 - 08:08:00: [SM] Changed map to "c1m2_streets"
+L 09/16/2020 - 08:08:03: -------- Mapchange to c1m2_streets --------
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/16/2020 - 08:08:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/16/2020 - 08:09:42: [funcommands.smx] "Ketchup<2><STEAM_1:0:162762726><>" toggled noclip on "Ketchup<2><STEAM_1:0:162762726><>"
+L 09/16/2020 - 08:09:49: [funcommands.smx] "Ketchup<2><STEAM_1:0:162762726><>" toggled noclip on "Ketchup<2><STEAM_1:0:162762726><>"
+L 09/16/2020 - 08:11:29: Log file closed.
+L 09/16/2020 - 11:33:31: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200916.log") (Version "1.10.0.6492")
+L 09/16/2020 - 11:33:31: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/16/2020 - 11:33:34: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/16/2020 - 11:33:50: [SM] Changed map to "c1m2_streets"
+L 09/16/2020 - 11:33:53: -------- Mapchange to c1m2_streets --------
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "6000")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/16/2020 - 11:34:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/16/2020 - 11:34:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/16/2020 - 11:36:08: Log file closed.
+L 09/16/2020 - 11:37:33: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200916.log") (Version "1.10.0.6492")
+L 09/16/2020 - 11:37:33: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/16/2020 - 11:37:35: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/16/2020 - 11:37:44: [SM] Changed map to "c1m2_streets"
+L 09/16/2020 - 11:37:47: -------- Mapchange to c1m2_streets --------
+L 09/16/2020 - 11:40:04: Log file closed.
+L 09/16/2020 - 12:17:31: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200916.log") (Version "1.10.0.6492")
+L 09/16/2020 - 12:17:31: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/16/2020 - 12:17:34: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/16/2020 - 12:17:47: [SM] Changed map to "c1m2_streets"
+L 09/16/2020 - 12:17:50: -------- Mapchange to c1m2_streets --------
+L 09/16/2020 - 12:20:52: Log file closed.
+L 09/16/2020 - 12:24:53: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200916.log") (Version "1.10.0.6492")
+L 09/16/2020 - 12:24:53: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/16/2020 - 12:24:56: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/16/2020 - 12:25:06: [SM] Changed map to "c1m2_streets"
+L 09/16/2020 - 12:25:08: -------- Mapchange to c1m2_streets --------
+L 09/16/2020 - 12:26:15: Log file closed.

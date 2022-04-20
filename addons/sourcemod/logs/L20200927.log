@@ -1,0 +1,257 @@
+L 09/27/2020 - 15:08:28: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200927.log") (Version "1.10.0.6492")
+L 09/27/2020 - 15:08:28: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/27/2020 - 15:08:31: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/27/2020 - 15:09:51: [all4dead2.smx] [NOTICE]: (♛ Rain ♛<2><STEAM_1:0:162762726><>) has spawned a defibrillator
+L 09/27/2020 - 15:09:55: [all4dead2.smx] [NOTICE]: (♛ Rain ♛<2><STEAM_1:0:162762726><>) has spawned a first_aid_kit
+L 09/27/2020 - 15:10:14: [all4dead2.smx] [NOTICE]: (♛ Rain ♛<2><STEAM_1:0:162762726><>) has spawned a knife
+L 09/27/2020 - 15:11:04: [all4dead2.smx] [NOTICE]: (♛ Rain ♛<2><STEAM_1:0:162762726><>) set z_mega_mob_size to 60
+L 09/27/2020 - 15:11:04: [all4dead2.smx] [NOTICE]: (♛ Rain ♛<2><STEAM_1:0:162762726><>) set z_mob_spawn_max_size to 40
+L 09/27/2020 - 15:11:04: [all4dead2.smx] [NOTICE]: (♛ Rain ♛<2><STEAM_1:0:162762726><>) set z_mob_spawn_min_size to 20
+L 09/27/2020 - 15:11:14: [all4dead2.smx] [NOTICE]: (♛ Rain ♛<2><STEAM_1:0:162762726><>) set director_force_witch to 1
+L 09/27/2020 - 15:11:24: [all4dead2.smx] [NOTICE]: (♛ Rain ♛<2><STEAM_1:0:162762726><>) set director_force_tank to 1
+L 09/27/2020 - 15:12:41: Log file closed.
+L 09/27/2020 - 15:13:39: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200927.log") (Version "1.10.0.6492")
+L 09/27/2020 - 15:13:39: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/27/2020 - 15:13:41: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "5300")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/27/2020 - 15:14:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/27/2020 - 15:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/27/2020 - 15:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/27/2020 - 15:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/27/2020 - 15:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/27/2020 - 15:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/27/2020 - 15:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/27/2020 - 15:14:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_HardCore_Mode") (value "2")
+L 09/27/2020 - 15:14:30: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 15:14:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<3><BOT><>"
+L 09/27/2020 - 15:14:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<4><BOT><>"
+L 09/27/2020 - 15:14:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<5><BOT><>"
+L 09/27/2020 - 15:14:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<6><BOT><>"
+L 09/27/2020 - 15:14:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smoker<8><BOT><>"
+L 09/27/2020 - 15:14:47: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Smoker<9><BOT><>"
+L 09/27/2020 - 15:14:47: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 15:15:21: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 15:15:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<14><BOT><>"
+L 09/27/2020 - 15:15:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<15><BOT><>"
+L 09/27/2020 - 15:15:44: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Hunter<16><BOT><>"
+L 09/27/2020 - 15:15:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<17><BOT><>"
+L 09/27/2020 - 15:15:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<11><BOT><>"
+L 09/27/2020 - 15:15:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<12><BOT><>"
+L 09/27/2020 - 15:15:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<13><BOT><>"
+L 09/27/2020 - 15:15:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 15:16:09: -------- Mapchange to c1m4_atrium --------
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_tank_health") (value "5300")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/27/2020 - 15:16:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_HardCore_Mode") (value "2")
+L 09/27/2020 - 15:17:20: Log file closed.
+L 09/27/2020 - 15:22:22: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200927.log") (Version "1.10.0.6492")
+L 09/27/2020 - 15:22:22: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/27/2020 - 15:22:23: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "5300")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/27/2020 - 15:25:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/27/2020 - 15:38:37: [basecomm.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" gagged "santosel2020<12><STEAM_1:0:558046429><>"
+L 09/27/2020 - 15:40:41: [playercommands.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" slayed "santosel2020<12><STEAM_1:0:558046429><>"
+L 09/27/2020 - 15:40:56: [basebans.smx] "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>" banned "santosel2020<12><STEAM_1:0:558046429><>" (minutes "0") (reason "afk")
+L 09/27/2020 - 15:43:19: -------- Mapchange to c2m2_fairgrounds --------
+L 09/27/2020 - 15:48:44: [funcommands.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" froze "♤♡☆Tobias☆◇♧<59><STEAM_1:0:565276629><>"
+L 09/27/2020 - 15:50:18: [funcommands.smx] "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>" drugged "♤♡☆Tobias☆◇♧<59><STEAM_1:0:565276629><>"
+L 09/27/2020 - 15:53:24: [funcommands.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" froze "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 15:53:26: [funcommands.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" froze "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>"
+L 09/27/2020 - 15:53:29: [funcommands.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" froze "vault girl<42><STEAM_1:0:194363361><>"
+L 09/27/2020 - 15:53:35: [funcommands.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" froze "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 15:54:11: [basecommands.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" kicked "♤♡☆Tobias☆◇♧<59><STEAM_1:0:565276629><>" (reason "")
+L 09/27/2020 - 15:56:34: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "Maxii<63><STEAM_1:1:66717753><>" (reason "")
+L 09/27/2020 - 15:56:41: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "vault girl<42><STEAM_1:0:194363361><>" (reason "")
+L 09/27/2020 - 16:01:07: -------- Mapchange to c2m3_coaster --------
+L 09/27/2020 - 16:06:21: [basecommands.smx] "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>" kicked "-Hєisєnbєrg-<78><STEAM_1:1:182295342><>" (reason "")
+L 09/27/2020 - 16:24:00: -------- Mapchange to c2m4_barns --------
+L 09/27/2020 - 16:30:53: [basecommands.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" kicked "El Viejo que odia MCDonald<95><STEAM_1:0:91633431><>" (reason "")
+L 09/27/2020 - 16:32:52: [basebans.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" banned "El Viejo que odia MCDonald<107><STEAM_1:0:91633431><>" (minutes "0") (reason "Troll de Mierda")
+L 09/27/2020 - 16:33:35: -------- Mapchange to c2m5_concert --------
+L 09/27/2020 - 16:52:42: -------- Mapchange to c5m1_waterfront --------
+L 09/27/2020 - 16:58:32: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "▶◀FaEzCr▶◀<138><STEAM_1:0:66577623><>" (reason "")
+L 09/27/2020 - 17:02:13: -------- Mapchange to c5m2_park --------
+L 09/27/2020 - 17:19:42: -------- Mapchange to c5m3_cemetery --------
+L 09/27/2020 - 17:36:19: -------- Mapchange to c5m4_quarter --------
+L 09/27/2020 - 17:53:50: [admin_hp.smx]  
+L 09/27/2020 - 17:54:17: [playercommands.smx] "L4D2Gratis<21><STEAM_1:1:522713982><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 17:56:01: -------- Mapchange to c5m5_bridge --------
+L 09/27/2020 - 18:01:53: -------- Mapchange to c8m1_apartment --------
+L 09/27/2020 - 18:03:00: Log file closed.
+L 09/27/2020 - 19:08:00: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200927.log") (Version "1.10.0.6492")
+L 09/27/2020 - 19:08:00: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/27/2020 - 19:08:02: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "5300")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/27/2020 - 19:09:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/27/2020 - 19:13:26: -------- Mapchange to c10m1_caves --------
+L 09/27/2020 - 19:22:23: -------- Mapchange to c10m2_drainage --------
+L 09/27/2020 - 19:32:45: -------- Mapchange to c10m3_ranchhouse --------
+L 09/27/2020 - 19:41:05: [funcommands.smx] "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>" froze "GatoFachero<36><STEAM_1:1:185148980><>"
+L 09/27/2020 - 19:42:09: [funcommands.smx] "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>" froze "GatoFachero<36><STEAM_1:1:185148980><>"
+L 09/27/2020 - 19:42:15: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 19:45:28: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 19:45:28: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slayed "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>"
+L 09/27/2020 - 19:45:28: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slayed "L4D2Gratis<19><STEAM_1:1:522713982><>"
+L 09/27/2020 - 19:45:29: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slayed "Smoker<57><BOT><>"
+L 09/27/2020 - 19:45:41: -------- Mapchange to c10m4_mainstreet --------
+L 09/27/2020 - 19:57:25: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 20:00:47: [admin_hp.smx]  
+L 09/27/2020 - 20:01:12: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:13: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:13: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:14: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:14: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:14: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:15: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:15: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:16: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:34: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:35: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:01:35: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:28: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:28: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:29: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:29: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:29: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:30: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:30: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:30: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "Bill<95><BOT><>" (damage "99")
+L 09/27/2020 - 20:04:31: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "Bill<95><BOT><>" (damage "99")
+L 09/27/2020 - 20:04:31: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "Bill<95><BOT><>" (damage "99")
+L 09/27/2020 - 20:04:31: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "suicidepickles<90><STEAM_1:0:41773916><>" (damage "99")
+L 09/27/2020 - 20:04:31: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "suicidepickles<90><STEAM_1:0:41773916><>" (damage "99")
+L 09/27/2020 - 20:04:32: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "Smoker<96><BOT><>" (damage "99")
+L 09/27/2020 - 20:04:32: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "Smoker<96><BOT><>" (damage "99")
+L 09/27/2020 - 20:04:32: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "Francis<94><BOT><>" (damage "99")
+L 09/27/2020 - 20:04:33: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "Francis<94><BOT><>" (damage "99")
+L 09/27/2020 - 20:04:35: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:35: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "Bill<95><BOT><>" (damage "99")
+L 09/27/2020 - 20:04:35: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:36: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:36: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:36: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:36: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:36: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:37: [playercommands.smx] "L4D2Gratis<19><STEAM_1:1:522713982><>" slapped "♛ Rain ♛<2><STEAM_1:0:162762726><>" (damage "99")
+L 09/27/2020 - 20:04:37: [admin_hp.smx]  
+L 09/27/2020 - 20:04:53: -------- Mapchange to c10m5_houseboat --------
+L 09/27/2020 - 20:17:19: -------- Mapchange to c13m1_alpinecreek --------
+L 09/27/2020 - 20:23:36: SourceMod log file session started (file "E:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\L20200927.log") (Version "1.10.0.6492")
+L 09/27/2020 - 20:23:36: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/27/2020 - 20:23:39: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/27/2020 - 20:26:38: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_damage_per_kill_hit") (value "120")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_anger_rate") (value "0.6")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_flashlight_range") (value "2000")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_witch_burn_time") (value "100")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_tank_health") (value "5300")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "tank_burn_duration") (value "999999")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "boomer_vomit_delay") (value "0.1")
+L 09/27/2020 - 20:26:39: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "smoker_tongue_delay") (value "0.1")
+L 09/27/2020 - 20:29:47: [basecomm.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" gagged "REN<16><STEAM_1:1:1784527><>"
+L 09/27/2020 - 20:41:50: -------- Mapchange to c14m2_lighthouse --------
+L 09/27/2020 - 20:50:51: -------- Mapchange to c1m1_hotel --------
+L 09/27/2020 - 21:01:51: -------- Mapchange to c1m2_streets --------
+L 09/27/2020 - 21:03:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/27/2020 - 21:17:03: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/27/2020 - 21:17:09: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/27/2020 - 21:20:21: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/27/2020 - 21:22:01: -------- Mapchange to c1m3_mall --------
+L 09/27/2020 - 21:37:30: -------- Mapchange to c1m4_atrium --------
+L 09/27/2020 - 21:45:36: -------- Mapchange to c2m1_highway --------
+L 09/27/2020 - 22:08:13: -------- Mapchange to c2m2_fairgrounds --------
+L 09/27/2020 - 22:17:49: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/27/2020 - 22:21:57: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "L4D2Gratis<8><STEAM_1:1:522713982><>"
+L 09/27/2020 - 22:22:03: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 22:22:04: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "Elgatogamer2323<181><STEAM_1:1:506929020><>"
+L 09/27/2020 - 22:22:05: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "gmegapro<182><STEAM_1:1:529595763><>"
+L 09/27/2020 - 22:22:26: -------- Mapchange to c2m3_coaster --------
+L 09/27/2020 - 22:36:16: [funcommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" froze "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>"
+L 09/27/2020 - 22:37:31: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "ᴬᴮMACHETE<206><STEAM_1:1:535496677><>"
+L 09/27/2020 - 22:37:33: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 22:37:34: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "twitch.tv/kaldo16<34><STEAM_1:1:93865182><>"
+L 09/27/2020 - 22:37:34: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>"
+L 09/27/2020 - 22:37:35: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "MaziGO_69<194><STEAM_1:1:523429659><>"
+L 09/27/2020 - 22:37:35: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "Elgatogamer2323<181><STEAM_1:1:506929020><>"
+L 09/27/2020 - 22:37:55: -------- Mapchange to c2m4_barns --------
+L 09/27/2020 - 22:40:01: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" renamed "ᴬᴮMACHETE<206><STEAM_1:1:535496677><>" (to "�A�MMTEA����")
+L 09/27/2020 - 22:43:03: [funcommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" set a FireBomb on "Smoker<217><BOT><>"
+L 09/27/2020 - 22:43:05: [funcommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" set a FireBomb on "MaziGO_69<194><STEAM_1:1:523429659><>"
+L 09/27/2020 - 22:43:06: [funcommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" set a FireBomb on "Osiris UwU<218><STEAM_1:0:548782081><>"
+L 09/27/2020 - 22:47:22: -------- Mapchange to c2m5_concert --------
+L 09/27/2020 - 23:01:18: [admin_hp.smx]  
+L 09/27/2020 - 23:03:42: [admin_hp.smx]  
+L 09/27/2020 - 23:06:25: [admin_hp.smx]  
+L 09/27/2020 - 23:06:40: [playercommands.smx] "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>" slayed "Carlos Schuldiner<230><STEAM_1:1:73954701><>"
+L 09/27/2020 - 23:06:45: [playercommands.smx] "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>" slayed "Elgatogamer2323<181><STEAM_1:1:506929020><>"
+L 09/27/2020 - 23:06:47: [playercommands.smx] "ｍｏｚｔａｓａ™<3><STEAM_1:1:4151444><>" slayed "MaziGO_69<194><STEAM_1:1:523429659><>"
+L 09/27/2020 - 23:07:04: -------- Mapchange to c5m1_waterfront --------
+L 09/27/2020 - 23:16:06: -------- Mapchange to c5m2_park --------
+L 09/27/2020 - 23:27:42: [playercommands.smx] "L4D2Gratis<8><STEAM_1:1:522713982><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 09/27/2020 - 23:33:53: -------- Mapchange to c5m3_cemetery --------
+L 09/27/2020 - 23:47:26: [admin_hp.smx]  
+L 09/27/2020 - 23:52:50: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<264><BOT><>"
+L 09/27/2020 - 23:57:51: -------- Mapchange to c5m4_quarter --------
+L 09/28/2020 - 00:01:52: Log file closed.

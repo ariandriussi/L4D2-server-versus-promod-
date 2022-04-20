@@ -1,0 +1,11 @@
+"banreasons"
+{
+        "Viejo Sin Verguenza Chupachichi"      "Viejo Sin Verguenza Chupachichi"
+	"afk"			               "afk"
+	"Rageador de Mierda"	               "Rageador de Mierda"
+	"Hack"	                               "Hack"
+	"Troll de Mierda"		       "Troll de Mierda"
+	"Insoportable"			       "Insoportable"
+	"Romper las bolas por EL Chat de VOZ"  "Romper las bolas por el Chat de VOZ"
+
+}

@@ -1,0 +1,15 @@
+L 08/18/2020 - 00:07:56: SourceMod log file session started (file "L20200818.log") (Version "1.8.0.6041")
+L 08/18/2020 - 00:07:56: -------- Mapchange to c5m3_cemetery --------
+L 08/18/2020 - 00:23:33: -------- Mapchange to c5m4_quarter --------
+L 08/18/2020 - 00:42:06: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/18/2020 - 00:42:19: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/18/2020 - 00:44:39: -------- Mapchange to c5m5_bridge --------
+L 08/18/2020 - 00:52:19: [basebans.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" banned "medieval<226><STEAM_1:0:135227510><>" (minutes "0") (reason "Troll")
+L 08/18/2020 - 00:54:02: Log file closed.
+L 08/18/2020 - 00:58:52: SourceMod log file session started (file "L20200818.log") (Version "1.8.0.6041")
+L 08/18/2020 - 00:58:52: -------- Mapchange to c1m1_hotel --------
+L 08/18/2020 - 00:58:56: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/18/2020 - 00:58:57: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/18/2020 - 00:59:11: [SM] Changed map to "c1m1_hotel"
+L 08/18/2020 - 00:59:14: -------- Mapchange to c1m1_hotel --------
+L 08/18/2020 - 01:01:04: Log file closed.

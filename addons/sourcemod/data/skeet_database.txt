@@ -1,0 +1,15 @@
+"skeetdata"
+{
+	"data"
+	{
+		"STEAM_1:0:162762726"
+		{
+			"skeet"		"1"
+			"name"		"♛ Rain ♛"
+		}
+	}
+	"info"
+	{
+		"count"		"1"
+	}
+}

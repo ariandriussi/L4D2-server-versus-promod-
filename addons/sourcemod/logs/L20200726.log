@@ -1,0 +1,134 @@
+L 07/26/2020 - 14:53:32: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 14:53:32: -------- Mapchange to c10m1_caves --------
+L 07/26/2020 - 14:53:38: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/26/2020 - 14:53:38: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/26/2020 - 14:53:49: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Round Start Triggered
+L 07/26/2020 - 14:53:49: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Start HP: 4000-4000 Speed: 210-210
+L 07/26/2020 - 14:53:49: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Current HP: 4000 Speed: 210
+L 07/26/2020 - 14:53:49: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank New HP: 4000 Speed: 210
+L 07/26/2020 - 14:53:49: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Start HP: 1000-1000 Speed: 300-300
+L 07/26/2020 - 14:53:49: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Current HP: 1000 Speed: 300
+L 07/26/2020 - 14:53:49: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch New HP: 1000 Speed: 300
+L 07/26/2020 - 14:54:27: [SM] Changed map to "c10m1_caves"
+L 07/26/2020 - 14:54:42: -------- Mapchange to c10m1_caves --------
+L 07/26/2020 - 14:54:45: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Round Start Triggered
+L 07/26/2020 - 14:54:45: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Start HP: 4000-4000 Speed: 210-210
+L 07/26/2020 - 14:54:45: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Current HP: 13500 Speed: 210
+L 07/26/2020 - 14:54:45: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank New HP: 4000 Speed: 210
+L 07/26/2020 - 14:54:45: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Start HP: 1000-1000 Speed: 300-300
+L 07/26/2020 - 14:54:45: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Current HP: 1000 Speed: 300
+L 07/26/2020 - 14:54:45: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch New HP: 1000 Speed: 300
+L 07/26/2020 - 14:57:12: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Witch spawned with HP: 1000 Speed: 300
+L 07/26/2020 - 14:57:12: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Start HP: 1000-1000 Speed: 300-300
+L 07/26/2020 - 14:57:12: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Current HP: 1000 Speed: 300
+L 07/26/2020 - 14:57:12: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch New HP: 1000 Speed: 300
+L 07/26/2020 - 14:58:32: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Tank spawned with HP: 4000 (1169915904) Speed: 210
+L 07/26/2020 - 14:58:32: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Start HP: 4000-4000 Speed: 210-210
+L 07/26/2020 - 14:58:32: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Current HP: 4000 Speed: 210
+L 07/26/2020 - 14:58:32: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank New HP: 4000 Speed: 210
+L 07/26/2020 - 14:59:25: Log file closed.
+L 07/26/2020 - 15:02:18: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 15:02:18: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 15:02:22: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/26/2020 - 15:02:22: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/26/2020 - 15:02:38: [SM] Changed map to "c1m1_hotel"
+L 07/26/2020 - 15:02:41: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 15:04:27: Log file closed.
+L 07/26/2020 - 15:07:36: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 15:07:36: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 15:07:37: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/26/2020 - 15:07:38: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/26/2020 - 15:07:43: [SM] Changed map to "c1m1_hotel"
+L 07/26/2020 - 15:07:45: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 15:09:16: Log file closed.
+L 07/26/2020 - 15:10:50: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 15:10:50: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 15:10:51: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/26/2020 - 15:10:52: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/26/2020 - 15:10:57: [SM] Changed map to "c1m1_hotel"
+L 07/26/2020 - 15:11:00: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 15:12:24: Log file closed.
+L 07/26/2020 - 16:16:24: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 16:16:24: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 16:16:29: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/26/2020 - 16:16:29: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/26/2020 - 16:16:54: [SM] Changed map to "c1m1_hotel"
+L 07/26/2020 - 16:17:10: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 16:19:39: Log file closed.
+L 07/26/2020 - 18:24:47: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 18:24:47: Log file closed.
+L 07/26/2020 - 18:37:13: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 18:37:13: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 18:37:19: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/26/2020 - 18:37:20: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/26/2020 - 18:37:43: [SM] Changed map to "c1m1_hotel"
+L 07/26/2020 - 18:37:45: -------- Mapchange to c1m1_hotel --------
+L 07/26/2020 - 18:39:00: Log file closed.
+L 07/26/2020 - 19:49:37: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 19:49:37: Log file closed.
+L 07/26/2020 - 19:51:32: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 19:51:32: -------- Mapchange to c10m1_caves --------
+L 07/26/2020 - 19:51:41: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/26/2020 - 19:51:41: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/26/2020 - 19:51:47: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Round Start Triggered
+L 07/26/2020 - 19:51:47: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Start HP: 4000-4000 Speed: 210-210
+L 07/26/2020 - 19:51:47: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Current HP: 4000 Speed: 210
+L 07/26/2020 - 19:51:47: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank New HP: 4000 Speed: 210
+L 07/26/2020 - 19:51:47: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Start HP: 1000-1000 Speed: 300-300
+L 07/26/2020 - 19:51:47: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Current HP: 1000 Speed: 300
+L 07/26/2020 - 19:51:47: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch New HP: 1000 Speed: 300
+L 07/26/2020 - 19:52:03: [SM] Changed map to "c10m1_caves"
+L 07/26/2020 - 19:52:06: -------- Mapchange to c10m1_caves --------
+L 07/26/2020 - 19:52:08: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Round Start Triggered
+L 07/26/2020 - 19:52:08: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Start HP: 4000-4000 Speed: 210-210
+L 07/26/2020 - 19:52:08: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Current HP: 13500 Speed: 210
+L 07/26/2020 - 19:52:08: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank New HP: 4000 Speed: 210
+L 07/26/2020 - 19:52:08: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Start HP: 1000-1000 Speed: 300-300
+L 07/26/2020 - 19:52:08: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Current HP: 1000 Speed: 300
+L 07/26/2020 - 19:52:08: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch New HP: 1000 Speed: 300
+L 07/26/2020 - 19:54:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Tank spawned with HP: 4000 (1169915904) Speed: 210
+L 07/26/2020 - 19:54:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Start HP: 4000-4000 Speed: 210-210
+L 07/26/2020 - 19:54:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Current HP: 4000 Speed: 210
+L 07/26/2020 - 19:54:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank New HP: 4000 Speed: 210
+L 07/26/2020 - 19:54:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/26/2020 - 19:54:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Zoey<3><BOT><>"
+L 07/26/2020 - 19:54:46: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Louis<4><BOT><>"
+L 07/26/2020 - 19:54:47: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Francis<5><BOT><>"
+L 07/26/2020 - 19:54:47: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Tank<14><BOT><>"
+L 07/26/2020 - 19:54:47: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Boomer<15><BOT><>"
+L 07/26/2020 - 19:54:47: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter<18><BOT><>"
+L 07/26/2020 - 19:55:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Round Start Triggered
+L 07/26/2020 - 19:55:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Start HP: 4000-4000 Speed: 210-210
+L 07/26/2020 - 19:55:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Current HP: 4000 Speed: 210
+L 07/26/2020 - 19:55:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank New HP: 4000 Speed: 210
+L 07/26/2020 - 19:55:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Start HP: 1000-1000 Speed: 300-300
+L 07/26/2020 - 19:55:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch Current HP: 1000 Speed: 300
+L 07/26/2020 - 19:55:03: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Witch New HP: 1000 Speed: 300
+L 07/26/2020 - 19:56:12: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<27><BOT><>"
+L 07/26/2020 - 19:56:12: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Boomer<28><BOT><>"
+L 07/26/2020 - 19:56:13: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter<29><BOT><>"
+L 07/26/2020 - 19:56:24: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Tank spawned with HP: 4000 (1169915904) Speed: 210
+L 07/26/2020 - 19:56:24: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Start HP: 4000-4000 Speed: 210-210
+L 07/26/2020 - 19:56:24: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Current HP: 4000 Speed: 210
+L 07/26/2020 - 19:56:24: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank New HP: 4000 Speed: 210
+L 07/26/2020 - 19:56:27: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Tank spawned with HP: 4000 (1169915904) Speed: 210
+L 07/26/2020 - 19:56:27: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Start HP: 4000-4000 Speed: 210-210
+L 07/26/2020 - 19:56:27: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank Current HP: 4000 Speed: 210
+L 07/26/2020 - 19:56:27: [[L4DY2]Notifica Si Viene Tank O Witch.smx] Randomize Tank New HP: 4000 Speed: 210
+L 07/26/2020 - 19:57:14: Log file closed.
+L 07/26/2020 - 20:13:24: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 20:13:24: -------- Mapchange to c1m2_streets --------
+L 07/26/2020 - 20:13:27: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/26/2020 - 20:13:28: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/26/2020 - 20:13:45: [SM] Changed map to "c1m2_streets"
+L 07/26/2020 - 20:13:48: -------- Mapchange to c1m2_streets --------
+L 07/26/2020 - 20:16:29: -------- Mapchange to c1m2_streets --------
+L 07/26/2020 - 20:22:08: -------- Mapchange to c5m1_waterfront --------
+L 07/26/2020 - 20:25:32: Log file closed.
+L 07/26/2020 - 21:40:06: SourceMod log file session started (file "L20200726.log") (Version "1.8.0.6041")
+L 07/26/2020 - 21:40:06: -------- Mapchange to c1m2_streets --------
+L 07/26/2020 - 21:40:11: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 07/26/2020 - 21:40:11: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/26/2020 - 21:40:32: [SM] Changed map to "c1m2_streets"
+L 07/26/2020 - 21:40:34: -------- Mapchange to c1m2_streets --------
+L 07/26/2020 - 21:42:42: Log file closed.

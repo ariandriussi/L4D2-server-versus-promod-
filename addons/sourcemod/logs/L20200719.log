@@ -1,0 +1,82 @@
+L 07/19/2020 - 07:25:19: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 07:25:19: -------- Mapchange to c1m3_mall --------
+L 07/19/2020 - 07:25:23: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 07:25:42: [SM] Changed map to "c1m3_mall"
+L 07/19/2020 - 07:25:45: -------- Mapchange to c1m3_mall --------
+L 07/19/2020 - 07:36:04: Log file closed.
+L 07/19/2020 - 08:10:40: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 08:10:40: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 08:10:43: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 08:11:07: [SM] Changed map to "c8m1_apartment"
+L 07/19/2020 - 08:11:10: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 08:11:57: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Hunter<7><BOT><>"
+L 07/19/2020 - 08:12:01: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Charger<10><BOT><>"
+L 07/19/2020 - 08:15:14: Log file closed.
+L 07/19/2020 - 08:16:43: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 08:16:43: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 08:16:45: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 08:16:56: [SM] Changed map to "c8m1_apartment"
+L 07/19/2020 - 08:16:59: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 08:17:29: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/19/2020 - 08:19:43: Log file closed.
+L 07/19/2020 - 08:24:07: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 08:24:07: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 08:24:09: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 08:24:25: [SM] Changed map to "c8m1_apartment"
+L 07/19/2020 - 08:24:27: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 08:24:52: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/19/2020 - 08:27:43: Log file closed.
+L 07/19/2020 - 08:53:11: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 08:53:11: -------- Mapchange to c1m2_streets --------
+L 07/19/2020 - 08:53:15: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 08:53:33: [SM] Changed map to "c1m2_streets"
+L 07/19/2020 - 08:53:36: -------- Mapchange to c1m2_streets --------
+L 07/19/2020 - 08:56:12: Log file closed.
+L 07/19/2020 - 11:25:16: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 11:25:16: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 11:25:18: [GEOIP] GeoIP database info: GEO-106FREE 20180206 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/19/2020 - 11:25:19: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 11:25:40: [SM] Changed map to "c8m1_apartment"
+L 07/19/2020 - 11:25:42: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 11:26:03: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/19/2020 - 11:27:53: Log file closed.
+L 07/19/2020 - 11:30:20: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 11:30:20: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 11:30:20: [GEOIP] GeoIP database info: GEO-106FREE 20180206 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/19/2020 - 11:30:21: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 11:30:31: [SM] Changed map to "c8m1_apartment"
+L 07/19/2020 - 11:30:33: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 11:30:50: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/19/2020 - 11:31:07: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/19/2020 - 11:31:36: Log file closed.
+L 07/19/2020 - 11:32:17: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 11:32:17: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 11:32:18: [GEOIP] GeoIP database info: GEO-106FREE 20180206 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 07/19/2020 - 11:32:19: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 11:32:28: [SM] Changed map to "c8m1_apartment"
+L 07/19/2020 - 11:32:31: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 11:33:15: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/19/2020 - 11:34:03: Log file closed.
+L 07/19/2020 - 11:35:57: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 11:35:57: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 11:35:59: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 11:36:09: [SM] Changed map to "c8m1_apartment"
+L 07/19/2020 - 11:36:11: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 11:36:33: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/19/2020 - 11:37:26: Log file closed.
+L 07/19/2020 - 12:09:39: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 12:09:39: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 12:09:42: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 12:10:27: [SM] Changed map to "c8m1_apartment"
+L 07/19/2020 - 12:10:34: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 12:11:08: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/19/2020 - 12:12:46: [l4d_sm_respawn.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" teleported "Zoey<4><BOT><>" after respawning him
+L 07/19/2020 - 12:12:49: [l4d_sm_respawn.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" teleported "Louis<5><BOT><>" after respawning him
+L 07/19/2020 - 12:13:20: Log file closed.
+L 07/19/2020 - 13:12:38: SourceMod log file session started (file "L20200719.log") (Version "1.8.0.6041")
+L 07/19/2020 - 13:12:38: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 13:12:41: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 07/19/2020 - 13:12:55: [SM] Changed map to "c8m1_apartment"
+L 07/19/2020 - 13:12:57: -------- Mapchange to c8m1_apartment --------
+L 07/19/2020 - 13:13:17: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 07/19/2020 - 13:14:22: Log file closed.

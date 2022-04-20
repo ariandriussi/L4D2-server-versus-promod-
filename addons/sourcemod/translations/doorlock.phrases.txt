@@ -1,0 +1,50 @@
+"Phrases"
+{
+	//Chat items
+	"DL_Ready"
+	{
+		"en"			"%s LISTOS."
+	}
+	"DL_Unready"
+	{
+		"en"			"%s NO LISTOS."
+	}
+	"DL_Moveout"
+	{
+		"en"			"GO GO GO!!!"
+	}
+	"DL_Locked"
+	{
+		"en"			"LA RONDA EN PRO MOD COMIENZA EN >>> %i"
+	}
+	"DL_Frozen"
+	{
+		"en"			"LA RONDA EN PRO MOD COMIENZA EN >>> %i"
+	}
+	
+	//Menu items
+	"DL_Menu_Header"
+	{
+		"en"			"---------LISTA DE JUGADORES---------"
+	}
+	"DL_Menu_Connecting"
+	{
+		"en"			"CONECTÁNDOSE"
+	}
+	"DL_Menu_Ingame"
+	{
+		"en"			"EN JUEGO"
+	}
+	"DL_Menu_Fail"
+	{
+		"en"			"FALLO"
+	}
+	"DL_Menu_Ready"
+	{
+		"en"			"LISTOS"
+	}
+	"DL_Menu_Unready"
+	{
+		"en"			"NO LISTOS"
+	}
+}

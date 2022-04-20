@@ -1,0 +1,421 @@
+"Phrases"
+{
+	// Commands
+	"SpawnWeaponUsage"
+	{
+		"en"		"Usage: sm_spawnweapon [weapon_name] <amount>"
+	}
+	
+	"SpawnError"
+	{
+		"en"		"Could not find spawn point."
+	}
+	
+	"GiveWeaponUsage"
+	{
+		"en"		"Usage: sm_giveweapon <#userid|name> [weapon_name]"
+	}
+
+	"SpawnZombieUsage"
+	{
+		"en"		"Usage: sm_zspawn [zombie_name] <amount>"
+	}
+
+	"MinigunFailed"
+	{
+		"en"		"Failed to create Machine Gun ;("
+	}
+
+	"RemoveMinigunError_01"
+	{
+		"en"		"You are not looking at any entity or entity is not valid."
+	}
+
+	"RemoveMinigunError_02"
+	{
+		"en"		"Esto no es una Ametralladora."
+	}
+
+	"SpawnMiniGun"
+	{
+		"en"		"Sacar Ametralladora Calibre 50"
+	}
+
+	"SpawnMiniGun2"
+	{
+		"en"		"Sacar Ametralladora de Gatling"
+	}
+	"RemoveMiniGun"
+	{
+		"en"		"Eliminar Ametralladora"
+	}
+
+	// Menu
+	"WeaponSpawner"
+	{
+		"en"		"Opciones de Armas"
+	}
+
+	"SpawnWeapon"
+	{
+		"en"		"Todo Tipo De Armas"
+	}
+
+	"DisplayWeaponMenuTitle"
+	{
+		"en"		"TIPO DE ARMAS"
+	}
+
+	"BulletBasedMenuTitle"
+	{
+		"en"		"OPCIONES DE ARMAS:"
+	}
+
+	"ShellBasedMenuTitle"
+	{
+		"en"		"OPCIONES DE ARMAS:"
+	}
+
+	"ExplosiveBasedMenuTitle"
+	{
+		"en"		"ARMAS EXPLOSIVAS:"
+	}
+
+	"HealthMenuTitle"
+	{
+		"en"		"OPCIONES DE VIDA:"
+	}
+	
+	"MiscMenuTitle"
+	{
+		"en"		"Misc Weapons/Addons:"
+	}
+	
+	"MeleeMenuTitle"
+	{
+		"en"		"ARMAS DE CUERPO A CUERPO:"
+	}
+	
+	"WeaponGiveMenuTitle"
+	{
+		"en"		"DAR ARMAS"
+	}	
+	
+	// Weapons
+	"BulletBased"
+	{
+		"en"		"TODAS LAS ARMAS"
+	}
+	
+	"ShellBased"
+	{
+		"en"		"ESCOPETAS"
+	}
+	
+	"ExplosiveBased"
+	{
+		"en"		"EXPLOSIVOS"
+	}
+	
+	"HealthRelated"
+	{
+		"en"		"OPCIONES DE VIDA"
+	}
+	
+	"Misc"
+	{
+		"en"		"OTROS OBJETOS"
+	}
+	
+	"MeleeWeapons"
+	{
+		"en"		"ARMAS DE MANO"
+	}
+	
+	// Bullet Based
+	"HuntingRifle"
+	{
+		"en"		"Rifle de Cazador"
+	}
+	
+	"Pistol"
+	{
+		"en"		"Pistola"
+	}
+	
+	"DesertEagle"
+	{
+		"en"		"Magnum"
+	}
+	
+	"Rifle"
+	{
+		"en"		"M-16"
+	}
+	
+	"DesertRifle"
+	{
+		"en"		"S-CAR"
+	}
+	
+	"SubmachineGun"
+	{
+		"en"		"MP"
+	}
+	
+	"SilencedSubmachineGun"
+	{
+		"en"		"MP Silenciada"
+	}
+	
+	"MilitarySniper"
+	{
+		"en"		"Rifle Franco Tirador Militar"
+	}
+	
+	"AvtomatKalashnikova"
+	{
+		"en"		"AK-47"
+	}
+	
+	"SIGSG550"
+	{
+		"en"		"SIG SG 550"
+	}
+
+	"RifleM60"
+	{
+		"en"		"Rifle M60"
+	}
+
+	"SubmachineGunMP5"
+	{
+		"en"		"Subfusil MP5"
+	}
+	
+	"AWP"
+	{
+		"en"		"AWP"
+	}
+	
+	"ScoutSniper"
+	{
+		"en"		"Sniper Gris"
+	}
+
+	"LaserSightBox"
+	{
+		"en"		"Laser"
+	}
+
+	
+	// Shell Based
+	"AutoShotgun"
+	{
+		"en"		"Escopeta Automatica"
+	}
+	
+	"ChromeShotgun"
+	{
+		"en"		"Escopeta Cromada"
+	}
+	
+	"SpasShotgun"
+	{
+		"en"		"Escopeta de Combate"
+	}
+	
+	"PumpShotgun"
+	{
+		"en"		"Escopeta de Bomba"
+	}
+	
+	// Explosive Based
+	"GrenadeLauncher"
+	{
+		"en"		"Lanza Granadas"
+	}
+	
+	"ExplosiveBarrel"
+	{
+		"en"		"Barril Explosivo"
+	}
+	
+	"FireworksCrate"
+	{
+		"en"		"Caja de Fuegos Artificiales"
+	}
+	
+	"Gascan"
+	{
+		"en"		"Lata de Gasolina"
+	}
+	
+	"Molotov"
+	{
+		"en"		"Molotov"
+	}
+	
+	"OxygenTank"
+	{
+		"en"		"Tanque de Oxigeno"
+	}
+	
+	"PipeBomb"
+	{
+		"en"		"Bomba Casera"
+	}
+	
+	"PropaneTank"
+	{
+		"en"		"Tanque de Propano"
+	}
+	
+	// Health Related
+	"FullHealth"
+	{
+		"en"		"Vida al Maximo"
+	}
+	
+	"Adrenaline"
+	{
+		"en"		"Adrenalina"
+	}
+	
+	"Defibrillator"
+	{
+		"en"		"Desfibrilador"
+	}
+	
+	"FirstAidKit"
+	{
+		"en"		"Botiquin de Primeros Auxilios"
+	}
+	
+	"PainPills"
+	{
+		"en"		"Pildoras"
+	}
+	
+	// Misc
+	"ChainSaw"
+	{
+		"en"		"Motocierra"
+	}
+	
+	"AmmoStack"
+	{
+		"en"		"Pila de Municiones"
+	}
+	
+	"Ammo"
+	{
+		"en"		"Recarga de Municion"
+	}
+	
+	"LaserSight"
+	{
+		"en"		"Laser"
+	}
+	
+	"ExplosiveAmmoPack"
+	{
+		"en"		"Paquete de Balas Explosivas"
+	}
+	
+	"ExplosiveAmmo"
+	{
+		"en"		"Balas Explosivas"
+	}
+	
+	"IncendiaryAmmoPack"
+	{
+		"en"		"Paquete de Balas Incendiarias"
+	}
+	
+	"IncendiaryAmmo"
+	{
+		"en"		"Balas Incendiarias"
+	}
+	
+	"VomitJar"
+	{
+		"en"		"Frasco de Vomito"
+	}
+	
+	"Gnome"
+	{
+		"en"		"Duende"
+	}
+	
+	"Cola"
+	{
+		"en"		"Botella de Cola"
+	}
+		
+	// Melee
+	"BaseballBat"
+	{
+		"en"		"Bate de Beisbol"
+	}
+	
+	"CricketBat"
+	{
+		"en"		"Bate de Crickect"
+	}
+	
+	"Crowbar"
+	{
+		"en"		"Palanca"
+	}
+	
+	"ElectricGuitar"
+	{
+		"en"		"Guitarra Electrica"
+	}
+	
+	"FireAxe"
+	{
+		"en"		"Hacha de Bomberos"
+	}
+	
+	"FryingPan"
+	{
+		"en"		"Sarten"
+	}
+	
+	"Katana"
+	{
+		"en"		"Katana"
+	}
+	
+	"Machete"
+	{
+		"en"		"Machete"
+	}
+	
+	"Tonfa"
+	{
+		"en"		"Tonfa"
+	}
+	
+	"Knife"
+	{
+		"en"		"Cuchillo"
+	}
+	
+	"Golfclub"
+	{
+		"en"		"Palo de Golf"
+	}
+	
+	"Riotshield"
+	{
+		"en"		"Escudio anti disturbios"
+	}
+
+	"MeleeWeapons"
+	{
+		"en"		"ARMAS DE MANO"
+	}
+}

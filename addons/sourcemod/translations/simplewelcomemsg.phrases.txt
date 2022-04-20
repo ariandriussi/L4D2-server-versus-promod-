@@ -1,0 +1,187 @@
+"Phrases"
+{
+	//Chat Messages
+	//Color list: http://forums.alliedmods.net/showthread.php?t=96831
+	"WelcomeMsg1"
+	{
+		"#format"	"{1:N}"
+		"en"		"{green}BIENVENIDO  {olive}{1}, {lightgreen}SI ESTAS AFK POR 90 SEGUNDOS {green} {lightgreen}EL SERVER EXPULSA AUTOMÁTICAMENTE."
+		"pl"		"{green}Witaj {olive}{1}! {lightgreen}Nie wstydź się! {green}Przywitaj {lightgreen}się z resztą graczy."
+	}
+	
+	"WelcomeMsg2"
+	{
+		"en"		"{green}Example Line {lightgreen}2"
+		"pl"		"{green}Przykładowa Linia {lightgreen}2"
+	}
+	
+	"WelcomeMsg3"
+	{
+		"en"		"{green}Example Line {lightgreen}3"
+		"pl"		"{green}Przykładowa Linia {lightgreen}3"
+	}
+	
+	"WelcomeMsg4"
+	{
+		"en"		"{green}Example Line {lightgreen}4"
+		"pl"		"{green}Przykładowa Linia {lightgreen}4"
+	}
+	
+	"WelcomeMsg5"
+	{
+		"en"		"{green}Example Line {lightgreen}5"
+		"pl"		"{green}Przykładowa Linia {lightgreen}5"
+	}
+	
+	"WelcomeMsg6"
+	{
+		"en"		"{green}Example Line {lightgreen}6"
+		"pl"		"{green}Przykładowa Linia {lightgreen}6"
+	}
+	
+	"WelcomeMsg7"
+	{
+		"en"		"{green}Example Line {lightgreen}7"
+		"pl"		"{green}Przykładowa Linia {lightgreen}7"
+	}
+	
+	"WelcomeMsg8"
+	{
+		"en"		"{green}Example Line {lightgreen}8"
+		"pl"		"{green}Przykładowa Linia {lightgreen}8"
+	}
+	
+	//Panel Messages
+	"PanelTitle"
+	{
+		"en"		"Bienvenido a Pro Mod"
+		"pl"		"Bienvenido a Pro Mod"
+	}
+	
+	"PanelClose"
+	{
+		"en"		"PARA CERRAR EL PANEL PRESIONE 0"
+		"pl"		"PARA CERRAR EL PANEL PRESIONE 0"
+	}
+	
+	"PanelLine1"
+	{
+		"en"		"1) SOLO PERMITIDO EXPULSAR Y CHAT GLOBAL, OTRA VOTACÍON EL SERVER KICKEA"
+		"pl"		"1) SOLO PERMITIDO EXPULSAR Y CHAT GLOBAL, OTRA VOTACÍON EL SERVER KICKEA"
+	}
+	
+	"PanelLine2"
+	{
+		"en"		"2) SOLO ARMAS T1 Y  PASTILLAS"
+		"pl"		"2) SOLO ARMAS T1 Y  PASTILLAS"
+	}
+	
+	"PanelLine3"
+	{
+		"en"		"3) EL TANK NO SE QUEMA"
+		"pl"		"3) EL TANK NO SE QUEMA"
+	}
+	
+	"PanelLine4"
+	{
+		"en"		"4) SOLO BOTIQUINES EN CADA INICIO DE CAPÍTULO"
+		"pl"		"4) SOLO BOTIQUINES EN CADA INICIO DE CAPÍTULO"
+	}
+	
+	"PanelLine5"
+	{
+		"en"		"5) ARMAS AL AZAR EN CADA INICIO DE RONDA A LOS 30 SEGUNDOS"
+		"pl"		"5) ARMAS AL AZAR EN CADA INICIO DE RONDA A LOS 30 SEGUNDOS"
+	}
+	
+	"PanelLine6"
+	{
+		"en"		"6) DIRECTOS DE ESTA PARTIDA Y DE OTROS GamePlays en >>> Facebook. com/FacturitaJuega <<<"
+		"pl"		"6) DIRECTOS DE ESTA PARTIDA Y DE OTROS GamePlays en >>> Facebook. com/FacturitaJuega <<<"
+	}
+	
+	"PanelLine7"
+	{
+		"en"		"7) "
+		"pl"		"7) "
+	}
+	
+	"PanelLine8"
+	{
+		"en"		"8) "
+		"pl"		"8) "
+	}
+	
+	"PanelLine9"
+	{
+		"en"		"9) "
+		"pl"		"9) "
+	}
+	
+	"PanelLine10"
+	{
+		"en"		"Example Line 10"
+		"pl"		"Przykładowa Linia 10"
+	}
+	
+	"PanelLine11"
+	{
+		"en"		"Example Line 11"
+		"pl"		"Przykładowa Linia 11"
+	}
+	
+	"PanelLine12"
+	{
+		"en"		"Example Line 12"
+		"pl"		"Przykładowa Linia 12"
+	}
+	
+	"PanelLine13"
+	{
+		"en"		"Example Line 13"
+		"pl"		"Przykładowa Linia 13"
+	}
+	
+	"PanelLine14"
+	{
+		"en"		"Example Line 14"
+		"pl"		"Przykładowa Linia 14"
+	}
+	
+	"PanelLine15"
+	{
+		"en"		"Example Line 15"
+		"pl"		"Przykładowa Linia 15"
+	}
+	
+	"PanelLine16"
+	{
+		"en"		"Example Line 16"
+		"pl"		"Przykładowa Linia 16"
+	}
+	//Hint Message
+	"HintMessage"
+	{
+		"en"		"Pro Mod"
+		"pl"		"Pro Mod"
+	}
+	
+	//Mod Detection
+	"Insurgency"
+	{
+		"en"		"Set the maximum number of lines for Insurgency mod."
+		"pl"		"Ustawiono maksymalną liczbę linii dla Insurgency."
+	}
+	
+	"L4D"
+	{
+		"en"		"Set the maximum number of lines for Left 4 Dead."
+		"pl"		"Ustawiono maksymalną liczbę linii dla Left 4 Dead."
+	}
+		
+	"Other"
+	{
+		"en"		"Set the maximum number of lines of."
+		"pl"		"Ustawiono maksymalną liczbę linii."
+	}
+}

@@ -1,0 +1,394 @@
+L 08/16/2020 - 00:07:31: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 00:07:31: [basecommands.smx] "Duяåznlто™<237><STEAM_1:1:4151444><>" kicked "elrey47322y<348><STEAM_1:1:544203322><>" (reason "")
+L 08/16/2020 - 00:10:50: -------- Mapchange to c5m4_quarter --------
+L 08/16/2020 - 00:19:32: [basecommands.smx] "Duяåznlто™<237><STEAM_1:1:4151444><>" kicked "ffrancc000<371><STEAM_1:0:560068782><>" (reason "")
+L 08/16/2020 - 00:33:21: -------- Mapchange to c5m5_bridge --------
+L 08/16/2020 - 00:39:22: Log file closed.
+L 08/16/2020 - 01:39:22: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 01:39:22: -------- Mapchange to c1m2_streets --------
+L 08/16/2020 - 01:39:27: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 01:39:27: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 01:39:46: [SM] Changed map to "c1m2_streets"
+L 08/16/2020 - 01:39:49: -------- Mapchange to c1m2_streets --------
+L 08/16/2020 - 01:41:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/16/2020 - 01:41:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/16/2020 - 01:41:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/16/2020 - 01:41:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/16/2020 - 01:41:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/16/2020 - 01:41:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/16/2020 - 01:41:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/16/2020 - 01:41:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 01:43:06: [admin_hp.smx] [TS] Adm Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 01:45:32: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Hunter<47><BOT><>"
+L 08/16/2020 - 01:45:32: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Coach<5><BOT><>"
+L 08/16/2020 - 01:45:32: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Ellis<6><BOT><>"
+L 08/16/2020 - 01:45:32: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Rochelle<19><BOT><>"
+L 08/16/2020 - 01:45:36: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 01:48:00: Log file closed.
+L 08/16/2020 - 03:52:12: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 03:52:12: -------- Mapchange to c1m2_streets --------
+L 08/16/2020 - 03:52:17: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 03:52:18: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 03:52:50: [SM] Changed map to "c1m2_streets"
+L 08/16/2020 - 03:53:05: -------- Mapchange to c1m2_streets --------
+L 08/16/2020 - 03:56:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/16/2020 - 03:56:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/16/2020 - 03:56:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/16/2020 - 03:56:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/16/2020 - 03:56:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/16/2020 - 03:56:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/16/2020 - 03:56:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/16/2020 - 04:08:20: Log file closed.
+L 08/16/2020 - 04:58:56: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 04:58:56: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 04:58:59: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 04:59:00: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 04:59:19: [SM] Changed map to "c1m1_hotel"
+L 08/16/2020 - 04:59:22: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 05:00:29: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Spawn Tankㅣ소환탱크<6><BOT><>"
+L 08/16/2020 - 05:03:40: [admin_hp.smx] [TS] Adm Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 05:04:44: Log file closed.
+L 08/16/2020 - 05:13:51: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 05:13:51: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 05:13:54: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 05:13:55: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 05:14:09: [SM] Changed map to "c1m1_hotel"
+L 08/16/2020 - 05:14:12: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 05:14:51: [admin_hp.smx] [TS] El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 05:15:04: [admin_hp.smx] [TS] El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 05:18:24: Log file closed.
+L 08/16/2020 - 05:30:43: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 05:30:43: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 05:30:46: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 05:30:46: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 05:31:00: [SM] Changed map to "c1m1_hotel"
+L 08/16/2020 - 05:31:03: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 05:34:18: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 05:38:07: Log file closed.
+L 08/16/2020 - 05:57:58: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 05:57:58: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 05:58:01: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 05:58:01: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 05:58:17: [SM] Changed map to "c1m1_hotel"
+L 08/16/2020 - 05:58:19: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 06:01:47: Log file closed.
+L 08/16/2020 - 06:19:33: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 06:19:33: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 06:19:36: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 06:19:36: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 06:19:50: [SM] Changed map to "c1m1_hotel"
+L 08/16/2020 - 06:19:52: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 06:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/16/2020 - 06:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/16/2020 - 06:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/16/2020 - 06:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/16/2020 - 06:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/16/2020 - 06:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/16/2020 - 06:24:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/16/2020 - 06:29:32: Log file closed.
+L 08/16/2020 - 06:48:57: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 06:48:57: -------- Mapchange to c1m2_streets --------
+L 08/16/2020 - 06:49:00: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 06:49:00: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 06:49:21: [SM] Changed map to "c1m2_streets"
+L 08/16/2020 - 06:49:31: -------- Mapchange to c1m2_streets --------
+L 08/16/2020 - 06:51:30: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 06:52:25: Log file closed.
+L 08/16/2020 - 07:05:53: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 07:05:53: -------- Mapchange to c8m5_rooftop --------
+L 08/16/2020 - 07:05:56: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 07:05:56: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 07:06:20: [SM] Changed map to "c8m5_rooftop"
+L 08/16/2020 - 07:06:22: -------- Mapchange to c8m5_rooftop --------
+L 08/16/2020 - 07:08:13: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:08:19: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:08:24: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:09:04: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:13:07: Log file closed.
+L 08/16/2020 - 07:19:07: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 07:19:07: -------- Mapchange to c8m5_rooftop --------
+L 08/16/2020 - 07:19:11: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 07:19:11: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 07:19:30: [SM] Changed map to "c8m5_rooftop"
+L 08/16/2020 - 07:19:32: -------- Mapchange to c8m5_rooftop --------
+L 08/16/2020 - 07:23:46: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:26:38: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:26:42: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:26:48: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:26:50: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:26:56: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:26:58: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:27:03: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:28:24: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Francis<3><BOT><>"
+L 08/16/2020 - 07:28:24: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Louis<4><BOT><>"
+L 08/16/2020 - 07:28:24: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Zoey<5><BOT><>"
+L 08/16/2020 - 07:28:25: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Bill<32><BOT><>"
+L 08/16/2020 - 07:31:03: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:31:59: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:32:02: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 07:33:32: Log file closed.
+L 08/16/2020 - 07:40:58: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 07:40:58: -------- Mapchange to c8m5_rooftop --------
+L 08/16/2020 - 07:41:01: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 07:41:02: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 07:41:23: [SM] Changed map to "c8m5_rooftop"
+L 08/16/2020 - 07:41:25: -------- Mapchange to c8m5_rooftop --------
+L 08/16/2020 - 07:43:09: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:12: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:13: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:14: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:14: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:14: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:15: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:15: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:15: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:15: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:16: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:16: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:16: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:16: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:17: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:17: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:17: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:18: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:18: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:18: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:19: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:19: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:19: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:20: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:20: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:20: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:20: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:21: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:21: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:21: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:21: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:22: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:22: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:23: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:23: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:23: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:24: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:24: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:24: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:24: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:25: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:25: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:25: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:25: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:26: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:26: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:26: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:27: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:27: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:27: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:27: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:28: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:28: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:28: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:28: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:29: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:29: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:29: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:29: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:30: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:30: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:30: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:30: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:31: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:31: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:31: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:31: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:31: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:32: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:32: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:32: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:33: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:33: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:33: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:33: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:34: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:34: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:34: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:34: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:34: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:35: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:35: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:35: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:35: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:36: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:36: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:36: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:37: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:37: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:37: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:37: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:38: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:38: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:38: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:39: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:39: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:39: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:39: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:40: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:40: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:40: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:41: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:41: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:41: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:41: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:41: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:42: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:42: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:42: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:42: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:43: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:43: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:43: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:43: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:43: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:44: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:44: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:43:44: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:45:46: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:45:49: [admin_hp.smx]  El Administrador Rain❤Delta Le Restauró la Vida a los Sobrevivientes al 100%
+L 08/16/2020 - 07:53:22: Log file closed.
+L 08/16/2020 - 17:13:06: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 17:13:06: -------- Mapchange to c11m1_greenhouse --------
+L 08/16/2020 - 17:13:13: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 17:13:14: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 17:13:38: [SM] Changed map to "c11m1_greenhouse"
+L 08/16/2020 - 17:13:46: -------- Mapchange to c11m1_greenhouse --------
+L 08/16/2020 - 17:15:49: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" kicked "azurzaherick<4><STEAM_1:1:530102963><>" (reason "")
+L 08/16/2020 - 17:20:43: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 17:20:47: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Bill<5><BOT><>"
+L 08/16/2020 - 17:23:16: -------- Mapchange to c11m2_offices --------
+L 08/16/2020 - 17:30:53: -------- Mapchange to c11m3_garage --------
+L 08/16/2020 - 17:32:08: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/16/2020 - 17:32:08: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/16/2020 - 17:32:08: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/16/2020 - 17:32:08: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/16/2020 - 17:32:08: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/16/2020 - 17:32:08: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/16/2020 - 17:32:08: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/16/2020 - 17:32:11: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 17:32:48: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/16/2020 - 17:36:50: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Mr. Humildad<118><STEAM_1:1:175818133><>"
+L 08/16/2020 - 17:36:54: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Dr.Fernet<91><STEAM_1:1:422211298><>"
+L 08/16/2020 - 17:45:57: -------- Mapchange to c11m4_terminal --------
+L 08/16/2020 - 17:57:16: [playercommands.smx] "Duяåznlто™<58><STEAM_1:1:4151444><>" slayed "Duяåznlто™<58><STEAM_1:1:4151444><>"
+L 08/16/2020 - 17:57:36: -------- Mapchange to c11m5_runway --------
+L 08/16/2020 - 18:02:54: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 18:06:49: -------- Mapchange to c12m1_hilltop --------
+L 08/16/2020 - 18:08:00: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/16/2020 - 18:10:11: [basecommands.smx] "Duяåznlто™<58><STEAM_1:1:4151444><>" kicked "digow<280><STEAM_1:1:53825331><>" (reason "")
+L 08/16/2020 - 18:12:55: -------- Mapchange to C12m2_traintunnel --------
+L 08/16/2020 - 18:16:04: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 18:16:17: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/16/2020 - 18:22:06: -------- Mapchange to C12m3_bridge --------
+L 08/16/2020 - 18:33:07: -------- Mapchange to C12m4_barn --------
+L 08/16/2020 - 18:43:03: -------- Mapchange to C12m5_cornfield --------
+L 08/16/2020 - 18:44:06: -------- Mapchange to c5m1_waterfront --------
+L 08/16/2020 - 18:50:07: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Delta❤Rain<3><STEAM_1:0:555087244><>"
+L 08/16/2020 - 18:50:09: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Duяåznlто™<58><STEAM_1:1:4151444><>"
+L 08/16/2020 - 18:50:12: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "saramaguiano<397><STEAM_1:0:215669954><>"
+L 08/16/2020 - 18:52:15: -------- Mapchange to c5m2_park --------
+L 08/16/2020 - 19:05:06: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed map to "c8m1_apartment"
+L 08/16/2020 - 19:05:09: [SM] Changed map to "c8m1_apartment"
+L 08/16/2020 - 19:05:19: -------- Mapchange to c8m1_apartment --------
+L 08/16/2020 - 19:10:43: [basecommands.smx] "Duяåznlто™<58><STEAM_1:1:4151444><>" kicked "Delta❤Rain<3><STEAM_1:0:555087244><>" (reason "")
+L 08/16/2020 - 19:10:49: [basebans.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" banned "Chama_369<488><STEAM_1:1:219136269><>" (minutes "0") (reason "afk")
+L 08/16/2020 - 19:11:36: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 19:11:39: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/16/2020 - 19:15:50: -------- Mapchange to c8m2_subway --------
+L 08/16/2020 - 19:16:53: [basebans.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" banned "saramaguiano<397><STEAM_1:0:215669954><>" (minutes "0") (reason "Speedhacking")
+L 08/16/2020 - 19:21:48: Log file closed.
+L 08/16/2020 - 19:26:03: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 19:26:03: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 19:26:07: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 19:26:08: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 19:26:21: [SM] Changed map to "c1m1_hotel"
+L 08/16/2020 - 19:26:24: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 19:27:35: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/16/2020 - 19:27:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/16/2020 - 19:27:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/16/2020 - 19:27:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/16/2020 - 19:27:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/16/2020 - 19:27:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/16/2020 - 19:27:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/16/2020 - 19:27:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/16/2020 - 19:30:55: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/16/2020 - 19:30:55: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/16/2020 - 19:30:55: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/16/2020 - 19:30:55: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/16/2020 - 19:30:55: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/16/2020 - 19:30:55: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/16/2020 - 19:30:55: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/16/2020 - 19:34:03: [basecommands.smx] "Duяåznlто™<4><STEAM_1:1:4151444><>" kicked "JORGE<43><STEAM_1:1:553839139><>" (reason "")
+L 08/16/2020 - 19:35:14: [playercommands.smx] "Duяåznlто™<4><STEAM_1:1:4151444><>" slayed "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 19:35:34: -------- Mapchange to c1m2_streets --------
+L 08/16/2020 - 19:47:39: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 19:51:09: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/16/2020 - 19:52:19: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" kicked "patoaaaj<75><STEAM_1:1:540670668><>" (reason "")
+L 08/16/2020 - 19:58:37: -------- Mapchange to c1m3_mall --------
+L 08/16/2020 - 20:14:13: -------- Mapchange to c1m4_atrium --------
+L 08/16/2020 - 20:15:31: [basebans.smx] "Duяåznlто™<4><STEAM_1:1:4151444><>" banned "HxmiguelxH<22><STEAM_1:1:550446191><>" (minutes "0") (reason "!admin")
+L 08/16/2020 - 20:31:42: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 20:32:55: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed map to "c2m1_highway"
+L 08/16/2020 - 20:32:58: [SM] Changed map to "c2m1_highway"
+L 08/16/2020 - 20:33:12: -------- Mapchange to c2m1_highway --------
+L 08/16/2020 - 20:50:36: -------- Mapchange to c2m2_fairgrounds --------
+L 08/16/2020 - 20:53:14: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 20:53:17: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/16/2020 - 21:10:15: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 21:10:20: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/16/2020 - 21:11:54: -------- Mapchange to c2m3_coaster --------
+L 08/16/2020 - 21:12:32: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 21:12:53: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/16/2020 - 21:22:26: -------- Mapchange to c2m4_barns --------
+L 08/16/2020 - 21:23:52: Log file closed.
+L 08/16/2020 - 21:51:14: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 21:51:14: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 21:51:17: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 21:51:18: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 21:51:30: [SM] Changed map to "c1m1_hotel"
+L 08/16/2020 - 21:51:33: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 21:56:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/16/2020 - 21:58:58: Log file closed.
+L 08/16/2020 - 23:07:44: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 23:07:44: -------- Mapchange to c8m5_rooftop --------
+L 08/16/2020 - 23:07:47: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 23:07:48: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 23:08:09: [SM] Changed map to "c8m5_rooftop"
+L 08/16/2020 - 23:08:11: -------- Mapchange to c8m5_rooftop --------
+L 08/16/2020 - 23:09:12: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 23:09:21: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 23:15:35: -------- Mapchange to c9m1_alleys --------
+L 08/16/2020 - 23:16:10: Log file closed.
+L 08/16/2020 - 23:43:47: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 23:43:47: -------- Mapchange to c1m2_streets --------
+L 08/16/2020 - 23:43:51: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 23:43:51: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 23:44:05: [SM] Changed map to "c1m2_streets"
+L 08/16/2020 - 23:44:08: -------- Mapchange to c1m2_streets --------
+L 08/16/2020 - 23:45:53: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 23:47:05: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/16/2020 - 23:47:33: -------- Mapchange to c1m3_mall --------
+L 08/16/2020 - 23:49:09: Log file closed.
+L 08/16/2020 - 23:50:37: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 23:50:37: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 23:50:40: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 23:50:41: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 23:50:51: [SM] Changed map to "c1m1_hotel"
+L 08/16/2020 - 23:50:54: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 23:52:49: -------- Mapchange to c1m4_atrium --------
+L 08/16/2020 - 23:53:39: Log file closed.
+L 08/16/2020 - 23:56:15: SourceMod log file session started (file "L20200816.log") (Version "1.8.0.6041")
+L 08/16/2020 - 23:56:15: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 23:56:18: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/16/2020 - 23:56:19: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/16/2020 - 23:56:30: [SM] Changed map to "c1m1_hotel"
+L 08/16/2020 - 23:56:32: -------- Mapchange to c1m1_hotel --------
+L 08/16/2020 - 23:57:28: -------- Mapchange to c1m4_atrium --------
+L 08/16/2020 - 23:59:05: Log file closed.

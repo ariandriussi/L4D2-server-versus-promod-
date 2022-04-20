@@ -1,0 +1,189 @@
+L 09/06/2020 - 00:09:39: SourceMod log file session started (file "L20200906.log") (Version "1.8.0.6041")
+L 09/06/2020 - 00:09:39: -------- Mapchange to c10m4_mainstreet --------
+L 09/06/2020 - 00:18:15: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed map to "c4m1_milltown_a"
+L 09/06/2020 - 00:18:18: [SM] Changed map to "c4m1_milltown_a"
+L 09/06/2020 - 00:18:25: -------- Mapchange to c4m1_milltown_a --------
+L 09/06/2020 - 00:28:57: SourceMod log file session started (file "L20200906.log") (Version "1.8.0.6041")
+L 09/06/2020 - 00:28:57: -------- Mapchange to c4m1_milltown_a --------
+L 09/06/2020 - 00:29:02: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/06/2020 - 00:29:03: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/06/2020 - 00:29:27: [SM] Changed map to "c4m1_milltown_a"
+L 09/06/2020 - 00:29:27: -------- Mapchange to c4m1_milltown_a --------
+L 09/06/2020 - 00:30:42: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/06/2020 - 00:30:42: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/06/2020 - 00:30:42: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/06/2020 - 00:30:42: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/06/2020 - 00:30:42: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/06/2020 - 00:30:42: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/06/2020 - 00:30:42: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/06/2020 - 00:30:42: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/06/2020 - 00:30:42: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/06/2020 - 00:30:45: [basecommands.smx] "Nicole<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/06/2020 - 00:41:19: -------- Mapchange to c4m2_sugarmill_a --------
+L 09/06/2020 - 01:08:28: -------- Mapchange to c4m3_sugarmill_b --------
+L 09/06/2020 - 01:22:56: -------- Mapchange to c4m4_milltown_b --------
+L 09/06/2020 - 01:34:47: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Arevalo74<126><STEAM_1:0:196519132><>"
+L 09/06/2020 - 01:35:09: -------- Mapchange to c4m5_milltown_escape --------
+L 09/06/2020 - 01:45:04: -------- Mapchange to c5m1_waterfront --------
+L 09/06/2020 - 01:50:14: [playercommands.smx] "Nicole<2><STEAM_1:0:162762726><>" slayed "Delta<104><STEAM_1:0:555087244><>"
+L 09/06/2020 - 01:54:52: -------- Mapchange to c5m2_park --------
+L 09/06/2020 - 02:10:18: -------- Mapchange to c5m3_cemetery --------
+L 09/06/2020 - 02:13:45: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" kicked "eliasianolivera27<259><STEAM_1:0:547836379><>" (reason "")
+L 09/06/2020 - 02:22:51: -------- Mapchange to c5m4_quarter --------
+L 09/06/2020 - 02:31:22: -------- Mapchange to c5m5_bridge --------
+L 09/06/2020 - 02:38:03: [basecommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_alltalk") (value "1")
+L 09/06/2020 - 02:43:08: Log file closed.
+L 09/06/2020 - 07:34:49: SourceMod log file session started (file "L20200906.log") (Version "1.8.0.6041")
+L 09/06/2020 - 07:34:49: -------- Mapchange to c1m2_streets --------
+L 09/06/2020 - 07:34:53: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/06/2020 - 07:34:53: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/06/2020 - 07:35:02: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/06/2020 - 07:35:11: [SM] Changed map to "c1m2_streets"
+L 09/06/2020 - 07:35:11: -------- Mapchange to c1m2_streets --------
+L 09/06/2020 - 07:35:13: [l4d2_ragecounter.smx] Versus or Scavenge not detected! Plugin Disabled
+L 09/06/2020 - 07:39:25: Log file closed.
+L 09/06/2020 - 17:45:13: SourceMod log file session started (file "L20200906.log") (Version "1.8.0.6041")
+L 09/06/2020 - 17:45:13: -------- Mapchange to c6m1_riverbank --------
+L 09/06/2020 - 17:45:18: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/06/2020 - 17:45:18: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/06/2020 - 17:45:42: [SM] Changed map to "c6m1_riverbank"
+L 09/06/2020 - 17:45:42: -------- Mapchange to c6m1_riverbank --------
+L 09/06/2020 - 17:47:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/06/2020 - 17:47:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/06/2020 - 17:47:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/06/2020 - 17:47:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/06/2020 - 17:47:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/06/2020 - 17:47:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/06/2020 - 17:47:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/06/2020 - 17:47:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/06/2020 - 17:47:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/06/2020 - 17:47:52: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/06/2020 - 17:47:53: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/06/2020 - 18:03:16: [basebans.smx] "Juanito<2><STEAM_1:0:162762726><>" banned "Vale_XD<59><STEAM_1:1:452586842><>" (minutes "0") (reason "Troll")
+L 09/06/2020 - 18:03:55: -------- Mapchange to c6m2_bedlam --------
+L 09/06/2020 - 18:18:12: -------- Mapchange to c6m3_port --------
+L 09/06/2020 - 18:28:06: [funcommands.smx] "Juanito<2><STEAM_1:0:162762726><>" toggled noclip on "Juanito<2><STEAM_1:0:162762726><>"
+L 09/06/2020 - 18:28:11: [funcommands.smx] "Juanito<2><STEAM_1:0:162762726><>" toggled noclip on "Juanito<2><STEAM_1:0:162762726><>"
+L 09/06/2020 - 18:30:17: -------- Mapchange to c7m1_docks --------
+L 09/06/2020 - 18:47:36: -------- Mapchange to c7m2_barge --------
+L 09/06/2020 - 18:58:41: -------- Mapchange to c8m1_apartment --------
+L 09/06/2020 - 18:59:19: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/06/2020 - 18:59:26: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/06/2020 - 18:59:59: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/06/2020 - 19:01:35: [playercommands.smx] "FaceLive/FacturitaJuega 🥐�<3><STEAM_1:1:522713982><>" slayed "slaYer<218><STEAM_1:1:484144443><>"
+L 09/06/2020 - 19:01:44: [admin_hp.smx]  
+L 09/06/2020 - 19:03:59: [basecommands.smx] "FaceLive/FacturitaJuega 🥐�<3><STEAM_1:1:522713982><>" kicked "slaYer<218><STEAM_1:1:484144443><>" (reason "")
+L 09/06/2020 - 19:08:45: -------- Mapchange to c8m2_subway --------
+L 09/06/2020 - 19:26:09: -------- Mapchange to c8m3_sewers --------
+L 09/06/2020 - 19:45:25: [playercommands.smx] "Juanito<2><STEAM_1:0:162762726><>" slayed "ＡＬＦＡ<256><STEAM_1:1:535496677><>"
+L 09/06/2020 - 19:45:48: -------- Mapchange to c8m4_interior --------
+L 09/06/2020 - 19:57:41: -------- Mapchange to c8m5_rooftop --------
+L 09/06/2020 - 20:08:40: -------- Mapchange to c9m1_alleys --------
+L 09/06/2020 - 20:09:32: -------- Mapchange to c5m1_waterfront --------
+L 09/06/2020 - 20:19:03: -------- Mapchange to c5m2_park --------
+L 09/06/2020 - 20:28:24: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/06/2020 - 20:28:24: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/06/2020 - 20:28:24: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/06/2020 - 20:28:24: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/06/2020 - 20:28:24: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/06/2020 - 20:28:24: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/06/2020 - 20:28:24: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/06/2020 - 20:28:24: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/06/2020 - 20:28:24: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/06/2020 - 20:28:25: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/06/2020 - 20:28:28: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/06/2020 - 20:36:54: -------- Mapchange to c5m3_cemetery --------
+L 09/06/2020 - 20:42:12: [basebans.smx] "Juanito<2><STEAM_1:0:162762726><>" banned "Pocoyo Trovador (se feliz)<397><STEAM_1:1:49759232><>" (minutes "0") (reason "Troll")
+L 09/06/2020 - 20:44:56: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/06/2020 - 20:55:40: -------- Mapchange to c5m4_quarter --------
+L 09/06/2020 - 20:56:25: Log file closed.
+L 09/06/2020 - 20:58:32: SourceMod log file session started (file "L20200906.log") (Version "1.8.0.6041")
+L 09/06/2020 - 20:58:32: -------- Mapchange to c11m1_greenhouse --------
+L 09/06/2020 - 20:58:35: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/06/2020 - 20:58:36: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/06/2020 - 20:58:56: [SM] Changed map to "c11m1_greenhouse"
+L 09/06/2020 - 20:59:03: -------- Mapchange to c11m1_greenhouse --------
+L 09/06/2020 - 21:07:58: [admin_hp.smx]  
+L 09/06/2020 - 21:08:05: [admin_hp.smx]  
+L 09/06/2020 - 21:08:06: [admin_hp.smx]  
+L 09/06/2020 - 21:08:07: [admin_hp.smx]  
+L 09/06/2020 - 21:08:09: [admin_hp.smx]  
+L 09/06/2020 - 21:08:10: [admin_hp.smx]  
+L 09/06/2020 - 21:08:10: [admin_hp.smx]  
+L 09/06/2020 - 21:08:11: [admin_hp.smx]  
+L 09/06/2020 - 21:08:11: [admin_hp.smx]  
+L 09/06/2020 - 21:08:12: [admin_hp.smx]  
+L 09/06/2020 - 21:08:13: [admin_hp.smx]  
+L 09/06/2020 - 21:08:13: [admin_hp.smx]  
+L 09/06/2020 - 21:08:13: [admin_hp.smx]  
+L 09/06/2020 - 21:08:14: [admin_hp.smx]  
+L 09/06/2020 - 21:08:15: [admin_hp.smx]  
+L 09/06/2020 - 21:08:15: [admin_hp.smx]  
+L 09/06/2020 - 21:08:16: [admin_hp.smx]  
+L 09/06/2020 - 21:08:16: [admin_hp.smx]  
+L 09/06/2020 - 21:08:17: [admin_hp.smx]  
+L 09/06/2020 - 21:08:17: [admin_hp.smx]  
+L 09/06/2020 - 21:08:17: [admin_hp.smx]  
+L 09/06/2020 - 21:08:18: [admin_hp.smx]  
+L 09/06/2020 - 21:08:19: [admin_hp.smx]  
+L 09/06/2020 - 21:08:21: [admin_hp.smx]  
+L 09/06/2020 - 21:08:22: [admin_hp.smx]  
+L 09/06/2020 - 21:08:23: [admin_hp.smx]  
+L 09/06/2020 - 21:08:23: [admin_hp.smx]  
+L 09/06/2020 - 21:08:24: [admin_hp.smx]  
+L 09/06/2020 - 21:08:25: [admin_hp.smx]  
+L 09/06/2020 - 21:08:26: [admin_hp.smx]  
+L 09/06/2020 - 21:08:26: [admin_hp.smx]  
+L 09/06/2020 - 21:08:27: [admin_hp.smx]  
+L 09/06/2020 - 21:08:27: [admin_hp.smx]  
+L 09/06/2020 - 21:08:28: [admin_hp.smx]  
+L 09/06/2020 - 21:08:30: [admin_hp.smx]  
+L 09/06/2020 - 21:08:31: [admin_hp.smx]  
+L 09/06/2020 - 21:08:40: [admin_hp.smx]  
+L 09/06/2020 - 21:08:42: [admin_hp.smx]  
+L 09/06/2020 - 21:08:44: [admin_hp.smx]  
+L 09/06/2020 - 21:08:59: [admin_hp.smx]  
+L 09/06/2020 - 21:09:06: [admin_hp.smx]  
+L 09/06/2020 - 21:09:16: [admin_hp.smx]  
+L 09/06/2020 - 21:09:24: [admin_hp.smx]  
+L 09/06/2020 - 21:09:32: [admin_hp.smx]  
+L 09/06/2020 - 21:09:42: [admin_hp.smx]  
+L 09/06/2020 - 21:09:45: [admin_hp.smx]  
+L 09/06/2020 - 21:09:47: [admin_hp.smx]  
+L 09/06/2020 - 21:09:54: [admin_hp.smx]  
+L 09/06/2020 - 21:12:17: -------- Mapchange to c11m2_offices --------
+L 09/06/2020 - 21:13:58: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed map to "c10m1_caves"
+L 09/06/2020 - 21:14:01: [SM] Changed map to "c10m1_caves"
+L 09/06/2020 - 21:14:11: -------- Mapchange to c10m1_caves --------
+L 09/06/2020 - 21:14:24: Log file closed.
+L 09/06/2020 - 21:33:54: SourceMod log file session started (file "L20200906.log") (Version "1.8.0.6041")
+L 09/06/2020 - 21:33:54: -------- Mapchange to c11m1_greenhouse --------
+L 09/06/2020 - 21:33:57: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/06/2020 - 21:33:57: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/06/2020 - 21:34:13: [SM] Changed map to "c11m1_greenhouse"
+L 09/06/2020 - 21:34:15: -------- Mapchange to c11m1_greenhouse --------
+L 09/06/2020 - 21:34:50: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/06/2020 - 21:34:51: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/06/2020 - 21:34:51: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/06/2020 - 21:34:51: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/06/2020 - 21:34:51: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/06/2020 - 21:34:51: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/06/2020 - 21:34:51: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/06/2020 - 21:34:51: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/06/2020 - 21:34:51: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/06/2020 - 21:34:52: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/06/2020 - 21:34:54: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/06/2020 - 21:37:44: [basebans.smx] "Juanito<2><STEAM_1:0:162762726><>" banned "Vale_XD<20><STEAM_1:1:452586842><>" (minutes "0") (reason "Troll")
+L 09/06/2020 - 21:42:38: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed map to "c10m1_caves"
+L 09/06/2020 - 21:42:41: [SM] Changed map to "c10m1_caves"
+L 09/06/2020 - 21:42:45: -------- Mapchange to c10m1_caves --------
+L 09/06/2020 - 21:49:23: [basecommands.smx] "Juanito<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/06/2020 - 21:57:39: -------- Mapchange to c10m2_drainage --------
+L 09/06/2020 - 21:58:37: Log file closed.
+L 09/06/2020 - 22:10:36: SourceMod log file session started (file "L20200906.log") (Version "1.8.0.6041")
+L 09/06/2020 - 22:10:36: -------- Mapchange to c10m1_caves --------
+L 09/06/2020 - 22:10:39: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/06/2020 - 22:10:39: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/06/2020 - 22:10:55: [SM] Changed map to "c10m1_caves"
+L 09/06/2020 - 22:10:56: -------- Mapchange to c10m1_caves --------
+L 09/06/2020 - 22:12:56: Log file closed.

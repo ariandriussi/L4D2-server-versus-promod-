@@ -1,0 +1,34 @@
+L 08/14/2020 - 00:11:12: SourceMod log file session started (file "L20200814.log") (Version "1.8.0.6041")
+L 08/14/2020 - 00:11:12: Log file closed.
+L 08/14/2020 - 05:12:34: SourceMod log file session started (file "L20200814.log") (Version "1.8.0.6041")
+L 08/14/2020 - 05:12:34: -------- Mapchange to c1m1_hotel --------
+L 08/14/2020 - 05:12:39: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/14/2020 - 05:12:40: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/14/2020 - 05:12:56: [SM] Changed map to "c1m1_hotel"
+L 08/14/2020 - 05:12:59: -------- Mapchange to c1m1_hotel --------
+L 08/14/2020 - 05:16:45: Log file closed.
+L 08/14/2020 - 05:40:14: SourceMod log file session started (file "L20200814.log") (Version "1.8.0.6041")
+L 08/14/2020 - 05:40:14: -------- Mapchange to c1m2_streets --------
+L 08/14/2020 - 05:40:17: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/14/2020 - 05:40:17: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/14/2020 - 05:40:31: [SM] Changed map to "c1m2_streets"
+L 08/14/2020 - 05:40:34: -------- Mapchange to c1m2_streets --------
+L 08/14/2020 - 05:41:53: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Rochelle<3><BOT><>"
+L 08/14/2020 - 06:10:23: -------- Mapchange to c1m1_hotel --------
+L 08/14/2020 - 06:14:36: [basecommands.smx] "Rain❤Delta<54><STEAM_1:0:162762726><>" changed map to "c5m5_bridge"
+L 08/14/2020 - 06:14:39: [SM] Changed map to "c5m5_bridge"
+L 08/14/2020 - 06:14:47: -------- Mapchange to c5m5_bridge --------
+L 08/14/2020 - 06:17:33: Log file closed.
+L 08/14/2020 - 06:40:51: SourceMod log file session started (file "L20200814.log") (Version "1.8.0.6041")
+L 08/14/2020 - 06:40:51: -------- Mapchange to c8m4_interior --------
+L 08/14/2020 - 06:40:54: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/14/2020 - 06:40:54: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/14/2020 - 06:41:17: [SM] Changed map to "c8m4_interior"
+L 08/14/2020 - 06:41:19: -------- Mapchange to c8m4_interior --------
+L 08/14/2020 - 06:41:40: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/14/2020 - 06:43:35: [funcommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" toggled noclip on "Rain❤Delta<2><STEAM_1:0:162762726><>"
+L 08/14/2020 - 06:50:24: Log file closed.
+L 08/14/2020 - 20:07:34: SourceMod log file session started (file "L20200814.log") (Version "1.8.0.6041")
+L 08/14/2020 - 20:07:34: Log file closed.
+L 08/14/2020 - 23:32:56: SourceMod log file session started (file "L20200814.log") (Version "1.8.0.6041")
+L 08/14/2020 - 23:32:56: Log file closed.

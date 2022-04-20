@@ -1,0 +1,59 @@
+"Phrases" 
+{
+	"L4D2C1"
+	{
+		"en" "Punto Muerto"
+	}
+	"L4D2C2"
+	{
+		"en" "Feria Siniestra"
+	}
+	"L4D2C3"
+	{
+		"en" "Pantanos"
+	}
+	"L4D2C4"
+	{
+		"en" "El Diluvio"
+	}
+	"L4D2C5"
+	{
+		"en" "La Parroquia"
+	}
+	"L4D2C6"
+	{
+		"en" "Defunción"
+	}
+	"L4D2C7"
+	{
+		"en" "El Sacrificio"
+	}
+	"L4D2C8"
+	{
+		"en" "Alta Médica"
+	}
+	"L4D2C9"
+	{
+		"en" "Terapia de Choque"
+	}
+	"L4D2C10"
+	{
+		"en" "Toque de Difuntos"
+	}
+	"L4D2C11"
+	{
+		"en" "Último Vuelo"
+	}
+	"L4D2C12"
+	{
+		"en" "Cosecha de Sangre"
+	}
+	"L4D2C13"
+	{
+		"en" "Aguas Turbulentas"
+	}
+	"L4D2C14"
+	{
+		"en" "La Batalla Final"
+	}
+}

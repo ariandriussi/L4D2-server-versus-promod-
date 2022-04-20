@@ -1,0 +1,103 @@
+﻿"Phrases"
+{
+	"Change map advertise"
+	{
+		"#format"		"{1:s}"
+		"en"			"Escriba {1} en el chat para iniciar una votación para la próxima campaña."
+	}
+	"Map vote advertise"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"			"Para votar por el siguiente mapa, escriba: {1}\n Para ver todos los votos, escriba: {2}"
+	}	
+	
+	"Choose a Map"
+	{
+		"en"			"Elija el Próximo Mapa"
+	}
+	"Choose a Mission"
+	{
+		"en"			"Elija la Próxima Batalla"
+	}
+	"I dont care" {
+		"en"			"No Elegir"
+	}
+	"All maps" {
+		"en"			"Todos los Mapas"
+	}
+	
+	"Campaign finished"
+	{
+		"#format"		"{1:s}"
+		"en"			"La Campaña de {1} ha Finalizado"
+	}
+	"Switching campaign to"
+	{
+		"#format"		"{1:s}"
+		"en"			"La Próxima Batalla será en {1}."
+	}
+	"Switching map to"
+	{
+		"#format"		"{1:s}"
+		"en"			"Cambiando Mapa a {1}."
+	}	
+	"Switching to the vote winner"
+	{
+		"#format"		"{1:s}"
+		"en"			"Cambiar al ganador del voto: {1}."
+	}
+	
+	"Map is now winning the vote"
+	{
+		"#format"		"{1:s}"
+		"en"			"El Mapa {1} Está Ganando la Votación"
+	}
+	"Mission is now winning the vote"
+	{
+		"#format"		"{1:s}"
+		"en"			"La Campaña {1} Está Ganando la Votación"
+	}
+	"No one has voted yet" {
+		"en"			"Nadie ha votado todavía."
+	}
+	"Voting is disable" {
+		"en"			"Voting has been disabled on this server."
+	}
+	"Voting is not available" {
+		"en"			"Voting is only enabled on a Scavenge or finale map."
+	}
+	"Votes" {
+		"en"			"Votos"
+	}
+	"You did not vote" {
+		"#format"		"{1:s}"
+		"en"			"No votó.\nTo Para votar, escriba: {1}"
+	}
+	"You voted for" {
+		"#format"		"{1:s},{2:s},{3:s}"
+		"en"			"Votaste por {1}.\n- Puedes Cambiar tu Voto Escribiendo: {2}\n- Puedes Ver el Voto Ganador Escribiendo: {3}"	
+	}
+	
+	
+	"The next map is currently"
+	{
+		"#format"		"{1:s}"
+		"en"			"El Siguiente Mapa está Actualmente: {1}."
+	}
+	"The next campaign is currently"
+	{
+		"#format"		"{1:s}"
+		"en"			"La Siguiente Batalla será en: {1}."
+	}
+
+	"The next map will be one of"
+	{
+		"#format"		"{1:s}"
+		"en"			"El Siguiente Mapa Será uno de: {1}."
+	}
+	"The next campaign will be one of"
+	{
+		"#format"		"{1:s}"
+		"en"			"La Próxima Campaña Será una de: {1}."
+	}
+}

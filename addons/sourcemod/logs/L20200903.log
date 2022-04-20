@@ -1,0 +1,88 @@
+L 09/03/2020 - 00:11:53: SourceMod log file session started (file "L20200903.log") (Version "1.8.0.6041")
+L 09/03/2020 - 00:11:53: -------- Mapchange to c2m2_fairgrounds --------
+L 09/03/2020 - 00:22:40: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Nick<310><BOT><>"
+L 09/03/2020 - 00:34:01: -------- Mapchange to c2m3_coaster --------
+L 09/03/2020 - 00:44:55: -------- Mapchange to c2m4_barns --------
+L 09/03/2020 - 00:46:05: [basecomm.smx] "FaceLive:FacturitaJuega ü•êüé<4><STEAM_1:1:522713982><>" gagged "Joker<361><STEAM_1:0:559678924><>"
+L 09/03/2020 - 01:03:25: -------- Mapchange to c2m5_concert --------
+L 09/03/2020 - 01:15:29: -------- Mapchange to c3m1_plankcountry --------
+L 09/03/2020 - 01:15:48: Log file closed.
+L 09/03/2020 - 22:37:41: SourceMod log file session started (file "L20200903.log") (Version "1.8.0.6041")
+L 09/03/2020 - 22:37:41: -------- Mapchange to c5m1_waterfront --------
+L 09/03/2020 - 22:37:45: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/03/2020 - 22:37:45: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/03/2020 - 22:38:05: [SM] Changed map to "c5m1_waterfront"
+L 09/03/2020 - 22:38:05: -------- Mapchange to c5m1_waterfront --------
+L 09/03/2020 - 22:38:55: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/03/2020 - 22:38:55: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/03/2020 - 22:38:55: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/03/2020 - 22:38:55: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/03/2020 - 22:38:55: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/03/2020 - 22:38:55: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/03/2020 - 22:38:55: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/03/2020 - 22:38:55: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/03/2020 - 22:38:56: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/03/2020 - 22:48:12: -------- Mapchange to c5m2_park --------
+L 09/03/2020 - 22:59:03: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed map to "c11m1_greenhouse"
+L 09/03/2020 - 22:59:06: [SM] Changed map to "c11m1_greenhouse"
+L 09/03/2020 - 22:59:11: -------- Mapchange to c11m1_greenhouse --------
+L 09/03/2020 - 23:03:15: Log file closed.
+L 09/03/2020 - 23:05:54: SourceMod log file session started (file "L20200903.log") (Version "1.8.0.6041")
+L 09/03/2020 - 23:05:54: -------- Mapchange to c11m1_greenhouse --------
+L 09/03/2020 - 23:05:56: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/03/2020 - 23:05:56: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/03/2020 - 23:06:05: [SM] Changed map to "c11m1_greenhouse"
+L 09/03/2020 - 23:06:05: -------- Mapchange to c11m1_greenhouse --------
+L 09/03/2020 - 23:07:09: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/03/2020 - 23:07:09: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/03/2020 - 23:07:09: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/03/2020 - 23:07:09: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/03/2020 - 23:07:09: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/03/2020 - 23:07:09: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/03/2020 - 23:07:09: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/03/2020 - 23:07:09: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/03/2020 - 23:07:09: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/03/2020 - 23:12:22: -------- Mapchange to c11m2_offices --------
+L 09/03/2020 - 23:12:55: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/03/2020 - 23:32:08: -------- Mapchange to c11m3_garage --------
+L 09/03/2020 - 23:34:18: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/03/2020 - 23:42:57: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed map to "c10m1_caves"
+L 09/03/2020 - 23:43:00: [SM] Changed map to "c10m1_caves"
+L 09/03/2020 - 23:43:04: -------- Mapchange to c10m1_caves --------
+L 09/03/2020 - 23:44:55: Log file closed.
+L 09/03/2020 - 23:47:40: SourceMod log file session started (file "L20200903.log") (Version "1.8.0.6041")
+L 09/03/2020 - 23:47:40: -------- Mapchange to c1m1_hotel --------
+L 09/03/2020 - 23:47:42: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/03/2020 - 23:47:42: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/03/2020 - 23:47:52: [SM] Changed map to "c1m1_hotel"
+L 09/03/2020 - 23:47:52: -------- Mapchange to c1m1_hotel --------
+L 09/03/2020 - 23:49:24: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/03/2020 - 23:49:24: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/03/2020 - 23:49:24: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/03/2020 - 23:49:24: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/03/2020 - 23:49:24: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/03/2020 - 23:49:24: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/03/2020 - 23:49:24: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/03/2020 - 23:49:24: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/03/2020 - 23:49:24: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/03/2020 - 23:49:25: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/03/2020 - 23:50:55: [admin_hp.smx]  
+L 09/03/2020 - 23:50:55: [admin_hp.smx]  
+L 09/03/2020 - 23:56:50: SourceMod log file session started (file "L20200903.log") (Version "1.8.0.6041")
+L 09/03/2020 - 23:56:50: -------- Mapchange to c2m1_highway --------
+L 09/03/2020 - 23:56:52: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/03/2020 - 23:56:52: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/03/2020 - 23:57:04: [SM] Changed map to "c2m1_highway"
+L 09/03/2020 - 23:57:04: -------- Mapchange to c2m1_highway --------
+L 09/03/2020 - 23:57:47: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/03/2020 - 23:57:47: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/03/2020 - 23:57:47: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/03/2020 - 23:57:47: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/03/2020 - 23:57:47: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/03/2020 - 23:57:47: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/03/2020 - 23:57:47: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/03/2020 - 23:57:47: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/03/2020 - 23:57:47: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/03/2020 - 23:57:49: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/03/2020 - 23:57:52: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/03/2020 - 23:57:54: [basecommands.smx] "Alessandra<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")

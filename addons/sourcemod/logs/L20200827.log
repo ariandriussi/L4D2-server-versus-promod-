@@ -1,0 +1,48 @@
+L 08/27/2020 - 15:35:09: SourceMod log file session started (file "L20200827.log") (Version "1.8.0.6041")
+L 08/27/2020 - 15:35:09: -------- Mapchange to c5m1_waterfront --------
+L 08/27/2020 - 15:35:15: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/27/2020 - 15:35:15: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/27/2020 - 15:35:38: [SM] Changed map to "c5m1_waterfront"
+L 08/27/2020 - 15:35:41: -------- Mapchange to c5m1_waterfront --------
+L 08/27/2020 - 15:36:34: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/27/2020 - 15:36:34: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/27/2020 - 15:36:34: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/27/2020 - 15:36:34: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/27/2020 - 15:36:34: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/27/2020 - 15:36:34: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/27/2020 - 15:36:34: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/27/2020 - 15:36:38: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/27/2020 - 15:36:39: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/27/2020 - 15:43:53: Log file closed.
+L 08/27/2020 - 15:47:47: SourceMod log file session started (file "L20200827.log") (Version "1.8.0.6041")
+L 08/27/2020 - 15:47:47: -------- Mapchange to c5m1_waterfront --------
+L 08/27/2020 - 15:47:50: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/27/2020 - 15:47:50: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/27/2020 - 15:47:56: [SM] Changed map to "c5m1_waterfront"
+L 08/27/2020 - 15:47:59: -------- Mapchange to c5m1_waterfront --------
+L 08/27/2020 - 15:49:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/27/2020 - 15:49:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/27/2020 - 15:49:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 08/27/2020 - 15:49:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/27/2020 - 15:49:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/27/2020 - 15:49:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 08/27/2020 - 15:49:40: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/27/2020 - 15:57:11: [playercommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" slayed "Delta❤Rain<3><STEAM_1:0:555087244><>"
+L 08/27/2020 - 15:57:28: -------- Mapchange to c5m2_park --------
+L 08/27/2020 - 15:58:50: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/27/2020 - 15:58:56: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/27/2020 - 16:00:04: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 08/27/2020 - 16:02:10: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 08/27/2020 - 16:08:49: -------- Mapchange to c11m1_greenhouse --------
+L 08/27/2020 - 16:13:53: [basebans.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" banned "Gato llorando<146><STEAM_1:1:515523244><>" (minutes "0") (reason "Troll")
+L 08/27/2020 - 16:19:56: -------- Mapchange to c11m2_offices --------
+L 08/27/2020 - 16:32:42: -------- Mapchange to c11m3_garage --------
+L 08/27/2020 - 16:46:59: -------- Mapchange to c11m4_terminal --------
+L 08/27/2020 - 17:00:44: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" kicked "meno_meno<247><STEAM_1:0:560795719><>" (reason "")
+L 08/27/2020 - 17:00:52: -------- Mapchange to c11m5_runway --------
+L 08/27/2020 - 17:10:12: -------- Mapchange to c12m1_hilltop --------
+L 08/27/2020 - 17:16:28: [basecommands.smx] "Rain❤Delta<2><STEAM_1:0:162762726><>" changed map to "c5m1_waterfront"
+L 08/27/2020 - 17:16:31: [SM] Changed map to "c5m1_waterfront"
+L 08/27/2020 - 17:16:36: -------- Mapchange to c5m1_waterfront --------
+L 08/27/2020 - 17:24:30: -------- Mapchange to c5m2_park --------
+L 08/27/2020 - 17:25:26: Log file closed.

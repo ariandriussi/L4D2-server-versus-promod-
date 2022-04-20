@@ -1,0 +1,1984 @@
+L 04/19/2022 - 21:45:09: SourceMod error session started
+L 04/19/2022 - 21:45:09: Info (map "c3m1_plankcountry") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 21:45:09: [SM] Exception reported: Can't find 'bIsDominator' signature!
+L 04/19/2022 - 21:45:09: [SM] Blaming: l4d2_dominatorscontrol.smx
+L 04/19/2022 - 21:45:09: [SM] Call stack trace:
+L 04/19/2022 - 21:45:09: [SM]   [0] SetFailState
+L 04/19/2022 - 21:45:09: [SM]   [1] Line 32, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_dominatorscontrol.sp::OnPluginStart
+L 04/19/2022 - 21:45:09: [SM] Unable to load plugin "l4d2_dominatorscontrol.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 21:45:09: [SM] Unable to load plugin "l4d2_fix_spawn_order.smx": Could not find required plugin "l4d2lib"
+L 04/19/2022 - 21:45:09: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 21:45:09: [SM] Unable to load plugin "l4d2_m2_control_eq.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 21:45:09: [SM] Unable to load plugin "l4d2_no_hunter_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 21:45:09: [SM] Unable to load plugin "l4d2_saferoom_item_remove.smx": Could not find required plugin "l4d2util"
+L 04/19/2022 - 21:45:09: [SM] Error parsing gameconfig file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\gamedata\l4d2_zcs.txt":
+L 04/19/2022 - 21:45:09: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 04/19/2022 - 21:45:09: [SM] Exception reported: Unable to open l4d2_zcs: File could not be opened: The system cannot find the file specified.
+
+L 04/19/2022 - 21:45:09: [SM] Blaming: l4d2_swapduringtank.smx
+L 04/19/2022 - 21:45:09: [SM] Call stack trace:
+L 04/19/2022 - 21:45:09: [SM]   [0] LoadGameConfigFile
+L 04/19/2022 - 21:45:09: [SM]   [1] Line 207, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::Sub_HookGameData
+L 04/19/2022 - 21:45:09: [SM]   [2] Line 65, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::OnPluginStart
+L 04/19/2022 - 21:45:09: [SM] Unable to load plugin "l4d2_swapduringtank.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 21:45:09: [acs.smx] Mission "Left4Duluth" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:45:09: [acs.smx] Mission "BaysideGenocide" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:45:09: [acs.smx] Mission "BlackMesa" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:45:09: [acs.smx] Mission "Left4Duluth" (Gamemode: versus) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:45:09: [acs.smx] Mission "Left4Duluth" (Gamemode: survival) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 21:45:09: [admin-flatfile.smx]  (line 79) Section beginning without a matching ending
+L 04/19/2022 - 21:45:12: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 21:45:12: [SM] Blaming: CrowAnnoyingItemRemover.smx
+L 04/19/2022 - 21:45:12: [SM] Call stack trace:
+L 04/19/2022 - 21:45:12: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 21:45:12: [SM]   [1] Line 218, /home/groups/alliedmodders/forums/files/6/4/6/8/8/54855.attach::Event_RoundStart
+L 04/19/2022 - 21:45:12: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 21:45:12: [SM] Blaming: ispirto.smx
+L 04/19/2022 - 21:45:12: [SM] Call stack trace:
+L 04/19/2022 - 21:45:12: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 21:45:12: [SM]   [1] Line 325, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePluginRealism
+L 04/19/2022 - 21:45:12: [SM]   [2] Line 93, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePlugin
+L 04/19/2022 - 21:45:14: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 21:45:14: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 21:45:14: [SM] Call stack trace:
+L 04/19/2022 - 21:45:14: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 21:45:14: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 21:45:14: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 21:45:43: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 21:45:43: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 21:45:43: [SM] Call stack trace:
+L 04/19/2022 - 21:45:43: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 21:45:43: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 21:45:43: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 21:46:56: Error log file session closed.
+L 04/19/2022 - 21:55:17: SourceMod error session started
+L 04/19/2022 - 21:55:17: Info (map "c3m1_plankcountry") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 21:55:17: [SM] Exception reported: Can't find 'bIsDominator' signature!
+L 04/19/2022 - 21:55:17: [SM] Blaming: l4d2_dominatorscontrol.smx
+L 04/19/2022 - 21:55:17: [SM] Call stack trace:
+L 04/19/2022 - 21:55:17: [SM]   [0] SetFailState
+L 04/19/2022 - 21:55:17: [SM]   [1] Line 32, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_dominatorscontrol.sp::OnPluginStart
+L 04/19/2022 - 21:55:17: [SM] Unable to load plugin "l4d2_dominatorscontrol.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 21:55:17: [SM] Unable to load plugin "l4d2_fix_spawn_order.smx": Could not find required plugin "l4d2lib"
+L 04/19/2022 - 21:55:17: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 21:55:17: [SM] Unable to load plugin "l4d2_m2_control_eq.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 21:55:17: [SM] Unable to load plugin "l4d2_no_hunter_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 21:55:17: [SM] Unable to load plugin "l4d2_saferoom_item_remove.smx": Could not find required plugin "l4d2util"
+L 04/19/2022 - 21:55:17: [SM] Error parsing gameconfig file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\gamedata\l4d2_zcs.txt":
+L 04/19/2022 - 21:55:17: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 04/19/2022 - 21:55:17: [SM] Exception reported: Unable to open l4d2_zcs: File could not be opened: The system cannot find the file specified.
+
+L 04/19/2022 - 21:55:17: [SM] Blaming: l4d2_swapduringtank.smx
+L 04/19/2022 - 21:55:17: [SM] Call stack trace:
+L 04/19/2022 - 21:55:17: [SM]   [0] LoadGameConfigFile
+L 04/19/2022 - 21:55:17: [SM]   [1] Line 207, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::Sub_HookGameData
+L 04/19/2022 - 21:55:17: [SM]   [2] Line 65, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::OnPluginStart
+L 04/19/2022 - 21:55:17: [SM] Unable to load plugin "l4d2_swapduringtank.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 21:55:17: [acs.smx] Mission "Left4Duluth" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:55:17: [acs.smx] Mission "BaysideGenocide" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:55:17: [acs.smx] Mission "BlackMesa" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:55:17: [acs.smx] Mission "Left4Duluth" (Gamemode: versus) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:55:17: [acs.smx] Mission "Left4Duluth" (Gamemode: survival) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 21:55:17: [admin-flatfile.smx]  (line 79) Section beginning without a matching ending
+L 04/19/2022 - 21:55:20: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 21:55:20: [SM] Blaming: CrowAnnoyingItemRemover.smx
+L 04/19/2022 - 21:55:20: [SM] Call stack trace:
+L 04/19/2022 - 21:55:20: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 21:55:20: [SM]   [1] Line 218, /home/groups/alliedmodders/forums/files/6/4/6/8/8/54855.attach::Event_RoundStart
+L 04/19/2022 - 21:55:20: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 21:55:20: [SM] Blaming: ispirto.smx
+L 04/19/2022 - 21:55:20: [SM] Call stack trace:
+L 04/19/2022 - 21:55:20: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 21:55:20: [SM]   [1] Line 325, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePluginRealism
+L 04/19/2022 - 21:55:20: [SM]   [2] Line 93, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePlugin
+L 04/19/2022 - 21:55:21: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 21:55:21: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 21:55:21: [SM] Call stack trace:
+L 04/19/2022 - 21:55:21: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 21:55:21: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 21:55:21: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 21:55:48: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 21:55:48: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 21:55:48: [SM] Call stack trace:
+L 04/19/2022 - 21:55:48: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 21:55:48: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 21:55:48: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 21:57:47: Error log file session closed.
+L 04/19/2022 - 22:01:11: SourceMod error session started
+L 04/19/2022 - 22:01:11: Info (map "c2m1_highway") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 22:01:11: [SM] Exception reported: Can't find 'bIsDominator' signature!
+L 04/19/2022 - 22:01:11: [SM] Blaming: l4d2_dominatorscontrol.smx
+L 04/19/2022 - 22:01:11: [SM] Call stack trace:
+L 04/19/2022 - 22:01:11: [SM]   [0] SetFailState
+L 04/19/2022 - 22:01:11: [SM]   [1] Line 32, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_dominatorscontrol.sp::OnPluginStart
+L 04/19/2022 - 22:01:11: [SM] Unable to load plugin "l4d2_dominatorscontrol.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 22:01:11: [SM] Unable to load plugin "l4d2_fix_spawn_order.smx": Could not find required plugin "l4d2lib"
+L 04/19/2022 - 22:01:11: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:01:11: [SM] Unable to load plugin "l4d2_m2_control_eq.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:01:11: [SM] Unable to load plugin "l4d2_no_hunter_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:01:11: [SM] Unable to load plugin "l4d2_saferoom_item_remove.smx": Could not find required plugin "l4d2util"
+L 04/19/2022 - 22:01:11: [SM] Error parsing gameconfig file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\gamedata\l4d2_zcs.txt":
+L 04/19/2022 - 22:01:11: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 04/19/2022 - 22:01:11: [SM] Exception reported: Unable to open l4d2_zcs: File could not be opened: The system cannot find the file specified.
+
+L 04/19/2022 - 22:01:11: [SM] Blaming: l4d2_swapduringtank.smx
+L 04/19/2022 - 22:01:11: [SM] Call stack trace:
+L 04/19/2022 - 22:01:11: [SM]   [0] LoadGameConfigFile
+L 04/19/2022 - 22:01:11: [SM]   [1] Line 207, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::Sub_HookGameData
+L 04/19/2022 - 22:01:11: [SM]   [2] Line 65, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::OnPluginStart
+L 04/19/2022 - 22:01:11: [SM] Unable to load plugin "l4d2_swapduringtank.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 22:01:11: [acs.smx] Mission "Left4Duluth" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:01:11: [acs.smx] Mission "BaysideGenocide" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:01:11: [acs.smx] Mission "BlackMesa" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:01:11: [acs.smx] Mission "Left4Duluth" (Gamemode: versus) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:01:11: [acs.smx] Mission "Left4Duluth" (Gamemode: survival) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 22:01:11: [admin-flatfile.smx]  (line 79) Section beginning without a matching ending
+L 04/19/2022 - 22:01:14: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 22:01:14: [SM] Blaming: CrowAnnoyingItemRemover.smx
+L 04/19/2022 - 22:01:14: [SM] Call stack trace:
+L 04/19/2022 - 22:01:14: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 22:01:14: [SM]   [1] Line 218, /home/groups/alliedmodders/forums/files/6/4/6/8/8/54855.attach::Event_RoundStart
+L 04/19/2022 - 22:01:14: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 22:01:14: [SM] Blaming: ispirto.smx
+L 04/19/2022 - 22:01:14: [SM] Call stack trace:
+L 04/19/2022 - 22:01:14: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 22:01:14: [SM]   [1] Line 283, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePluginRealism
+L 04/19/2022 - 22:01:14: [SM]   [2] Line 93, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePlugin
+L 04/19/2022 - 22:01:15: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:01:15: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:01:15: [SM] Call stack trace:
+L 04/19/2022 - 22:01:15: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:01:15: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:01:15: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:01:26: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:01:26: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:01:26: [SM] Call stack trace:
+L 04/19/2022 - 22:01:26: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:01:26: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:01:26: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:02:15: Error log file session closed.
+L 04/19/2022 - 22:02:15: SourceMod error session started
+L 04/19/2022 - 22:02:15: Info (map "c2m1_highway") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 22:02:15: [admin-flatfile.smx]  (line 79) Section beginning without a matching ending
+L 04/19/2022 - 22:02:18: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:02:18: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:02:18: [SM] Call stack trace:
+L 04/19/2022 - 22:02:18: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:02:18: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:02:18: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:02:29: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:02:29: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:02:29: [SM] Call stack trace:
+L 04/19/2022 - 22:02:29: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:02:29: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:02:29: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:03:34: Error log file session closed.
+L 04/19/2022 - 22:09:34: SourceMod error session started
+L 04/19/2022 - 22:09:34: Info (map "c3m1_plankcountry") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 22:09:34: [SM] Exception reported: Can't find 'bIsDominator' signature!
+L 04/19/2022 - 22:09:34: [SM] Blaming: l4d2_dominatorscontrol.smx
+L 04/19/2022 - 22:09:34: [SM] Call stack trace:
+L 04/19/2022 - 22:09:34: [SM]   [0] SetFailState
+L 04/19/2022 - 22:09:34: [SM]   [1] Line 32, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_dominatorscontrol.sp::OnPluginStart
+L 04/19/2022 - 22:09:34: [SM] Unable to load plugin "l4d2_dominatorscontrol.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 22:09:34: [SM] Unable to load plugin "l4d2_fix_spawn_order.smx": Could not find required plugin "l4d2lib"
+L 04/19/2022 - 22:09:34: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:09:34: [SM] Unable to load plugin "l4d2_m2_control_eq.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:09:34: [SM] Unable to load plugin "l4d2_no_hunter_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:09:34: [SM] Unable to load plugin "l4d2_saferoom_item_remove.smx": Could not find required plugin "l4d2util"
+L 04/19/2022 - 22:09:34: [SM] Error parsing gameconfig file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\gamedata\l4d2_zcs.txt":
+L 04/19/2022 - 22:09:34: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 04/19/2022 - 22:09:34: [SM] Exception reported: Unable to open l4d2_zcs: File could not be opened: The system cannot find the file specified.
+
+L 04/19/2022 - 22:09:34: [SM] Blaming: l4d2_swapduringtank.smx
+L 04/19/2022 - 22:09:34: [SM] Call stack trace:
+L 04/19/2022 - 22:09:34: [SM]   [0] LoadGameConfigFile
+L 04/19/2022 - 22:09:34: [SM]   [1] Line 207, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::Sub_HookGameData
+L 04/19/2022 - 22:09:34: [SM]   [2] Line 65, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::OnPluginStart
+L 04/19/2022 - 22:09:34: [SM] Unable to load plugin "l4d2_swapduringtank.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 22:09:35: [acs.smx] Mission "Left4Duluth" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:09:35: [acs.smx] Mission "BaysideGenocide" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:09:35: [acs.smx] Mission "BlackMesa" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:09:35: [acs.smx] Mission "Left4Duluth" (Gamemode: versus) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:09:35: [acs.smx] Mission "Left4Duluth" (Gamemode: survival) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 22:09:35: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 22:09:37: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 22:09:37: [SM] Blaming: CrowAnnoyingItemRemover.smx
+L 04/19/2022 - 22:09:37: [SM] Call stack trace:
+L 04/19/2022 - 22:09:37: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 22:09:37: [SM]   [1] Line 218, /home/groups/alliedmodders/forums/files/6/4/6/8/8/54855.attach::Event_RoundStart
+L 04/19/2022 - 22:09:37: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 22:09:37: [SM] Blaming: ispirto.smx
+L 04/19/2022 - 22:09:37: [SM] Call stack trace:
+L 04/19/2022 - 22:09:37: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 22:09:37: [SM]   [1] Line 325, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePluginRealism
+L 04/19/2022 - 22:09:37: [SM]   [2] Line 93, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePlugin
+L 04/19/2022 - 22:09:38: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:09:38: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:09:38: [SM] Call stack trace:
+L 04/19/2022 - 22:09:38: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:09:38: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:09:38: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:09:49: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:09:49: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:09:49: [SM] Call stack trace:
+L 04/19/2022 - 22:09:49: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:09:49: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:09:49: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:12:09: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:12:09: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:12:09: [SM] Call stack trace:
+L 04/19/2022 - 22:12:09: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:12:09: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:12:09: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:13:25: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 22:13:25: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:13:25: [SM] Call stack trace:
+L 04/19/2022 - 22:13:25: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:13:25: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:13:25: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:13:27: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:13:27: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:13:27: [SM] Call stack trace:
+L 04/19/2022 - 22:13:27: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:13:27: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:13:27: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 22:15:16: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 22:15:33: Error log file session closed.
+L 04/19/2022 - 22:15:33: SourceMod error session started
+L 04/19/2022 - 22:15:33: Info (map "c1m1_hotel") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 22:15:33: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 22:15:35: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:15:35: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:15:35: [SM] Call stack trace:
+L 04/19/2022 - 22:15:35: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:15:35: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:15:35: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:15:44: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:15:44: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:15:44: [SM] Call stack trace:
+L 04/19/2022 - 22:15:44: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:15:44: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:15:44: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:16:04: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 22:16:04: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:16:04: [SM] Call stack trace:
+L 04/19/2022 - 22:16:04: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:16:04: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:16:04: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:16:13: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 22:16:13: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:16:13: [SM] Call stack trace:
+L 04/19/2022 - 22:16:13: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:16:13: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:16:13: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:18:38: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:18:38: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:18:38: [SM] Call stack trace:
+L 04/19/2022 - 22:18:38: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:18:38: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:18:38: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:18:45: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:18:45: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:18:45: [SM] Call stack trace:
+L 04/19/2022 - 22:18:45: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:18:45: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:18:45: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:21:37: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:21:37: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:21:37: [SM] Call stack trace:
+L 04/19/2022 - 22:21:37: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:21:37: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:21:37: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:21:40: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 22:21:40: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:21:40: [SM] Call stack trace:
+L 04/19/2022 - 22:21:40: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:21:40: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:21:40: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:21:56: Error log file session closed.
+L 04/19/2022 - 22:22:30: SourceMod error session started
+L 04/19/2022 - 22:22:30: Info (map "c2m1_highway") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 22:22:30: [SM] Exception reported: Can't find 'bIsDominator' signature!
+L 04/19/2022 - 22:22:30: [SM] Blaming: l4d2_dominatorscontrol.smx
+L 04/19/2022 - 22:22:30: [SM] Call stack trace:
+L 04/19/2022 - 22:22:30: [SM]   [0] SetFailState
+L 04/19/2022 - 22:22:30: [SM]   [1] Line 32, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_dominatorscontrol.sp::OnPluginStart
+L 04/19/2022 - 22:22:30: [SM] Unable to load plugin "l4d2_dominatorscontrol.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 22:22:30: [SM] Unable to load plugin "l4d2_fix_spawn_order.smx": Could not find required plugin "l4d2lib"
+L 04/19/2022 - 22:22:30: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:22:30: [SM] Unable to load plugin "l4d2_m2_control_eq.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:22:31: [SM] Unable to load plugin "l4d2_no_hunter_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:22:31: [SM] Unable to load plugin "l4d2_saferoom_item_remove.smx": Could not find required plugin "l4d2util"
+L 04/19/2022 - 22:22:31: [SM] Error parsing gameconfig file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\gamedata\l4d2_zcs.txt":
+L 04/19/2022 - 22:22:31: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 04/19/2022 - 22:22:31: [SM] Exception reported: Unable to open l4d2_zcs: File could not be opened: The system cannot find the file specified.
+
+L 04/19/2022 - 22:22:31: [SM] Blaming: l4d2_swapduringtank.smx
+L 04/19/2022 - 22:22:31: [SM] Call stack trace:
+L 04/19/2022 - 22:22:31: [SM]   [0] LoadGameConfigFile
+L 04/19/2022 - 22:22:31: [SM]   [1] Line 207, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::Sub_HookGameData
+L 04/19/2022 - 22:22:31: [SM]   [2] Line 65, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::OnPluginStart
+L 04/19/2022 - 22:22:31: [SM] Unable to load plugin "l4d2_swapduringtank.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 22:22:31: [acs.smx] Mission "Left4Duluth" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:22:31: [acs.smx] Mission "BaysideGenocide" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:22:31: [acs.smx] Mission "BlackMesa" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:22:31: [acs.smx] Mission "Left4Duluth" (Gamemode: versus) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:22:31: [acs.smx] Mission "Left4Duluth" (Gamemode: survival) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 22:22:31: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 22:22:33: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 22:22:33: [SM] Blaming: CrowAnnoyingItemRemover.smx
+L 04/19/2022 - 22:22:33: [SM] Call stack trace:
+L 04/19/2022 - 22:22:33: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 22:22:33: [SM]   [1] Line 218, /home/groups/alliedmodders/forums/files/6/4/6/8/8/54855.attach::Event_RoundStart
+L 04/19/2022 - 22:22:33: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 22:22:33: [SM] Blaming: ispirto.smx
+L 04/19/2022 - 22:22:33: [SM] Call stack trace:
+L 04/19/2022 - 22:22:33: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 22:22:33: [SM]   [1] Line 283, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePluginRealism
+L 04/19/2022 - 22:22:33: [SM]   [2] Line 93, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePlugin
+L 04/19/2022 - 22:22:34: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:22:34: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:22:34: [SM] Call stack trace:
+L 04/19/2022 - 22:22:34: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:22:34: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:22:34: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:22:46: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:22:46: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:22:46: [SM] Call stack trace:
+L 04/19/2022 - 22:22:46: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:22:46: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:22:46: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:23:55: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:23:55: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:23:55: [SM] Call stack trace:
+L 04/19/2022 - 22:23:55: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:23:55: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:23:55: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:25:01: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 22:25:01: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:25:01: [SM] Call stack trace:
+L 04/19/2022 - 22:25:01: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:25:01: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:25:01: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:26:01: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:26:01: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:26:01: [SM] Call stack trace:
+L 04/19/2022 - 22:26:01: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:26:01: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:26:01: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:26:32: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 22:26:32: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:26:32: [SM] Call stack trace:
+L 04/19/2022 - 22:26:32: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:26:32: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:26:32: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:27:04: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 22:27:04: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:27:04: [SM] Call stack trace:
+L 04/19/2022 - 22:27:04: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:27:04: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:27:04: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:27:49: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 22:27:49: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:27:49: [SM] Call stack trace:
+L 04/19/2022 - 22:27:49: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:27:49: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:27:49: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:28:47: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:28:47: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:28:47: [SM] Call stack trace:
+L 04/19/2022 - 22:28:47: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:28:47: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:28:47: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:29:51: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:29:51: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:29:51: [SM] Call stack trace:
+L 04/19/2022 - 22:29:51: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:29:51: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:29:51: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:35:15: Error log file session closed.
+L 04/19/2022 - 22:35:15: SourceMod error session started
+L 04/19/2022 - 22:35:15: Info (map "c2m1_highway") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 22:35:15: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 22:35:18: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:35:18: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:35:18: [SM] Call stack trace:
+L 04/19/2022 - 22:35:18: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:35:18: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:35:18: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:35:54: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:35:54: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:35:54: [SM] Call stack trace:
+L 04/19/2022 - 22:35:54: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:35:54: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:35:54: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:36:14: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:36:14: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:36:14: [SM] Call stack trace:
+L 04/19/2022 - 22:36:14: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:36:14: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:36:14: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:37:23: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 22:37:23: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:37:23: [SM] Call stack trace:
+L 04/19/2022 - 22:37:23: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:37:23: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:37:23: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:37:24: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:37:24: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:37:24: [SM] Call stack trace:
+L 04/19/2022 - 22:37:24: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:37:24: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:37:24: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:39:11: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 22:39:11: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:39:11: [SM] Call stack trace:
+L 04/19/2022 - 22:39:11: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:39:11: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:39:11: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:39:26: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 22:39:26: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:39:26: [SM] Call stack trace:
+L 04/19/2022 - 22:39:26: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:39:26: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:39:26: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:39:53: Error log file session closed.
+L 04/19/2022 - 22:40:52: SourceMod error session started
+L 04/19/2022 - 22:40:52: Info (map "c5m1_waterfront") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 22:40:52: [SM] Exception reported: Can't find 'bIsDominator' signature!
+L 04/19/2022 - 22:40:52: [SM] Blaming: l4d2_dominatorscontrol.smx
+L 04/19/2022 - 22:40:52: [SM] Call stack trace:
+L 04/19/2022 - 22:40:52: [SM]   [0] SetFailState
+L 04/19/2022 - 22:40:52: [SM]   [1] Line 32, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_dominatorscontrol.sp::OnPluginStart
+L 04/19/2022 - 22:40:52: [SM] Unable to load plugin "l4d2_dominatorscontrol.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 22:40:52: [SM] Unable to load plugin "l4d2_fix_spawn_order.smx": Could not find required plugin "l4d2lib"
+L 04/19/2022 - 22:40:52: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:40:52: [SM] Unable to load plugin "l4d2_m2_control_eq.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:40:52: [SM] Unable to load plugin "l4d2_no_hunter_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 22:40:52: [SM] Unable to load plugin "l4d2_saferoom_item_remove.smx": Could not find required plugin "l4d2util"
+L 04/19/2022 - 22:40:52: [SM] Error parsing gameconfig file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\gamedata\l4d2_zcs.txt":
+L 04/19/2022 - 22:40:52: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 04/19/2022 - 22:40:52: [SM] Exception reported: Unable to open l4d2_zcs: File could not be opened: The system cannot find the file specified.
+
+L 04/19/2022 - 22:40:52: [SM] Blaming: l4d2_swapduringtank.smx
+L 04/19/2022 - 22:40:52: [SM] Call stack trace:
+L 04/19/2022 - 22:40:52: [SM]   [0] LoadGameConfigFile
+L 04/19/2022 - 22:40:52: [SM]   [1] Line 207, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::Sub_HookGameData
+L 04/19/2022 - 22:40:52: [SM]   [2] Line 65, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::OnPluginStart
+L 04/19/2022 - 22:40:52: [SM] Unable to load plugin "l4d2_swapduringtank.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 22:40:52: [acs.smx] Mission "Left4Duluth" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:40:52: [acs.smx] Mission "BaysideGenocide" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:40:52: [acs.smx] Mission "BlackMesa" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:40:52: [acs.smx] Mission "Left4Duluth" (Gamemode: versus) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:40:52: [acs.smx] Mission "Left4Duluth" (Gamemode: survival) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 22:40:52: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 22:40:55: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 22:40:55: [SM] Blaming: CrowAnnoyingItemRemover.smx
+L 04/19/2022 - 22:40:55: [SM] Call stack trace:
+L 04/19/2022 - 22:40:55: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 22:40:55: [SM]   [1] Line 218, /home/groups/alliedmodders/forums/files/6/4/6/8/8/54855.attach::Event_RoundStart
+L 04/19/2022 - 22:40:55: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 22:40:55: [SM] Blaming: ispirto.smx
+L 04/19/2022 - 22:40:55: [SM] Call stack trace:
+L 04/19/2022 - 22:40:55: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 22:40:55: [SM]   [1] Line 283, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePluginRealism
+L 04/19/2022 - 22:40:55: [SM]   [2] Line 93, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePlugin
+L 04/19/2022 - 22:40:55: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:40:55: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:40:55: [SM] Call stack trace:
+L 04/19/2022 - 22:40:55: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:40:55: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:40:55: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:41:45: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:41:45: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:41:45: [SM] Call stack trace:
+L 04/19/2022 - 22:41:45: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:41:45: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:41:45: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:43:33: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 22:43:33: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:43:33: [SM] Call stack trace:
+L 04/19/2022 - 22:43:33: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:43:33: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:43:33: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:44:06: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 22:44:06: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:44:06: [SM] Call stack trace:
+L 04/19/2022 - 22:44:06: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:44:06: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:44:06: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:44:34: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 22:44:34: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:44:34: [SM] Call stack trace:
+L 04/19/2022 - 22:44:34: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:44:34: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:44:34: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:44:57: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 22:44:57: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:44:57: [SM] Call stack trace:
+L 04/19/2022 - 22:44:57: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:44:57: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:44:57: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:45:36: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 22:45:36: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:45:36: [SM] Call stack trace:
+L 04/19/2022 - 22:45:36: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:45:36: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:45:36: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:46:26: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:46:26: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:46:26: [SM] Call stack trace:
+L 04/19/2022 - 22:46:26: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:46:26: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:46:26: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:46:26: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:46:26: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:46:26: [SM] Call stack trace:
+L 04/19/2022 - 22:46:26: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:46:26: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:46:26: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:46:51: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 22:46:51: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:46:51: [SM] Call stack trace:
+L 04/19/2022 - 22:46:51: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:46:51: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:46:51: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:49:09: [SM] Exception reported: Invalid timer handle 82b30334 (error 1)
+L 04/19/2022 - 22:49:09: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:49:09: [SM] Call stack trace:
+L 04/19/2022 - 22:49:09: [SM]   [0] KillTimer
+L 04/19/2022 - 22:49:09: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:49:18: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 22:49:18: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:49:18: [SM] Call stack trace:
+L 04/19/2022 - 22:49:18: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:49:18: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:49:18: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:49:27: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 22:49:27: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:49:27: [SM] Call stack trace:
+L 04/19/2022 - 22:49:27: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:49:27: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:49:27: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:50:00: [SM] Exception reported: Invalid timer handle 82b30334 (error 1)
+L 04/19/2022 - 22:50:00: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:50:00: [SM] Call stack trace:
+L 04/19/2022 - 22:50:00: [SM]   [0] KillTimer
+L 04/19/2022 - 22:50:00: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:50:34: [SM] Exception reported: Invalid timer handle 82b30334 (error 1)
+L 04/19/2022 - 22:50:34: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:50:34: [SM] Call stack trace:
+L 04/19/2022 - 22:50:34: [SM]   [0] KillTimer
+L 04/19/2022 - 22:50:34: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:51:09: [SM] Exception reported: Invalid timer handle 82b30334 (error 3)
+L 04/19/2022 - 22:51:09: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:51:09: [SM] Call stack trace:
+L 04/19/2022 - 22:51:09: [SM]   [0] KillTimer
+L 04/19/2022 - 22:51:09: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:51:17: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:51:17: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:51:17: [SM] Call stack trace:
+L 04/19/2022 - 22:51:17: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:51:17: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:51:17: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:51:43: [SM] Exception reported: Invalid timer handle b2de02e8 (error 1)
+L 04/19/2022 - 22:51:43: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:51:43: [SM] Call stack trace:
+L 04/19/2022 - 22:51:43: [SM]   [0] KillTimer
+L 04/19/2022 - 22:51:43: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:52:13: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 22:52:13: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:52:13: [SM] Call stack trace:
+L 04/19/2022 - 22:52:13: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:52:13: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:52:13: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:52:16: [SM] Exception reported: Invalid timer handle b2de02e8 (error 1)
+L 04/19/2022 - 22:52:16: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:52:16: [SM] Call stack trace:
+L 04/19/2022 - 22:52:16: [SM]   [0] KillTimer
+L 04/19/2022 - 22:52:16: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:52:21: [SM] Exception reported: Invalid timer handle 82b30334 (error 3)
+L 04/19/2022 - 22:52:21: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:52:21: [SM] Call stack trace:
+L 04/19/2022 - 22:52:21: [SM]   [0] KillTimer
+L 04/19/2022 - 22:52:21: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:52:30: [SM] Exception reported: Invalid timer handle af2a02e4 (error 3)
+L 04/19/2022 - 22:52:30: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:52:30: [SM] Call stack trace:
+L 04/19/2022 - 22:52:30: [SM]   [0] KillTimer
+L 04/19/2022 - 22:52:30: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:52:43: [SM] Exception reported: Invalid timer handle b2de02e8 (error 1)
+L 04/19/2022 - 22:52:43: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:52:43: [SM] Call stack trace:
+L 04/19/2022 - 22:52:43: [SM]   [0] KillTimer
+L 04/19/2022 - 22:52:43: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:52:58: [SM] Exception reported: Invalid timer handle af2a02e4 (error 1)
+L 04/19/2022 - 22:52:58: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:52:58: [SM] Call stack trace:
+L 04/19/2022 - 22:52:58: [SM]   [0] KillTimer
+L 04/19/2022 - 22:52:58: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:53:02: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:53:02: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:53:02: [SM] Call stack trace:
+L 04/19/2022 - 22:53:02: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:53:02: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:53:02: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:53:21: [SM] Exception reported: Invalid timer handle b2de02e8 (error 3)
+L 04/19/2022 - 22:53:21: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:53:21: [SM] Call stack trace:
+L 04/19/2022 - 22:53:21: [SM]   [0] KillTimer
+L 04/19/2022 - 22:53:21: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:53:21: [SM] Exception reported: Invalid timer handle af2a02e4 (error 1)
+L 04/19/2022 - 22:53:21: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:53:21: [SM] Call stack trace:
+L 04/19/2022 - 22:53:21: [SM]   [0] KillTimer
+L 04/19/2022 - 22:53:21: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:53:21: [SM] Exception reported: Invalid timer handle b73302e6 (error 3)
+L 04/19/2022 - 22:53:21: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:53:21: [SM] Call stack trace:
+L 04/19/2022 - 22:53:21: [SM]   [0] KillTimer
+L 04/19/2022 - 22:53:21: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:53:23: Error log file session closed.
+L 04/19/2022 - 22:53:23: SourceMod error session started
+L 04/19/2022 - 22:53:23: Info (map "c5m2_park") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 22:53:23: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 22:53:26: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:53:26: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:53:26: [SM] Call stack trace:
+L 04/19/2022 - 22:53:26: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:53:26: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:53:26: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:53:36: [SM] Exception reported: Invalid timer handle b2de02e8 (error 3)
+L 04/19/2022 - 22:53:36: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:53:36: [SM] Call stack trace:
+L 04/19/2022 - 22:53:36: [SM]   [0] KillTimer
+L 04/19/2022 - 22:53:36: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:53:36: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 22:53:36: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 22:53:36: [SM] Call stack trace:
+L 04/19/2022 - 22:53:36: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 22:53:36: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 22:53:36: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 22:53:38: [SM] Exception reported: Invalid timer handle af2a02e4 (error 3)
+L 04/19/2022 - 22:53:38: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:53:38: [SM] Call stack trace:
+L 04/19/2022 - 22:53:38: [SM]   [0] KillTimer
+L 04/19/2022 - 22:53:38: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:53:56: [SM] Exception reported: Client 3 is not in game
+L 04/19/2022 - 22:53:56: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:53:56: [SM] Call stack trace:
+L 04/19/2022 - 22:53:56: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:53:56: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:53:56: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:54:10: [SM] Exception reported: Client 3 is not in game
+L 04/19/2022 - 22:54:10: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:54:10: [SM] Call stack trace:
+L 04/19/2022 - 22:54:10: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:54:10: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:54:10: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:54:10: [SM] Exception reported: Client 2 is not in game
+L 04/19/2022 - 22:54:10: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:54:10: [SM] Call stack trace:
+L 04/19/2022 - 22:54:10: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:54:10: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:54:10: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:55:02: [SM] Exception reported: Invalid timer handle af2a02e4 (error 3)
+L 04/19/2022 - 22:55:02: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:55:02: [SM] Call stack trace:
+L 04/19/2022 - 22:55:02: [SM]   [0] KillTimer
+L 04/19/2022 - 22:55:02: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:55:14: [SM] Exception reported: Invalid timer handle 82b30334 (error 3)
+L 04/19/2022 - 22:55:14: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:55:14: [SM] Call stack trace:
+L 04/19/2022 - 22:55:14: [SM]   [0] KillTimer
+L 04/19/2022 - 22:55:14: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:55:30: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 22:55:30: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:55:30: [SM] Call stack trace:
+L 04/19/2022 - 22:55:30: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:55:30: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:55:30: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:55:30: [SM] Exception reported: Invalid timer handle af2a02e4 (error 3)
+L 04/19/2022 - 22:55:30: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:55:30: [SM] Call stack trace:
+L 04/19/2022 - 22:55:30: [SM]   [0] KillTimer
+L 04/19/2022 - 22:55:30: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:56:23: [SM] Exception reported: Invalid timer handle af2a02e4 (error 3)
+L 04/19/2022 - 22:56:23: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:56:23: [SM] Call stack trace:
+L 04/19/2022 - 22:56:23: [SM]   [0] KillTimer
+L 04/19/2022 - 22:56:23: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:56:23: [SM] Exception reported: Client 3 is not in game
+L 04/19/2022 - 22:56:23: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:56:23: [SM] Call stack trace:
+L 04/19/2022 - 22:56:23: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:56:23: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:56:23: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:57:17: [SM] Exception reported: Invalid timer handle af2a02e4 (error 3)
+L 04/19/2022 - 22:57:17: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:57:17: [SM] Call stack trace:
+L 04/19/2022 - 22:57:17: [SM]   [0] KillTimer
+L 04/19/2022 - 22:57:17: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:57:31: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 22:57:31: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:57:31: [SM] Call stack trace:
+L 04/19/2022 - 22:57:31: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:57:31: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:57:31: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:57:37: [SM] Exception reported: Invalid timer handle af2a02e4 (error 3)
+L 04/19/2022 - 22:57:37: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:57:37: [SM] Call stack trace:
+L 04/19/2022 - 22:57:37: [SM]   [0] KillTimer
+L 04/19/2022 - 22:57:37: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:57:54: [SM] Exception reported: Invalid timer handle af2a02e4 (error 3)
+L 04/19/2022 - 22:57:54: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:57:54: [SM] Call stack trace:
+L 04/19/2022 - 22:57:54: [SM]   [0] KillTimer
+L 04/19/2022 - 22:57:54: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:58:08: [SM] Exception reported: Invalid timer handle af2a02e4 (error 1)
+L 04/19/2022 - 22:58:08: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:58:08: [SM] Call stack trace:
+L 04/19/2022 - 22:58:08: [SM]   [0] KillTimer
+L 04/19/2022 - 22:58:08: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:58:09: [SM] Exception reported: Invalid timer handle aae9033e (error 3)
+L 04/19/2022 - 22:58:09: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:58:09: [SM] Call stack trace:
+L 04/19/2022 - 22:58:09: [SM]   [0] KillTimer
+L 04/19/2022 - 22:58:09: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:58:17: [SM] Exception reported: Client 3 is not in game
+L 04/19/2022 - 22:58:17: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:58:17: [SM] Call stack trace:
+L 04/19/2022 - 22:58:17: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:58:17: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:58:17: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:58:47: [SM] Exception reported: Client 10 is not in game
+L 04/19/2022 - 22:58:47: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:58:47: [SM] Call stack trace:
+L 04/19/2022 - 22:58:47: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:58:47: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:58:47: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:58:53: [SM] Exception reported: Invalid timer handle aae9033e (error 3)
+L 04/19/2022 - 22:58:53: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:58:53: [SM] Call stack trace:
+L 04/19/2022 - 22:58:53: [SM]   [0] KillTimer
+L 04/19/2022 - 22:58:53: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:59:36: [SM] Exception reported: Invalid timer handle aae9033e (error 3)
+L 04/19/2022 - 22:59:36: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 22:59:36: [SM] Call stack trace:
+L 04/19/2022 - 22:59:36: [SM]   [0] KillTimer
+L 04/19/2022 - 22:59:36: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 22:59:46: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 22:59:46: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:59:46: [SM] Call stack trace:
+L 04/19/2022 - 22:59:46: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:59:46: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:59:46: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 22:59:46: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 22:59:46: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 22:59:46: [SM] Call stack trace:
+L 04/19/2022 - 22:59:46: [SM]   [0] PrintHintText
+L 04/19/2022 - 22:59:46: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 22:59:46: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:00:02: [SM] Exception reported: Invalid timer handle aae9033e (error 3)
+L 04/19/2022 - 23:00:02: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:00:02: [SM] Call stack trace:
+L 04/19/2022 - 23:00:02: [SM]   [0] KillTimer
+L 04/19/2022 - 23:00:02: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:01:08: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 23:01:08: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:01:08: [SM] Call stack trace:
+L 04/19/2022 - 23:01:08: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:01:08: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:01:08: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:02:18: [SM] Exception reported: Invalid timer handle aae9033e (error 1)
+L 04/19/2022 - 23:02:18: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:02:18: [SM] Call stack trace:
+L 04/19/2022 - 23:02:18: [SM]   [0] KillTimer
+L 04/19/2022 - 23:02:18: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:02:18: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:02:18: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:02:18: [SM] Call stack trace:
+L 04/19/2022 - 23:02:18: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:02:18: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:02:18: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:02:19: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:02:19: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:02:19: [SM] Call stack trace:
+L 04/19/2022 - 23:02:19: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:02:19: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:02:19: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:02:28: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 23:02:28: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:02:28: [SM] Call stack trace:
+L 04/19/2022 - 23:02:28: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:02:28: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:02:28: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:04:33: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 23:04:33: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:04:33: [SM] Call stack trace:
+L 04/19/2022 - 23:04:33: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:04:33: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:04:33: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:05:21: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 23:05:21: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:05:21: [SM] Call stack trace:
+L 04/19/2022 - 23:05:21: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:05:21: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:05:21: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:06:09: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 23:06:09: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:06:09: [SM] Call stack trace:
+L 04/19/2022 - 23:06:09: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:06:09: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:06:09: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:06:57: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 23:06:57: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:06:57: [SM] Call stack trace:
+L 04/19/2022 - 23:06:57: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:06:57: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:06:57: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:07:05: [SM] Exception reported: Client 10 is not in game
+L 04/19/2022 - 23:07:05: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:07:05: [SM] Call stack trace:
+L 04/19/2022 - 23:07:05: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:07:05: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:07:05: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:07:40: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 23:07:40: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:07:40: [SM] Call stack trace:
+L 04/19/2022 - 23:07:40: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:07:40: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:07:40: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:08:27: [SM] Exception reported: Invalid timer handle 455b0343 (error 3)
+L 04/19/2022 - 23:08:27: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:08:27: [SM] Call stack trace:
+L 04/19/2022 - 23:08:27: [SM]   [0] KillTimer
+L 04/19/2022 - 23:08:27: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:08:59: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 23:08:59: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:08:59: [SM] Call stack trace:
+L 04/19/2022 - 23:08:59: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:08:59: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:08:59: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:09:12: [SM] Exception reported: Invalid timer handle 5f2a032d (error 1)
+L 04/19/2022 - 23:09:12: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:09:12: [SM] Call stack trace:
+L 04/19/2022 - 23:09:12: [SM]   [0] KillTimer
+L 04/19/2022 - 23:09:12: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:09:14: Error log file session closed.
+L 04/19/2022 - 23:09:15: SourceMod error session started
+L 04/19/2022 - 23:09:15: Info (map "c5m3_cemetery") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 23:09:15: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 23:09:18: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:09:18: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:09:18: [SM] Call stack trace:
+L 04/19/2022 - 23:09:18: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:09:18: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:09:18: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:09:27: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:09:27: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:09:27: [SM] Call stack trace:
+L 04/19/2022 - 23:09:27: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:09:27: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:09:27: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:09:35: [SM] Exception reported: Invalid timer handle 5f2a032d (error 1)
+L 04/19/2022 - 23:09:35: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:09:35: [SM] Call stack trace:
+L 04/19/2022 - 23:09:35: [SM]   [0] KillTimer
+L 04/19/2022 - 23:09:35: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:10:07: [SM] Exception reported: Client 10 is not in game
+L 04/19/2022 - 23:10:07: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:10:07: [SM] Call stack trace:
+L 04/19/2022 - 23:10:07: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:10:07: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:10:07: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:10:07: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 23:10:07: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:10:07: [SM] Call stack trace:
+L 04/19/2022 - 23:10:07: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:10:07: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:10:07: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:10:07: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 23:10:07: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:10:07: [SM] Call stack trace:
+L 04/19/2022 - 23:10:07: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:10:07: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:10:07: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:13:29: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 23:13:29: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:13:29: [SM] Call stack trace:
+L 04/19/2022 - 23:13:29: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:13:29: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:13:29: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:20:49: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:20:49: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:20:49: [SM] Call stack trace:
+L 04/19/2022 - 23:20:49: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:20:49: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:20:49: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:20:53: [SM] Exception reported: Invalid timer handle 91e20328 (error 1)
+L 04/19/2022 - 23:20:53: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:20:53: [SM] Call stack trace:
+L 04/19/2022 - 23:20:53: [SM]   [0] KillTimer
+L 04/19/2022 - 23:20:53: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:20:53: [SM] Exception reported: Invalid timer handle 9007032e (error 1)
+L 04/19/2022 - 23:20:53: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:20:53: [SM] Call stack trace:
+L 04/19/2022 - 23:20:53: [SM]   [0] KillTimer
+L 04/19/2022 - 23:20:53: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:20:53: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:20:53: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:20:53: [SM] Call stack trace:
+L 04/19/2022 - 23:20:53: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:20:53: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:20:53: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:20:53: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:20:53: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:20:53: [SM] Call stack trace:
+L 04/19/2022 - 23:20:53: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:20:53: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:20:53: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:21:11: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 23:21:11: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:21:11: [SM] Call stack trace:
+L 04/19/2022 - 23:21:11: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:21:11: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:21:11: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:22:07: [SM] Exception reported: Invalid timer handle 92150334 (error 1)
+L 04/19/2022 - 23:22:07: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:22:07: [SM] Call stack trace:
+L 04/19/2022 - 23:22:07: [SM]   [0] KillTimer
+L 04/19/2022 - 23:22:07: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:22:13: [SM] Exception reported: Invalid timer handle 91e20328 (error 1)
+L 04/19/2022 - 23:22:13: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:22:13: [SM] Call stack trace:
+L 04/19/2022 - 23:22:13: [SM]   [0] KillTimer
+L 04/19/2022 - 23:22:13: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:22:51: [SM] Exception reported: Invalid timer handle 91e20328 (error 3)
+L 04/19/2022 - 23:22:51: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:22:51: [SM] Call stack trace:
+L 04/19/2022 - 23:22:51: [SM]   [0] KillTimer
+L 04/19/2022 - 23:22:51: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:23:12: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 23:23:12: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:23:12: [SM] Call stack trace:
+L 04/19/2022 - 23:23:12: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:23:12: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:23:12: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:23:45: [SM] Exception reported: Invalid timer handle 91e20328 (error 3)
+L 04/19/2022 - 23:23:45: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:23:45: [SM] Call stack trace:
+L 04/19/2022 - 23:23:45: [SM]   [0] KillTimer
+L 04/19/2022 - 23:23:45: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:24:03: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 23:24:03: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:24:03: [SM] Call stack trace:
+L 04/19/2022 - 23:24:03: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:24:03: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:24:03: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:24:30: [SM] Exception reported: Invalid timer handle 91e20328 (error 3)
+L 04/19/2022 - 23:24:30: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:24:30: [SM] Call stack trace:
+L 04/19/2022 - 23:24:30: [SM]   [0] KillTimer
+L 04/19/2022 - 23:24:30: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:24:49: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 23:24:49: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:24:49: [SM] Call stack trace:
+L 04/19/2022 - 23:24:49: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:24:49: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:24:49: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:25:23: [SM] Exception reported: Invalid timer handle 91e20328 (error 3)
+L 04/19/2022 - 23:25:23: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:25:23: [SM] Call stack trace:
+L 04/19/2022 - 23:25:23: [SM]   [0] KillTimer
+L 04/19/2022 - 23:25:23: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:25:59: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 23:25:59: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:25:59: [SM] Call stack trace:
+L 04/19/2022 - 23:25:59: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:25:59: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:25:59: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:26:33: [SM] Exception reported: Invalid timer handle 91e20328 (error 1)
+L 04/19/2022 - 23:26:33: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:26:33: [SM] Call stack trace:
+L 04/19/2022 - 23:26:33: [SM]   [0] KillTimer
+L 04/19/2022 - 23:26:33: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:27:08: [SM] Exception reported: Invalid timer handle 64402e4 (error 1)
+L 04/19/2022 - 23:27:08: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:27:08: [SM] Call stack trace:
+L 04/19/2022 - 23:27:08: [SM]   [0] KillTimer
+L 04/19/2022 - 23:27:08: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:27:10: Error log file session closed.
+L 04/19/2022 - 23:27:10: SourceMod error session started
+L 04/19/2022 - 23:27:10: Info (map "c5m4_quarter") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 23:27:10: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 23:27:13: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:27:13: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:27:13: [SM] Call stack trace:
+L 04/19/2022 - 23:27:13: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:27:13: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:27:13: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:27:17: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 23:27:17: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:27:17: [SM] Call stack trace:
+L 04/19/2022 - 23:27:17: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:27:17: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:27:17: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:27:21: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 23:27:21: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:27:21: [SM] Call stack trace:
+L 04/19/2022 - 23:27:21: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:27:21: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:27:21: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:27:22: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:27:22: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:27:22: [SM] Call stack trace:
+L 04/19/2022 - 23:27:22: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:27:22: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:27:22: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:27:28: [SM] Exception reported: Invalid timer handle 91e20328 (error 3)
+L 04/19/2022 - 23:27:28: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:27:28: [SM] Call stack trace:
+L 04/19/2022 - 23:27:28: [SM]   [0] KillTimer
+L 04/19/2022 - 23:27:28: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:27:29: [SM] Exception reported: Invalid timer handle 64402e4 (error 3)
+L 04/19/2022 - 23:27:29: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:27:29: [SM] Call stack trace:
+L 04/19/2022 - 23:27:29: [SM]   [0] KillTimer
+L 04/19/2022 - 23:27:29: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:28:02: [SM] Exception reported: Client 10 is not in game
+L 04/19/2022 - 23:28:02: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:28:02: [SM] Call stack trace:
+L 04/19/2022 - 23:28:02: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:28:02: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:28:02: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:28:02: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 23:28:02: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:28:02: [SM] Call stack trace:
+L 04/19/2022 - 23:28:02: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:28:02: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:28:02: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:28:02: [SM] Exception reported: Client 5 is not in game
+L 04/19/2022 - 23:28:02: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:28:02: [SM] Call stack trace:
+L 04/19/2022 - 23:28:02: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:28:02: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:28:02: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:28:32: [SM] Exception reported: Invalid timer handle 64402e4 (error 1)
+L 04/19/2022 - 23:28:32: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:28:32: [SM] Call stack trace:
+L 04/19/2022 - 23:28:32: [SM]   [0] KillTimer
+L 04/19/2022 - 23:28:32: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:28:51: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 23:28:51: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:28:51: [SM] Call stack trace:
+L 04/19/2022 - 23:28:51: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:28:51: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:28:51: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:30:45: [SM] Exception reported: Invalid timer handle 64402e4 (error 3)
+L 04/19/2022 - 23:30:45: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:30:45: [SM] Call stack trace:
+L 04/19/2022 - 23:30:45: [SM]   [0] KillTimer
+L 04/19/2022 - 23:30:45: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:30:46: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 23:30:46: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:30:46: [SM] Call stack trace:
+L 04/19/2022 - 23:30:46: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:30:46: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:30:46: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:31:23: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 23:31:23: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:31:23: [SM] Call stack trace:
+L 04/19/2022 - 23:31:23: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:31:23: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:31:23: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:31:48: [SM] Exception reported: Invalid timer handle 841302e7 (error 3)
+L 04/19/2022 - 23:31:48: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:31:48: [SM] Call stack trace:
+L 04/19/2022 - 23:31:48: [SM]   [0] KillTimer
+L 04/19/2022 - 23:31:48: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:32:24: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 23:32:24: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:32:24: [SM] Call stack trace:
+L 04/19/2022 - 23:32:24: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:32:24: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:32:24: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:32:28: [SM] Exception reported: Client 11 is not in game
+L 04/19/2022 - 23:32:28: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:32:28: [SM] Call stack trace:
+L 04/19/2022 - 23:32:28: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:32:28: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:32:28: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:32:45: [SM] Exception reported: Invalid timer handle 64402e4 (error 1)
+L 04/19/2022 - 23:32:45: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:32:45: [SM] Call stack trace:
+L 04/19/2022 - 23:32:45: [SM]   [0] KillTimer
+L 04/19/2022 - 23:32:45: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:33:05: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:33:05: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:33:05: [SM] Call stack trace:
+L 04/19/2022 - 23:33:05: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:33:05: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:33:05: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:33:08: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:33:08: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:33:08: [SM] Call stack trace:
+L 04/19/2022 - 23:33:08: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:33:08: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:33:08: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:33:08: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:33:08: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:33:08: [SM] Call stack trace:
+L 04/19/2022 - 23:33:08: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:33:08: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:33:08: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:34:29: [SM] Exception reported: Invalid timer handle 841302e7 (error 3)
+L 04/19/2022 - 23:34:29: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:34:29: [SM] Call stack trace:
+L 04/19/2022 - 23:34:29: [SM]   [0] KillTimer
+L 04/19/2022 - 23:34:29: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:34:37: [SM] Exception reported: Client 6 is not in game
+L 04/19/2022 - 23:34:37: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:34:37: [SM] Call stack trace:
+L 04/19/2022 - 23:34:37: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:34:37: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:34:37: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:35:03: [SM] Exception reported: Invalid timer handle 64402e4 (error 3)
+L 04/19/2022 - 23:35:03: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:35:03: [SM] Call stack trace:
+L 04/19/2022 - 23:35:03: [SM]   [0] KillTimer
+L 04/19/2022 - 23:35:03: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:35:30: [SM] Exception reported: Client 9 is not in game
+L 04/19/2022 - 23:35:30: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:35:30: [SM] Call stack trace:
+L 04/19/2022 - 23:35:30: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:35:30: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:35:30: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:36:30: [SM] Exception reported: Invalid timer handle 860102e3 (error 3)
+L 04/19/2022 - 23:36:30: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:36:30: [SM] Call stack trace:
+L 04/19/2022 - 23:36:30: [SM]   [0] KillTimer
+L 04/19/2022 - 23:36:30: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:36:46: [SM] Exception reported: Client 3 is not in game
+L 04/19/2022 - 23:36:46: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:36:46: [SM] Call stack trace:
+L 04/19/2022 - 23:36:46: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:36:46: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:36:46: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:37:21: [SM] Exception reported: Invalid timer handle ba1a02de (error 3)
+L 04/19/2022 - 23:37:21: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:37:21: [SM] Call stack trace:
+L 04/19/2022 - 23:37:21: [SM]   [0] KillTimer
+L 04/19/2022 - 23:37:21: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:38:03: [SM] Exception reported: Invalid timer handle 860102e3 (error 1)
+L 04/19/2022 - 23:38:03: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:38:03: [SM] Call stack trace:
+L 04/19/2022 - 23:38:03: [SM]   [0] KillTimer
+L 04/19/2022 - 23:38:03: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:38:12: [SM] Exception reported: Invalid timer handle 860102e3 (error 1)
+L 04/19/2022 - 23:38:12: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:38:12: [SM] Call stack trace:
+L 04/19/2022 - 23:38:12: [SM]   [0] KillTimer
+L 04/19/2022 - 23:38:12: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:38:21: [SM] Exception reported: Invalid timer handle f2690347 (error 1)
+L 04/19/2022 - 23:38:21: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:38:21: [SM] Call stack trace:
+L 04/19/2022 - 23:38:21: [SM]   [0] KillTimer
+L 04/19/2022 - 23:38:21: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:38:36: [SM] Exception reported: Invalid timer handle 860102e3 (error 1)
+L 04/19/2022 - 23:38:36: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:38:36: [SM] Call stack trace:
+L 04/19/2022 - 23:38:36: [SM]   [0] KillTimer
+L 04/19/2022 - 23:38:36: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:38:48: [SM] Exception reported: Client 3 is not in game
+L 04/19/2022 - 23:38:48: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:38:48: [SM] Call stack trace:
+L 04/19/2022 - 23:38:48: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:38:48: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:38:48: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:38:52: [SM] Exception reported: Client 10 is not in game
+L 04/19/2022 - 23:38:52: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:38:52: [SM] Call stack trace:
+L 04/19/2022 - 23:38:52: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:38:52: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:38:52: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:39:46: [SM] Exception reported: Invalid timer handle f11b0353 (error 1)
+L 04/19/2022 - 23:39:46: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:39:46: [SM] Call stack trace:
+L 04/19/2022 - 23:39:46: [SM]   [0] KillTimer
+L 04/19/2022 - 23:39:46: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:40:02: [SM] Exception reported: Invalid timer handle 860102e3 (error 1)
+L 04/19/2022 - 23:40:02: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:40:02: [SM] Call stack trace:
+L 04/19/2022 - 23:40:02: [SM]   [0] KillTimer
+L 04/19/2022 - 23:40:02: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:40:06: Error log file session closed.
+L 04/19/2022 - 23:40:06: SourceMod error session started
+L 04/19/2022 - 23:40:06: Info (map "c5m5_bridge") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 23:40:06: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 23:40:12: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:40:12: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:40:12: [SM] Call stack trace:
+L 04/19/2022 - 23:40:12: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:40:12: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:40:12: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:40:21: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:40:21: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:40:21: [SM] Call stack trace:
+L 04/19/2022 - 23:40:21: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:40:21: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:40:21: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:40:23: [SM] Exception reported: Invalid timer handle 860102e3 (error 1)
+L 04/19/2022 - 23:40:23: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:40:23: [SM] Call stack trace:
+L 04/19/2022 - 23:40:23: [SM]   [0] KillTimer
+L 04/19/2022 - 23:40:23: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:40:24: [SM] Exception reported: Invalid timer handle f11b0353 (error 1)
+L 04/19/2022 - 23:40:24: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:40:24: [SM] Call stack trace:
+L 04/19/2022 - 23:40:24: [SM]   [0] KillTimer
+L 04/19/2022 - 23:40:24: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:40:34: [SM] Exception reported: Invalid timer handle f2690347 (error 3)
+L 04/19/2022 - 23:40:34: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:40:34: [SM] Call stack trace:
+L 04/19/2022 - 23:40:34: [SM]   [0] KillTimer
+L 04/19/2022 - 23:40:34: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:41:01: [SM] Exception reported: Client 10 is not in game
+L 04/19/2022 - 23:41:01: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:41:01: [SM] Call stack trace:
+L 04/19/2022 - 23:41:01: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:41:01: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:41:01: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:41:01: [SM] Exception reported: Client 4 is not in game
+L 04/19/2022 - 23:41:01: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:41:01: [SM] Call stack trace:
+L 04/19/2022 - 23:41:01: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:41:01: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:41:01: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:42:11: [SM] Exception reported: Invalid timer handle f11b0353 (error 3)
+L 04/19/2022 - 23:42:11: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:42:11: [SM] Call stack trace:
+L 04/19/2022 - 23:42:11: [SM]   [0] KillTimer
+L 04/19/2022 - 23:42:11: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:42:32: [SM] Exception reported: Invalid timer handle 860102e3 (error 1)
+L 04/19/2022 - 23:42:32: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:42:32: [SM] Call stack trace:
+L 04/19/2022 - 23:42:32: [SM]   [0] KillTimer
+L 04/19/2022 - 23:42:32: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:42:47: [SM] Exception reported: Client 4 is not in game
+L 04/19/2022 - 23:42:47: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:42:47: [SM] Call stack trace:
+L 04/19/2022 - 23:42:47: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:42:47: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:42:47: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:42:51: [SM] Exception reported: Client 11 is not in game
+L 04/19/2022 - 23:42:51: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:42:51: [SM] Call stack trace:
+L 04/19/2022 - 23:42:51: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:42:51: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:42:51: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:44:14: [SM] Exception reported: Invalid timer handle 860102e3 (error 3)
+L 04/19/2022 - 23:44:14: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:44:14: [SM] Call stack trace:
+L 04/19/2022 - 23:44:14: [SM]   [0] KillTimer
+L 04/19/2022 - 23:44:14: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:44:30: [SM] Exception reported: Client 3 is not in game
+L 04/19/2022 - 23:44:30: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:44:30: [SM] Call stack trace:
+L 04/19/2022 - 23:44:30: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:44:30: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:44:30: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:44:53: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:44:53: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:44:53: [SM] Call stack trace:
+L 04/19/2022 - 23:44:53: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:44:53: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:44:53: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:45:10: [SM] Exception reported: Invalid timer handle f11b0353 (error 3)
+L 04/19/2022 - 23:45:10: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:45:10: [SM] Call stack trace:
+L 04/19/2022 - 23:45:10: [SM]   [0] KillTimer
+L 04/19/2022 - 23:45:10: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:45:10: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:45:10: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:45:10: [SM] Call stack trace:
+L 04/19/2022 - 23:45:10: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:45:10: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:45:10: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:45:10: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:45:10: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:45:10: [SM] Call stack trace:
+L 04/19/2022 - 23:45:10: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:45:10: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:45:10: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:46:41: [SM] Exception reported: Invalid timer handle 98bb02e6 (error 1)
+L 04/19/2022 - 23:46:41: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:46:41: [SM] Call stack trace:
+L 04/19/2022 - 23:46:41: [SM]   [0] KillTimer
+L 04/19/2022 - 23:46:41: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:47:25: [SM] Exception reported: Invalid timer handle 860102e3 (error 3)
+L 04/19/2022 - 23:47:25: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:47:25: [SM] Call stack trace:
+L 04/19/2022 - 23:47:25: [SM]   [0] KillTimer
+L 04/19/2022 - 23:47:25: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:47:31: [SM] Exception reported: Invalid timer handle dbab0355 (error 3)
+L 04/19/2022 - 23:47:31: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:47:31: [SM] Call stack trace:
+L 04/19/2022 - 23:47:31: [SM]   [0] KillTimer
+L 04/19/2022 - 23:47:31: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:47:43: [SM] Exception reported: Client 4 is not in game
+L 04/19/2022 - 23:47:43: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:47:43: [SM] Call stack trace:
+L 04/19/2022 - 23:47:43: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:47:43: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:47:43: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:48:08: [SM] Exception reported: Invalid timer handle dbab0355 (error 3)
+L 04/19/2022 - 23:48:08: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:48:08: [SM] Call stack trace:
+L 04/19/2022 - 23:48:08: [SM]   [0] KillTimer
+L 04/19/2022 - 23:48:08: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:48:28: [SM] Exception reported: Client 4 is not in game
+L 04/19/2022 - 23:48:28: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:48:28: [SM] Call stack trace:
+L 04/19/2022 - 23:48:28: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:48:28: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:48:28: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:51:03: [SM] Exception reported: Invalid timer handle dbab0355 (error 3)
+L 04/19/2022 - 23:51:03: [SM] Blaming: l4d2_playerjoining.smx
+L 04/19/2022 - 23:51:03: [SM] Call stack trace:
+L 04/19/2022 - 23:51:03: [SM]   [0] KillTimer
+L 04/19/2022 - 23:51:03: [SM]   [1] Line 51, E:\Programas\Notepad++\scripting\l4d2_playerjoining.sp::OnClientDisconnect
+L 04/19/2022 - 23:52:00: Error log file session closed.
+L 04/19/2022 - 23:56:43: SourceMod error session started
+L 04/19/2022 - 23:56:43: Info (map "c8m1_apartment") (file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\logs\errors_20220419.log")
+L 04/19/2022 - 23:56:43: [SM] Exception reported: Can't find 'bIsDominator' signature!
+L 04/19/2022 - 23:56:43: [SM] Blaming: l4d2_dominatorscontrol.smx
+L 04/19/2022 - 23:56:43: [SM] Call stack trace:
+L 04/19/2022 - 23:56:43: [SM]   [0] SetFailState
+L 04/19/2022 - 23:56:43: [SM]   [1] Line 32, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_dominatorscontrol.sp::OnPluginStart
+L 04/19/2022 - 23:56:43: [SM] Unable to load plugin "l4d2_dominatorscontrol.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 23:56:43: [SM] Unable to load plugin "l4d2_fix_spawn_order.smx": Could not find required plugin "l4d2lib"
+L 04/19/2022 - 23:56:43: [SM] Unable to load plugin "l4d2_hunter_no_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 23:56:43: [SM] Unable to load plugin "l4d2_m2_control_eq.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 23:56:44: [SM] Unable to load plugin "l4d2_no_hunter_deadstops.smx": Could not find required plugin "left4dhooks"
+L 04/19/2022 - 23:56:44: [SM] Unable to load plugin "l4d2_saferoom_item_remove.smx": Could not find required plugin "l4d2util"
+L 04/19/2022 - 23:56:44: [SM] Error parsing gameconfig file "C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\gamedata\l4d2_zcs.txt":
+L 04/19/2022 - 23:56:44: [SM] Error 1 on line 0, col 0: Stream failed to open
+L 04/19/2022 - 23:56:44: [SM] Exception reported: Unable to open l4d2_zcs: File could not be opened: The system cannot find the file specified.
+
+L 04/19/2022 - 23:56:44: [SM] Blaming: l4d2_swapduringtank.smx
+L 04/19/2022 - 23:56:44: [SM] Call stack trace:
+L 04/19/2022 - 23:56:44: [SM]   [0] LoadGameConfigFile
+L 04/19/2022 - 23:56:44: [SM]   [1] Line 207, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::Sub_HookGameData
+L 04/19/2022 - 23:56:44: [SM]   [2] Line 65, D:\Steam\steamapps\common\Left 4 Dead 2\left4dead2\addons\sourcemod\scripting\l4d2_swapduringtank.sp::OnPluginStart
+L 04/19/2022 - 23:56:44: [SM] Unable to load plugin "l4d2_swapduringtank.smx": Error detected in plugin startup (see error logs)
+L 04/19/2022 - 23:56:44: [acs.smx] Mission "Left4Duluth" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 23:56:44: [acs.smx] Mission "BaysideGenocide" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 23:56:44: [acs.smx] Mission "BlackMesa" (Gamemode: coop) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 23:56:44: [acs.smx] Mission "Left4Duluth" (Gamemode: versus) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 23:56:44: [acs.smx] Mission "Left4Duluth" (Gamemode: survival) is not in the mission cache or no longer exists!
+
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx] Error(s) detected parsing addons\sourcemod\configs\admins.cfg
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 42) Invalid flag detected: u
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 42) Invalid flag detected: v
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 42) Invalid flag detected: w
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 42) Invalid flag detected: x
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 42) Invalid flag detected: y
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 49) Invalid flag detected: u
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 49) Invalid flag detected: v
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 49) Invalid flag detected: w
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 49) Invalid flag detected: x
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 49) Invalid flag detected: y
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 56) Invalid flag detected: u
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 56) Invalid flag detected: v
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 56) Invalid flag detected: w
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 56) Invalid flag detected: x
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 56) Invalid flag detected: y
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 63) Invalid flag detected: u
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 63) Invalid flag detected: v
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 63) Invalid flag detected: w
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 63) Invalid flag detected: x
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 63) Invalid flag detected: y
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 70) Invalid flag detected: u
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 70) Invalid flag detected: v
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 70) Invalid flag detected: w
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 70) Invalid flag detected: x
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 70) Invalid flag detected: y
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 77) Invalid flag detected: u
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 77) Invalid flag detected: v
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 77) Invalid flag detected: w
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 77) Invalid flag detected: x
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 77) Invalid flag detected: y
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 84) Invalid flag detected: u
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 84) Invalid flag detected: v
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 84) Invalid flag detected: w
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 84) Invalid flag detected: x
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 84) Invalid flag detected: y
+L 04/19/2022 - 23:56:44: [admin-flatfile.smx]  (line 87) Section beginning without a matching ending
+L 04/19/2022 - 23:56:47: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 23:56:47: [SM] Blaming: CrowAnnoyingItemRemover.smx
+L 04/19/2022 - 23:56:47: [SM] Call stack trace:
+L 04/19/2022 - 23:56:47: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 23:56:47: [SM]   [1] Line 218, /home/groups/alliedmodders/forums/files/6/4/6/8/8/54855.attach::Event_RoundStart
+L 04/19/2022 - 23:56:47: [SM] Exception reported: Cannot create new entity when no map is running
+L 04/19/2022 - 23:56:47: [SM] Blaming: ispirto.smx
+L 04/19/2022 - 23:56:47: [SM] Call stack trace:
+L 04/19/2022 - 23:56:47: [SM]   [0] CreateEntityByName
+L 04/19/2022 - 23:56:47: [SM]   [1] Line 283, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePluginRealism
+L 04/19/2022 - 23:56:47: [SM]   [2] Line 93, /home/groups/alliedmodders/forums/files/7/6/4/6/7/65025.attach::executePlugin
+L 04/19/2022 - 23:56:48: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:56:48: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:56:48: [SM] Call stack trace:
+L 04/19/2022 - 23:56:48: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:56:48: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:56:48: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:57:22: [SM] Exception reported: Entity -1 (-1) is invalid
+L 04/19/2022 - 23:57:22: [SM] Blaming: L4D2_weapon_remover.smx
+L 04/19/2022 - 23:57:22: [SM] Call stack trace:
+L 04/19/2022 - 23:57:22: [SM]   [0] GetEntPropVector
+L 04/19/2022 - 23:57:22: [SM]   [1] Line 460, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveMedKit
+L 04/19/2022 - 23:57:22: [SM]   [2] Line 397, E:\Programas\Notepad++\scripting\L4D2_weapon_remover.sp::RemoveWeaponDelay
+L 04/19/2022 - 23:58:02: [SM] Exception reported: Client 10 is not in game
+L 04/19/2022 - 23:58:02: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:58:02: [SM] Call stack trace:
+L 04/19/2022 - 23:58:02: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:58:02: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:58:02: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:58:02: [SM] Exception reported: Client 8 is not in game
+L 04/19/2022 - 23:58:02: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:58:02: [SM] Call stack trace:
+L 04/19/2022 - 23:58:02: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:58:02: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:58:02: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:58:02: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 23:58:02: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:58:02: [SM] Call stack trace:
+L 04/19/2022 - 23:58:02: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:58:02: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:58:02: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/19/2022 - 23:59:04: [SM] Exception reported: Client 7 is not in game
+L 04/19/2022 - 23:59:04: [SM] Blaming: simplewelcomemsg.smx
+L 04/19/2022 - 23:59:04: [SM] Call stack trace:
+L 04/19/2022 - 23:59:04: [SM]   [0] PrintHintText
+L 04/19/2022 - 23:59:04: [SM]   [1] Line 534, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::HintMessageDisplay
+L 04/19/2022 - 23:59:04: [SM]   [2] Line 104, C:\Documents and Settings\Zuko\Pulpit\scripting\simplewelcomemsg.sp::Timer_Welcome
+L 04/20/2022 - 00:00:28: Error log file session closed.

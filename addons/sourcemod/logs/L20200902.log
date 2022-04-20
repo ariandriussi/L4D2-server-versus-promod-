@@ -1,0 +1,301 @@
+L 09/02/2020 - 00:01:53: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 00:01:53: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 00:02:35: [playercommands.smx] "Isabella<19><STEAM_1:0:162762726><>" slayed "Rochelle<20><BOT><>"
+L 09/02/2020 - 00:02:35: [playercommands.smx] "Isabella<19><STEAM_1:0:162762726><>" slayed "Coach<21><BOT><>"
+L 09/02/2020 - 00:02:36: [playercommands.smx] "Isabella<19><STEAM_1:0:162762726><>" slayed "Ellis<22><BOT><>"
+L 09/02/2020 - 00:02:36: [playercommands.smx] "Isabella<19><STEAM_1:0:162762726><>" slayed "Nick<23><BOT><>"
+L 09/02/2020 - 00:02:57: [playercommands.smx] "Isabella<19><STEAM_1:0:162762726><>" slayed "Rochelle<24><BOT><>"
+L 09/02/2020 - 00:02:57: [playercommands.smx] "Isabella<19><STEAM_1:0:162762726><>" slayed "Coach<25><BOT><>"
+L 09/02/2020 - 00:02:57: [playercommands.smx] "Isabella<19><STEAM_1:0:162762726><>" slayed "Ellis<26><BOT><>"
+L 09/02/2020 - 00:02:58: [playercommands.smx] "Isabella<19><STEAM_1:0:162762726><>" slayed "Isabella<19><STEAM_1:0:162762726><>"
+L 09/02/2020 - 00:03:13: Log file closed.
+L 09/02/2020 - 00:52:20: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 00:52:20: -------- Mapchange to c1m1_hotel --------
+L 09/02/2020 - 00:52:22: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 00:52:22: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 00:52:36: [SM] Changed map to "c1m1_hotel"
+L 09/02/2020 - 00:52:36: -------- Mapchange to c1m1_hotel --------
+L 09/02/2020 - 00:53:12: [admin_hp.smx]  
+L 09/02/2020 - 00:53:37: [basechat.smx] "Isabella<2><STEAM_1:0:162762726><>" triggered sm_chat (text !hp)
+L 09/02/2020 - 00:54:01: [admin_hp.smx]  
+L 09/02/2020 - 00:54:24: Log file closed.
+L 09/02/2020 - 00:55:50: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 00:55:50: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 00:55:51: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 00:55:51: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 00:55:58: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 00:55:58: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 00:56:30: [basechat.smx] "Isabella<2><STEAM_1:0:162762726><>" triggered sm_chat (text !hp)
+L 09/02/2020 - 00:57:05: Log file closed.
+L 09/02/2020 - 00:59:19: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 00:59:19: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 00:59:20: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 00:59:20: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 00:59:25: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 00:59:26: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 00:59:52: [basechat.smx] "Isabella<2><STEAM_1:0:162762726><>" triggered sm_chat (text !hp)
+L 09/02/2020 - 01:01:10: Log file closed.
+L 09/02/2020 - 01:03:28: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 01:03:28: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 01:03:29: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 01:03:29: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 01:03:35: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 01:03:35: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 01:04:10: [admin_hp.smx]  
+L 09/02/2020 - 01:05:13: Log file closed.
+L 09/02/2020 - 01:29:15: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 01:29:15: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 01:29:16: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 01:29:16: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 01:29:28: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 01:29:28: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 01:31:53: [admin_hp.smx]  
+L 09/02/2020 - 01:32:33: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 01:36:10: [admin_hp.smx]  
+L 09/02/2020 - 01:40:22: [funvotes.smx] "Isabella<2><STEAM_1:0:162762726><>" initiated a friendly fire vote.
+L 09/02/2020 - 01:40:58: [admin_hp.smx]  
+L 09/02/2020 - 01:41:25: [admin_hp.smx]  
+L 09/02/2020 - 01:42:12: [admin_hp.smx]  
+L 09/02/2020 - 01:42:41: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:42:43: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:42:46: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:42:49: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "·¥∏·¥π·µÄS r. T u r c o<3><STEAM_1:1:535496677><>"
+L 09/02/2020 - 01:43:03: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "·¥∏·¥π·µÄS r. T u r c o<3><STEAM_1:1:535496677><>"
+L 09/02/2020 - 01:43:04: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:43:21: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:43:22: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:43:28: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "·¥∏·¥π·µÄS r. T u r c o<3><STEAM_1:1:535496677><>"
+L 09/02/2020 - 01:43:28: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "·¥∏·¥π·µÄS r. T u r c o<3><STEAM_1:1:535496677><>"
+L 09/02/2020 - 01:43:29: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "·¥∏·¥π·µÄS r. T u r c o<3><STEAM_1:1:535496677><>"
+L 09/02/2020 - 01:43:36: [admin_hp.smx]  
+L 09/02/2020 - 01:43:41: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "·¥∏·¥π·µÄS r. T u r c o<3><STEAM_1:1:535496677><>"
+L 09/02/2020 - 01:43:43: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:44:06: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:44:10: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:44:23: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "<<<FEDE>>><207><STEAM_1:0:504176012><>"
+L 09/02/2020 - 01:46:56: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Jockey<195><BOT><>"
+L 09/02/2020 - 01:47:06: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "<<<FEDE>>><207><STEAM_1:0:504176012><>"
+L 09/02/2020 - 01:50:37: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "(5)Tank<274><BOT><>"
+L 09/02/2020 - 01:50:37: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "(6)Tank<275><BOT><>"
+L 09/02/2020 - 01:50:38: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "(7)Tank<276><BOT><>"
+L 09/02/2020 - 01:50:38: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "(8)Tank<277><BOT><>"
+L 09/02/2020 - 01:50:38: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "(9)Tank<278><BOT><>"
+L 09/02/2020 - 01:50:41: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 01:51:49: Log file closed.
+L 09/02/2020 - 02:02:09: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 02:02:09: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 02:02:12: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 02:02:12: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 02:02:25: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 02:02:26: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 02:06:47: Log file closed.
+L 09/02/2020 - 02:50:13: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 02:50:14: -------- Mapchange to c1m1_hotel --------
+L 09/02/2020 - 02:50:17: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 02:50:18: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 02:50:49: [SM] Changed map to "c1m1_hotel"
+L 09/02/2020 - 02:50:50: -------- Mapchange to c1m1_hotel --------
+L 09/02/2020 - 02:52:03: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 02:52:08: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 02:54:40: Log file closed.
+L 09/02/2020 - 02:58:10: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 02:58:10: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 02:58:13: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 02:58:13: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 02:58:30: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 02:58:31: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 03:04:13: [admin_hp.smx]  
+L 09/02/2020 - 03:04:29: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Tank<35><BOT><>"
+L 09/02/2020 - 03:05:09: [admin_hp.smx]  
+L 09/02/2020 - 03:05:12: [admin_hp.smx]  
+L 09/02/2020 - 03:05:16: [admin_hp.smx]  
+L 09/02/2020 - 03:05:24: [admin_hp.smx]  
+L 09/02/2020 - 03:05:44: [admin_hp.smx]  
+L 09/02/2020 - 03:06:04: [admin_hp.smx]  
+L 09/02/2020 - 03:06:10: [admin_hp.smx]  
+L 09/02/2020 - 03:06:21: [admin_hp.smx]  
+L 09/02/2020 - 03:07:35: [basechat.smx] "Isabella<2><STEAM_1:0:162762726><>" triggered sm_chat (text !admin)
+L 09/02/2020 - 03:10:21: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" set blind on "Rochelle<55><BOT><>", amount 255.
+L 09/02/2020 - 03:10:37: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" set blind on "Rochelle<55><BOT><>", amount 255.
+L 09/02/2020 - 03:10:52: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" set a TimeBomb on "Smoker<73><BOT><>"
+L 09/02/2020 - 03:11:22: [admin_hp.smx]  
+L 09/02/2020 - 03:16:34: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Tank<99><BOT><>"
+L 09/02/2020 - 03:16:38: [admin_hp.smx]  
+L 09/02/2020 - 03:16:55: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "(1)Smoker<100><BOT><>"
+L 09/02/2020 - 03:16:59: [admin_hp.smx]  
+L 09/02/2020 - 03:54:33: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 03:54:33: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 03:54:36: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 03:54:36: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 03:54:52: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 03:54:52: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 03:56:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 03:57:42: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_infected_spawn_delay") (value "20")
+L 09/02/2020 - 03:57:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_infected_spawn_delay") (value "10")
+L 09/02/2020 - 03:58:09: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 03:58:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_infected_spawn_delay") (value "20")
+L 09/02/2020 - 03:59:34: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "l4d2_switch_T2_and_T3") (value "1")
+L 09/02/2020 - 03:59:50: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Coach<3><BOT><>"
+L 09/02/2020 - 03:59:51: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Coach<3><BOT><>"
+L 09/02/2020 - 04:02:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "10")
+L 09/02/2020 - 04:02:43: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_max") (value "20")
+L 09/02/2020 - 04:02:50: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Tank<36><BOT><>"
+L 09/02/2020 - 04:03:02: [admin_hp.smx]  
+L 09/02/2020 - 04:04:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/02/2020 - 04:04:31: [admin_hp.smx]  
+L 09/02/2020 - 04:07:58: [funcommands.smx] "Isabella<2><STEAM_1:0:162762726><>" toggled noclip on "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 04:08:43: Log file closed.
+L 09/02/2020 - 04:18:07: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 04:18:07: -------- Mapchange to c1m1_hotel --------
+L 09/02/2020 - 04:18:08: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 04:18:08: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 04:18:14: [SM] Changed map to "c1m1_hotel"
+L 09/02/2020 - 04:18:14: -------- Mapchange to c1m1_hotel --------
+L 09/02/2020 - 04:19:43: Log file closed.
+L 09/02/2020 - 04:23:41: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 04:23:41: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 04:23:42: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 04:23:42: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 04:23:48: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 04:23:48: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 04:24:45: Log file closed.
+L 09/02/2020 - 04:25:14: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 04:25:14: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 04:25:15: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 04:25:15: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 04:25:20: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 04:25:20: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 04:30:53: Log file closed.
+L 09/02/2020 - 04:48:02: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 04:48:02: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 04:48:03: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 04:48:03: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 04:48:13: [SM] Changed map to "c1m2_streets"
+L 09/02/2020 - 04:48:13: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 04:49:23: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed map to "c10m1_caves"
+L 09/02/2020 - 04:49:26: [SM] Changed map to "c10m1_caves"
+L 09/02/2020 - 04:49:30: -------- Mapchange to c10m1_caves --------
+L 09/02/2020 - 04:53:28: -------- Mapchange to c10m2_drainage --------
+L 09/02/2020 - 16:52:40: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 16:52:40: -------- Mapchange to C12m1_hilltop --------
+L 09/02/2020 - 16:52:44: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 16:52:44: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 16:53:09: [SM] Changed map to "C12m1_hilltop"
+L 09/02/2020 - 16:53:09: -------- Mapchange to C12m1_hilltop --------
+L 09/02/2020 - 16:56:35: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/02/2020 - 16:56:35: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/02/2020 - 16:56:35: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/02/2020 - 16:56:35: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/02/2020 - 16:56:35: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/02/2020 - 16:56:35: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/02/2020 - 16:56:36: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/02/2020 - 16:56:36: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/02/2020 - 16:56:36: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/02/2020 - 17:00:50: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 17:00:58: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/02/2020 - 17:04:57: -------- Mapchange to C12m2_traintunnel --------
+L 09/02/2020 - 17:11:06: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed map to "c8m1_apartment"
+L 09/02/2020 - 17:11:09: [SM] Changed map to "c8m1_apartment"
+L 09/02/2020 - 17:11:13: -------- Mapchange to c8m1_apartment --------
+L 09/02/2020 - 17:18:09: -------- Mapchange to c8m2_subway --------
+L 09/02/2020 - 17:19:07: [basebans.smx] "Isabella<2><STEAM_1:0:162762726><>" banned "reycuervo81<141><STEAM_1:0:138460883><>" (minutes "0") (reason "Troll")
+L 09/02/2020 - 17:30:36: -------- Mapchange to c8m3_sewers --------
+L 09/02/2020 - 17:50:29: -------- Mapchange to c8m4_interior --------
+L 09/02/2020 - 18:00:47: [admin_hp.smx]  
+L 09/02/2020 - 18:06:10: -------- Mapchange to c8m5_rooftop --------
+L 09/02/2020 - 18:11:52: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 18:14:46: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" kicked "**T.L**::CAZADOR!!!<168><STEAM_1:1:422449026><>" (reason "")
+L 09/02/2020 - 18:22:08: -------- Mapchange to c1m1_hotel --------
+L 09/02/2020 - 18:24:59: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Nick<291><BOT><>"
+L 09/02/2020 - 18:34:22: -------- Mapchange to c1m2_streets --------
+L 09/02/2020 - 18:51:49: -------- Mapchange to c1m3_mall --------
+L 09/02/2020 - 19:04:00: [admin_hp.smx]  
+L 09/02/2020 - 19:04:18: [admin_hp.smx]  
+L 09/02/2020 - 19:04:45: [admin_hp.smx]  
+L 09/02/2020 - 19:06:15: [admin_hp.smx]  
+L 09/02/2020 - 19:08:18: [admin_hp.smx]  
+L 09/02/2020 - 19:11:14: [admin_hp.smx]  
+L 09/02/2020 - 19:13:18: [admin_hp.smx]  
+L 09/02/2020 - 19:13:33: [admin_hp.smx]  
+L 09/02/2020 - 19:14:58: [admin_hp.smx]  
+L 09/02/2020 - 19:15:52: [admin_hp.smx]  
+L 09/02/2020 - 19:17:34: [admin_hp.smx]  
+L 09/02/2020 - 19:20:03: [admin_hp.smx]  
+L 09/02/2020 - 19:21:32: [playercommands.smx] "Delta‚ù§Rain<276><STEAM_1:0:555087244><>" slayed "FaceLive:FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>"
+L 09/02/2020 - 19:21:32: [admin_hp.smx]  
+L 09/02/2020 - 19:21:50: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" slayed "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 19:23:21: [playercommands.smx] "Delta‚ù§Rain<276><STEAM_1:0:555087244><>" slayed "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 19:24:26: -------- Mapchange to c1m4_atrium --------
+L 09/02/2020 - 19:30:23: [admin_hp.smx]  
+L 09/02/2020 - 19:33:10: [admin_hp.smx]  
+L 09/02/2020 - 19:40:35: -------- Mapchange to c7m1_docks --------
+L 09/02/2020 - 19:45:54: [playercommands.smx] "Isabella<2><STEAM_1:0:162762726><>" renamed "ÍßÅÊ•§‚íª‚ìá‚í∂‚ìÉ‚ìöÊ•§ÍßÇ¬Ø\_<299><STEAM_1:1:560090770><>" to "ß•\‚í§ìÉÇ§ª‚Ç§•§ìßßÍì∂•__‚‚ª•ßÇ")
+L 09/02/2020 - 19:47:33: [basecomm.smx] "FaceLive:FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>" gagged "ß•\‚í§ìÉÇ§ª‚Ç§•§ìßßÍì∂•__‚‚ª•ßÇ<299><STEAM_1:1:560090770><>"
+L 09/02/2020 - 19:47:35: [basebans.smx] "Isabella<2><STEAM_1:0:162762726><>" banned "ß•\‚í§ìÉÇ§ª‚Ç§•§ìßßÍì∂•__‚‚ª•ßÇ<299><STEAM_1:1:560090770><>" (minutes "0") (reason "Troll")
+L 09/02/2020 - 19:58:37: -------- Mapchange to c7m2_barge --------
+L 09/02/2020 - 20:16:57: [playercommands.smx] "Delta‚ù§Rain<276><STEAM_1:0:555087244><>" slayed "Isabella<2><STEAM_1:0:162762726><>"
+L 09/02/2020 - 20:16:57: [playercommands.smx] "Delta‚ù§Rain<276><STEAM_1:0:555087244><>" slayed "FaceLive:FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>"
+L 09/02/2020 - 20:16:57: [playercommands.smx] "Delta‚ù§Rain<276><STEAM_1:0:555087244><>" slayed "(·∂°G∆§Ô¥ø OnlySkill<423><STEAM_1:1:443801496><>"
+L 09/02/2020 - 20:16:58: [playercommands.smx] "Delta‚ù§Rain<276><STEAM_1:0:555087244><>" slayed "Delta‚ù§Rain<276><STEAM_1:0:555087244><>"
+L 09/02/2020 - 20:16:58: [playercommands.smx] "Delta‚ù§Rain<276><STEAM_1:0:555087244><>" slayed "Alma marcelo gozo<466><STEAM_1:1:127717802><>"
+L 09/02/2020 - 20:17:20: -------- Mapchange to c7m3_port --------
+L 09/02/2020 - 20:26:54: -------- Mapchange to c8m1_apartment --------
+L 09/02/2020 - 20:31:55: [basebans.smx] "Isabella<2><STEAM_1:0:162762726><>" banned "(·∂°G∆§Ô¥ø OnlySkill<423><STEAM_1:1:443801496><>" (minutes "0") (reason "Troll")
+L 09/02/2020 - 20:34:14: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 20:34:23: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/02/2020 - 20:36:22: -------- Mapchange to c8m2_subway --------
+L 09/02/2020 - 20:36:57: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 20:43:09: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/02/2020 - 20:45:59: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 20:46:27: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/02/2020 - 20:47:49: [admin_hp.smx]  
+L 09/02/2020 - 20:49:43: -------- Mapchange to c8m3_sewers --------
+L 09/02/2020 - 20:50:12: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 21:04:58: -------- Mapchange to c8m4_interior --------
+L 09/02/2020 - 21:22:36: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 21:23:05: -------- Mapchange to c8m5_rooftop --------
+L 09/02/2020 - 21:39:16: [basebans.smx] "Isabella<2><STEAM_1:0:162762726><>" banned "M4T145<699><STEAM_1:1:177845457><>" (minutes "0") (reason "Troll")
+L 09/02/2020 - 21:43:33: [playercommands.smx] "Delta‚ù§Rain<276><STEAM_1:0:555087244><>" slayed "Ôº≥Ôº≤. Ôº¥ÔºµÔº≤Ôº£ÔºØ<507><STEAM_1:1:535496677><>"
+L 09/02/2020 - 21:44:15: -------- Mapchange to c1m1_hotel --------
+L 09/02/2020 - 21:44:52: -------- Mapchange to c11m1_greenhouse --------
+L 09/02/2020 - 21:49:26: [basecomm.smx] "FaceLive:FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>" muted "Ôº≥Ôº≤. Ôº¥ÔºµÔº≤Ôº£ÔºØ<507><STEAM_1:1:535496677><>"
+L 09/02/2020 - 21:54:45: -------- Mapchange to c11m2_offices --------
+L 09/02/2020 - 21:56:25: [basecomm.smx] "FaceLive:FacturitaJuega ü•êüé<3><STEAM_1:1:522713982><>" gagged "Ôº≥Ôº≤. Ôº¥ÔºµÔº≤Ôº£ÔºØ<507><STEAM_1:1:535496677><>"
+L 09/02/2020 - 22:19:15: -------- Mapchange to c11m3_garage --------
+L 09/02/2020 - 22:35:02: -------- Mapchange to c11m4_terminal --------
+L 09/02/2020 - 22:42:30: [admin_hp.smx]  
+L 09/02/2020 - 22:42:35: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 22:43:53: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" kicked "—Ñ—Ä—É–∫—Ç—ã<812><STEAM_1:1:420777814><>" (reason "")
+L 09/02/2020 - 22:48:38: -------- Mapchange to c11m5_runway --------
+L 09/02/2020 - 22:49:29: Log file closed.
+L 09/02/2020 - 22:51:24: SourceMod log file session started (file "L20200902.log") (Version "1.8.0.6041")
+L 09/02/2020 - 22:51:24: -------- Mapchange to c5m1_waterfront --------
+L 09/02/2020 - 22:51:26: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 09/02/2020 - 22:51:26: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 09/02/2020 - 22:51:35: [SM] Changed map to "c5m1_waterfront"
+L 09/02/2020 - 22:51:36: -------- Mapchange to c5m1_waterfront --------
+L 09/02/2020 - 22:52:54: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 09/02/2020 - 22:52:54: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_min") (value "20")
+L 09/02/2020 - 22:52:54: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "z_ghost_delay_max") (value "24")
+L 09/02/2020 - 22:52:54: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 09/02/2020 - 22:52:54: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance_finale") (value "0")
+L 09/02/2020 - 22:52:54: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 09/02/2020 - 22:52:54: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 09/02/2020 - 22:52:54: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance_finale") (value "1")
+L 09/02/2020 - 22:52:54: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 09/02/2020 - 22:52:57: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 22:52:59: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")
+L 09/02/2020 - 22:53:42: [admin_hp.smx]  
+L 09/02/2020 - 23:00:35: -------- Mapchange to c5m2_park --------
+L 09/02/2020 - 23:05:42: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 23:11:44: [basecomm.smx] "FaceLive:FacturitaJuega ü•êüé<4><STEAM_1:1:522713982><>" muted "“ì·¥ú·¥ä…™_<80><STEAM_1:0:189061235><>"
+L 09/02/2020 - 23:16:30: -------- Mapchange to c5m3_cemetery --------
+L 09/02/2020 - 23:24:42: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed map to "c10m1_caves"
+L 09/02/2020 - 23:24:45: [SM] Changed map to "c10m1_caves"
+L 09/02/2020 - 23:24:49: -------- Mapchange to c10m1_caves --------
+L 09/02/2020 - 23:42:15: -------- Mapchange to c10m2_drainage --------
+L 09/02/2020 - 23:52:35: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "100")
+L 09/02/2020 - 23:54:52: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed map to "c2m1_highway"
+L 09/02/2020 - 23:54:55: [SM] Changed map to "c2m1_highway"
+L 09/02/2020 - 23:55:01: -------- Mapchange to c2m1_highway --------
+L 09/02/2020 - 23:56:35: [basecommands.smx] "Isabella<2><STEAM_1:0:162762726><>" changed cvar (cvar "vs_max_team_switches") (value "0")

@@ -1,0 +1,216 @@
+L 08/06/2020 - 01:44:06: SourceMod log file session started (file "L20200806.log") (Version "1.8.0.6041")
+L 08/06/2020 - 01:44:06: -------- Mapchange to c5m2_park --------
+L 08/06/2020 - 01:44:12: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/06/2020 - 01:44:12: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/06/2020 - 01:44:36: [SM] Changed map to "c5m2_park"
+L 08/06/2020 - 01:44:43: -------- Mapchange to c5m2_park --------
+L 08/06/2020 - 01:51:56: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<3><BOT><>"
+L 08/06/2020 - 01:51:56: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Coach<4><BOT><>"
+L 08/06/2020 - 01:51:56: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<5><BOT><>"
+L 08/06/2020 - 01:54:03: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 01:54:04: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<3><BOT><>"
+L 08/06/2020 - 01:54:05: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<5><BOT><>"
+L 08/06/2020 - 01:54:06: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 01:54:06: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<29><BOT><>"
+L 08/06/2020 - 01:54:08: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 01:54:08: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 01:54:08: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 01:57:20: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<3><BOT><>"
+L 08/06/2020 - 01:57:20: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<5><BOT><>"
+L 08/06/2020 - 01:57:20: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<30><BOT><>"
+L 08/06/2020 - 01:57:20: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Boomer<35><BOT><>"
+L 08/06/2020 - 01:57:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Jockey<36><BOT><>"
+L 08/06/2020 - 01:57:45: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "(1)Jockey<37><BOT><>"
+L 08/06/2020 - 01:58:38: Log file closed.
+L 08/06/2020 - 02:26:14: SourceMod log file session started (file "L20200806.log") (Version "1.8.0.6041")
+L 08/06/2020 - 02:26:14: -------- Mapchange to c8m1_apartment --------
+L 08/06/2020 - 02:26:18: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/06/2020 - 02:26:18: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/06/2020 - 02:26:44: [SM] Changed map to "c8m1_apartment"
+L 08/06/2020 - 02:26:46: -------- Mapchange to c8m1_apartment --------
+L 08/06/2020 - 02:29:32: -------- Mapchange to c8m2_subway --------
+L 08/06/2020 - 02:30:57: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Spitter Tankㅣ스피터탱크<17><BOT><>"
+L 08/06/2020 - 02:31:28: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Bill<13><BOT><>"
+L 08/06/2020 - 02:33:37: -------- Mapchange to c8m3_sewers --------
+L 08/06/2020 - 02:37:29: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smasher Tankㅣ스매쉬탱크<40><BOT><>"
+L 08/06/2020 - 02:38:27: Log file closed.
+L 08/06/2020 - 03:28:45: SourceMod log file session started (file "L20200806.log") (Version "1.8.0.6041")
+L 08/06/2020 - 03:28:45: -------- Mapchange to c1m2_streets --------
+L 08/06/2020 - 03:28:48: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/06/2020 - 03:28:48: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/06/2020 - 03:29:09: [SM] Changed map to "c1m2_streets"
+L 08/06/2020 - 03:29:15: -------- Mapchange to c1m2_streets --------
+L 08/06/2020 - 03:29:49: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/06/2020 - 03:31:13: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/06/2020 - 03:31:38: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 03:31:47: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 03:31:53: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Nick<3><BOT><>"
+L 08/06/2020 - 03:31:53: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Rochelle<4><BOT><>"
+L 08/06/2020 - 03:31:53: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Ellis<5><BOT><>"
+L 08/06/2020 - 03:31:53: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Smasher Tankㅣ스매쉬탱크<10><BOT><>"
+L 08/06/2020 - 03:32:16: -------- Mapchange to c1m3_mall --------
+L 08/06/2020 - 03:34:41: Log file closed.
+L 08/06/2020 - 03:54:29: SourceMod log file session started (file "L20200806.log") (Version "1.8.0.6041")
+L 08/06/2020 - 03:54:29: -------- Mapchange to c8m1_apartment --------
+L 08/06/2020 - 03:54:31: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/06/2020 - 03:54:31: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/06/2020 - 03:54:56: [SM] Changed map to "c8m1_apartment"
+L 08/06/2020 - 03:54:59: -------- Mapchange to c8m1_apartment --------
+L 08/06/2020 - 03:55:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/06/2020 - 03:55:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/06/2020 - 03:55:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 08/06/2020 - 03:55:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/06/2020 - 03:55:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/06/2020 - 03:55:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 08/06/2020 - 03:55:38: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/06/2020 - 03:55:57: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 03:56:06: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 03:57:17: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Boomer<12><BOT><>"
+L 08/06/2020 - 03:59:36: -------- Mapchange to c4m2_sugarmill_a --------
+L 08/06/2020 - 04:01:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/06/2020 - 04:01:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_intro") (value "1")
+L 08/06/2020 - 04:01:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance_finale") (value "1")
+L 08/06/2020 - 04:01:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_tank_chance") (value "1")
+L 08/06/2020 - 04:01:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_intro") (value "0")
+L 08/06/2020 - 04:01:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance_finale") (value "0")
+L 08/06/2020 - 04:01:21: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "versus_witch_chance") (value "1")
+L 08/06/2020 - 04:01:50: [playercommands.smx] "♛ Rain ♛<27><STEAM_1:0:162762726><>" slayed "Smasher Tankㅣ스매쉬탱크<32><BOT><>"
+L 08/06/2020 - 04:03:35: [playercommands.smx] "♛ Rain ♛<27><STEAM_1:0:162762726><>" slayed "Jockey<39><BOT><>"
+L 08/06/2020 - 04:07:15: Log file closed.
+L 08/06/2020 - 04:16:45: SourceMod log file session started (file "L20200806.log") (Version "1.8.0.6041")
+L 08/06/2020 - 04:16:45: -------- Mapchange to c1m2_streets --------
+L 08/06/2020 - 04:16:47: [l4d2_itemgiver.smx] Detected Left4Dead2!
+L 08/06/2020 - 04:16:47: [simplewelcomemsg.smx] Set the maximum number of lines of.
+L 08/06/2020 - 04:17:06: [SM] Changed map to "c1m2_streets"
+L 08/06/2020 - 04:17:11: -------- Mapchange to c1m2_streets --------
+L 08/06/2020 - 04:17:51: [admincheats.smx] <♛ Rain ♛><STEAM_1:0:162762726><loopback> ran cheat command 'z_spawn'
+L 08/06/2020 - 04:17:55: [admincheats.smx] <♛ Rain ♛><STEAM_1:0:162762726><loopback> ran cheat command 'give'
+L 08/06/2020 - 04:17:55: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:17:55: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:17:55: [admincheats.smx] <Nick><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:18:06: [admincheats.smx] <♛ Rain ♛><STEAM_1:0:162762726><loopback> ran cheat command 'give'
+L 08/06/2020 - 04:18:06: [admincheats.smx] <Rochelle><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:18:06: [admincheats.smx] <Ellis><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:18:06: [admincheats.smx] <Nick><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:18:56: [playercommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" slayed "Meteor Tankㅣ운석탱크<6><BOT><>"
+L 08/06/2020 - 04:21:39: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_force_time_of_day") (value "0")
+L 08/06/2020 - 04:21:52: [admincheats.smx] <♛ Rain ♛><STEAM_1:0:162762726><loopback> ran cheat command 'z_spawn'
+L 08/06/2020 - 04:22:14: [admincheats.smx] <♛ Rain ♛><STEAM_1:0:162762726><loopback> ran cheat command 'give'
+L 08/06/2020 - 04:22:15: [admincheats.smx] <♛ Rain ♛><STEAM_1:0:162762726><loopback> ran cheat command 'sb_takecontrol'
+L 08/06/2020 - 04:27:09: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:16: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:16: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:18: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:20: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:24: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:33: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:39: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:43: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:44: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:45: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:45: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:50: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:52: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:54: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:56: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:57: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:58: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:27:59: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:01: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:02: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:03: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:08: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:31: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:34: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:44: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:45: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:45: [admincheats.smx] <♛ Rain ♛><STEAM_1:0:162762726><loopback> ran cheat command 'sb_takecontrol'
+L 08/06/2020 - 04:28:47: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "Rochelle<3><BOT><>"
+L 08/06/2020 - 04:28:50: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:28:57: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:28:57: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:29:10: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:29:11: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:29:17: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:29:17: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:29:17: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:29:18: [admincheats.smx] <Coach><BOT><127.0.0.1> was prevented from running cheat command 'give'
+L 08/06/2020 - 04:29:20: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:29:24: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:29:56: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:29:57: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:29:58: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:29:58: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:16: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:18: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:20: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:20: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:22: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:22: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:23: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:24: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:27: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:27: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:34: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:35: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:37: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:38: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:39: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:45: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:46: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:49: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:51: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:51: [admincheats.smx] <♛ Rain ♛><STEAM_1:0:162762726><loopback> ran cheat command 'sb_takecontrol'
+L 08/06/2020 - 04:30:53: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:30:58: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:22: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:23: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:30: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:31: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:38: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:44: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:47: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:47: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:55: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:57: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:31:58: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:32:02: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:32:15: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:32:15: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:32:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:32:42: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:32:56: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:08: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:10: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:28: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:29: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:29: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:31: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:31: [admincheats.smx] <♛ Rain ♛><STEAM_1:0:162762726><loopback> ran cheat command 'sb_takecontrol'
+L 08/06/2020 - 04:33:33: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:34: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:53: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:54: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:58: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:33:59: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:00: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:00: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:11: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:12: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:17: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:20: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:21: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:22: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:26: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:27: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:34:37: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:35:32: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:35:39: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:36:00: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:36:11: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:36:16: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:36:17: [funcommands.smx] "♛ Rain ♛<2><STEAM_1:0:162762726><>" toggled noclip on "♛ Rain ♛<2><STEAM_1:0:162762726><>"
+L 08/06/2020 - 04:37:26: Log file closed.
